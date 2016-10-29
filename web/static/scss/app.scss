@@ -43,4 +43,19 @@ nav#top-nav {
 
 .meditation-view {
   font-size: 1.2em;
+  .meditation-title {
+    font-family: Georgia, serif;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: 16px;
+  }
+  .meditation-text {
+    font-family: Georgia, serif;
+    text-align: center;
+  }
+  .meditation-actions {
+    margin-top: 16px;
+    padding-top: 8px;
+    border-top: 1px solid $gray-lighter;
+  }
 }
