@@ -16,6 +16,8 @@ config :marc, Marc.Endpoint,
   url: [host: "example.com", port: 80],
   cache_static_manifest: "priv/static/manifest.json"
 
+config :marc, :site_name, "Directing Mind"
+
 # Do not print debug messages in production
 config :logger, level: :info
 

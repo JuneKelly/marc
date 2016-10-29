@@ -13,6 +13,8 @@ config :marc, Marc.Endpoint,
   pubsub: [name: Marc.PubSub,
            adapter: Phoenix.PubSub.PG2]
 
+config :marc, :site_name, "Marc"
+
 # Configures Elixir's Logger
 config :logger, :console,
   format: "$time $metadata[$level] $message\n",

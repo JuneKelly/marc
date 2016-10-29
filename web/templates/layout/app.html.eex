@@ -20,7 +20,7 @@
       <main role="main-content">
 
         <nav id="top-nav" class="navbar navbar-dark bg-inverse">
-          <a href="/" class="navbar-brand">Directing Mind</a>
+          <a href="/" class="navbar-brand"><%= site_name %></a>
           <ul class="nav navbar-nav float-xs-right">
             <li class="nav-item">
               <a href="/about" class="nav-link">About</a>

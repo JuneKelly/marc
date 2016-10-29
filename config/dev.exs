@@ -14,6 +14,7 @@ config :marc, Marc.Endpoint,
   watchers: [node: ["node_modules/brunch/bin/brunch", "watch", "--stdin",
                     cd: Path.expand("../", __DIR__)]]
 
+config :marc, :site_name, "Marc (Dev)"
 
 # Watch static and templates for browser reloading.
 config :marc, Marc.Endpoint,
