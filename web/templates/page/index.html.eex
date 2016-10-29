@@ -6,7 +6,7 @@
         Book <%= @chapter_view.chapter.book %>
       </div>
       <div class="meditation-text">
-        "<%= @chapter_view.chapter.text %>"
+        <%= @chapter_view.chapter.text %>
       </div>
       <div class="meditation-actions">
         <a href="/m/<%= @chapter_view.previous %>" class="float-sm-left">Previous</a>
