@@ -5,11 +5,11 @@ defmodule Marc.Meditations do
 
   # Public API
 
-  def random do
+  def random_chapter do
     GenServer.call __MODULE__, :random
   end
 
-  def get_by_index(index) do
+  def get_chapter_by_index(index) do
     GenServer.call __MODULE__, {:get_by_index, index}
   end
 
@@ -30,20 +30,19 @@ defmodule Marc.Meditations do
             count: Enum.count(chapters)}}
   end
 
-  def handle_call({:get_by_index, index}, _from, %{chapters: chapters}=state) do
-    chapter = get_chapter_view(chapters, index)
+  def handle_call({:get_by_index, index}, _from, state) do
+    chapter = get_chapter_view(state, index)
     {:reply, chapter, state}
   end
 
-  def handle_call(:random, _from, %{chapters: chapters, count: count}=state) do
+  def handle_call(:random, _from, %{count: count}=state) do
     index = :rand.uniform(count - 1)
-    random_chapter = get_chapter_view(chapters, index)
+    random_chapter = get_chapter_view(state, index)
     {:reply, random_chapter, state}
   end
 
   # Private Helpers
-  defp get_chapter_view(chapters, index) do
-    count = Enum.count(chapters)
+  defp get_chapter_view(%{chapters: chapters, count: count}, index) do
     case Enum.at(chapters, index) do
       nil ->
         nil
