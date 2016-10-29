@@ -30,10 +30,13 @@ $link-hover-decoration: underline !default;
 
 body {
   min-height: 400px;
+  background: url("/images/crossword.png") repeat;
 }
 
-nav#top-nav {}
+nav#top-nav {
+  border-radius: 0;
+}
 
 #page-content {
-  margin-top: 14px;
+  margin-top: 16px;
 }

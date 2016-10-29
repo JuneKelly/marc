@@ -19,7 +19,7 @@
          -->
       <main role="main-content">
 
-        <nav id="top-nav" class="navbar navbar-light bg-faded">
+        <nav id="top-nav" class="navbar navbar-dark bg-inverse">
           <a href="/" class="navbar-brand">Directing Mind</a>
           <ul class="nav navbar-nav float-xs-right">
             <li class="nav-item">
