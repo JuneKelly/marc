@@ -3,7 +3,7 @@
 
     <div class="meditation-view">
       <div class="meditation-sign">
-        <%= @chapter_view.chapter.sign %>
+        Book <%= @chapter_view.chapter.book %>
       </div>
       <div class="meditation-text">
         <%= @chapter_view.chapter.text %>
