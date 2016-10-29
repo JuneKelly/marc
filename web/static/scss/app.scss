@@ -28,4 +28,12 @@ $link-hover-decoration: underline !default;
 
 // App styles
 
-body {}
+body {
+  min-height: 400px;
+}
+
+nav#top-nav {}
+
+#page-content {
+  margin-top: 14px;
+}
