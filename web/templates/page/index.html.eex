@@ -1,1 +1,19 @@
-<h1>Hello World</h1>
+<div class="row">
+  <div class="col-md-8 offset-md-2">
+
+    <div class="meditation-view">
+      <div class="meditation-sign">
+        <%= @chapter_view.chapter.sign %>
+      </div>
+      <div class="meditation-text">
+        <%= @chapter_view.chapter.text %>
+      </div>
+      <div class="meditation-actions">
+        <a href="/m/<%= @chapter_view.previous %>" class="float-sm-left">Previous</a>
+        <a href="/m/<%= @chapter_view.next %>" class="float-sm-right">Next</a>
+      </div>
+    </div>
+
+  </div>
+</div>
+</p>

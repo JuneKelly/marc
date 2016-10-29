@@ -25,7 +25,7 @@ defmodule Marc.Meditations do
 
   def init([data_file]) do
     {:ok, raw} = File.read data_file
-    {:ok, chapters} = Poison.decode raw
+    {:ok, chapters} = Poison.decode raw, keys: :atoms
     {:ok, %{chapters: chapters,
             count: Enum.count(chapters)}}
   end
