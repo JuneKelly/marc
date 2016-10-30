@@ -43,18 +43,19 @@ nav#top-nav {
 
 #page-content {
   margin-top: 16px;
+  max-width: 860px;
 }
 
 .meditation-view {
   font-size: 1.2em;
   .meditation-title {
+    text-align: center;
     font-family: Georgia, serif;
     font-weight: bold;
-    text-align: center;
+    margin-bottom: 16px;
   }
   .meditation-text {
     font-family: Georgia, serif;
-    white-space: pre;
     text-align: center;
   }
   .meditation-actions {
