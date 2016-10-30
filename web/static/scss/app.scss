@@ -33,6 +33,10 @@ body {
   background: url("/images/crossword.png") repeat;
 }
 
+.text-center {
+  text-align: center;
+}
+
 nav#top-nav {
   border-radius: 0;
 }
@@ -47,7 +51,6 @@ nav#top-nav {
     font-family: Georgia, serif;
     font-weight: bold;
     text-align: center;
-    margin-bottom: 16px;
   }
   .meditation-text {
     font-family: Georgia, serif;

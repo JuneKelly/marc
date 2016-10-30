@@ -17,6 +17,8 @@ defmodule Marc.Router do
     pipe_through :browser # Use the default browser stack
 
     get "/", PageController, :index
+    get "/c/:index", PageController, :chapter
+
     get "/about", PageController, :about
     get "/status", PageController, :status
   end

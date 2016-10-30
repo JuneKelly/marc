@@ -1,0 +1,18 @@
+<%# params: chapter_view %>
+
+<div class="meditation-view">
+  <div class="meditation-title">
+    Book <%= @chapter_view.chapter.book %>
+  </div>
+  <div class="meditation-text">
+    <%= @chapter_view.chapter.text %>
+  </div>
+  <div class="meditation-actions">
+    <%= if @chapter_view.previous do %>
+      <a href="/c/<%= @chapter_view.previous %>" class="float-sm-left">Previous</a>
+    <% end %>
+    <%= if @chapter_view.next do %>
+      <a href="/c/<%= @chapter_view.next %>" class="float-sm-right">Next</a>
+    <% end %>
+  </div>
+</div>

@@ -6,6 +6,17 @@ defmodule Marc.PageController do
     render conn, "index.html", chapter_view: chapter_view
   end
 
+  def chapter(conn, %{"index" => index}) do
+    {parsed_index, _rest} = Integer.parse(index)
+    case Marc.Meditations.get_chapter_by_index(parsed_index) do
+      nil ->
+        render conn, "chapter_not_found.html"
+      chapter_view ->
+        render conn, "chapter.html", chapter_view: chapter_view
+    end
+
+  end
+
   def about(conn, _params) do
     render conn, "about.html"
   end
