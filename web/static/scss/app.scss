@@ -38,6 +38,7 @@ body {
 }
 
 #main-content {
+  font-size: 1.1em;
   max-width: 800px;
 }
 
@@ -52,7 +53,6 @@ nav#top-nav {
 }
 
 .meditation-view {
-  font-size: 1.2em;
   .meditation-title {
     text-align: center;
     font-family: Georgia, serif;
@@ -62,6 +62,8 @@ nav#top-nav {
   .meditation-text {
     font-family: Georgia, serif;
     text-align: center;
+    padding-left: 8px;
+    padding-right: 8px;
   }
   .meditation-actions {
     margin-top: 16px;
