@@ -2,12 +2,15 @@
 
 <div class="row meditation-view">
   <div class="col-md-8 offset-md-2">
+
     <div class="meditation-title">
       Book <%= @chapter_view.chapter.book %>
     </div>
+
     <div class="meditation-text">
       <%= @chapter_view.chapter.text %>
     </div>
+
     <div class="meditation-actions">
       <%= if @chapter_view.previous do %>
         <a href="/c/<%= @chapter_view.previous %>" class="float-xs-left">Previous</a>
@@ -16,5 +19,6 @@
         <a href="/c/<%= @chapter_view.next %>" class="float-xs-right">Next</a>
       <% end %>
     </div>
+
   </div>
 </div>
