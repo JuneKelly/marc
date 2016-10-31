@@ -17,32 +17,27 @@
       <!-- <p class="alert alert-info" role="alert"><%= get_flash(@conn, :info) %></p>
            <p class="alert alert-danger" role="alert"><%= get_flash(@conn, :error) %></p>
          -->
-      <main role="main-content">
 
+      <div id="main-content" class="container">
+        <nav id="top-nav" class="navbar navbar-light">
+          <a href="/" class="navbar-brand"><%= site_name %></a>
+          <ul class="nav navbar-nav float-xs-right">
+            <li class="nav-item">
+              <a href="/about" class="nav-link">About</a>
+            </li>
+          </ul>
+        </nav>
 
-        <div id="page-content" class="container">
-          <nav id="top-nav" class="navbar navbar-light">
-            <a href="/" class="navbar-brand"><%= site_name %></a>
-            <ul class="nav navbar-nav float-xs-right">
-              <li class="nav-item">
-                <a href="/about" class="nav-link">About</a>
-              </li>
-            </ul>
-          </nav>
+        <div id="page-content" class="row">
+          <div class="col-md-12">
 
-          <div class="row">
-            <div class="col-md-12">
+            <%= render @view_module, @view_template, assigns %>
 
-              <%= render @view_module, @view_template, assigns %>
-
-            </div>
           </div>
-
         </div>
+      </div>
 
-      </main>
-
-    </div> <!-- /container -->
+    </div>
     <script src="<%= static_path(@conn, "/js/app.js") %>"></script>
   </body>
 </html>

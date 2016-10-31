@@ -37,13 +37,18 @@ body {
   text-align: center;
 }
 
+#main-content {
+  max-width: 800px;
+}
+
 nav#top-nav {
   border-radius: 0;
+  padding-left: 0px;
+  padding-right: 0px;
 }
 
 #page-content {
-  margin-top: 16px;
-  max-width: 860px;
+  margin-top: 8px;
 }
 
 .meditation-view {
