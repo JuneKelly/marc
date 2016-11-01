@@ -8,7 +8,9 @@
     </div>
 
     <div class="meditation-text">
-      <%= @chapter_view.chapter.text %>
+      <div class="meditation-text-inner">
+        <%= @chapter_view.chapter.text %>
+      </div>
     </div>
 
     <div class="meditation-actions">

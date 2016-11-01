@@ -18,6 +18,7 @@ $brand-inverse:             $gray-dark !default;
 
 $body-bg:    #fff !default;
 $body-color: $gray-dark !default;
+$background-color: $gray-lightest;
 
 $link-color:            $brand-primary !default;
 $link-decoration:       none !default;
@@ -30,7 +31,8 @@ $link-hover-decoration: underline !default;
 
 body {
   min-height: 400px;
-  background: url("/images/crossword.png") repeat;
+  background-color: $background-color;
+  /* background: url("/images/crossword.png") repeat; */
 }
 
 .text-center {
@@ -38,7 +40,7 @@ body {
 }
 
 #main-content {
-  font-size: 1.1em;
+  /* font-size: 1.1em; */
   max-width: 800px;
 }
 
@@ -52,12 +54,17 @@ nav#top-nav {
   margin-top: 8px;
 }
 
+#main-footer {
+  min-height: 100px;
+}
+
+
 .meditation-view {
   .meditation-title {
     text-align: center;
     font-family: Georgia, serif;
     font-weight: bold;
-    margin-bottom: 16px;
+    margin-bottom: 18px;
   }
   .meditation-text {
     font-family: Georgia, serif;
