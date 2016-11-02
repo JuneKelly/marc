@@ -383,6 +383,8 @@ well satisfied, and from thy heart thankful unto the gods.
 >>>>
 
 
+## END BOOK 1
+
 
 
 ## BOOK 2
@@ -622,6 +624,7 @@ Carnuntzim.
 >>>>
 
 
+## END BOOK 2
 
 
 ## BOOK 3
@@ -965,6 +968,7 @@ to his proper lot and portion.
 >>>>
 
 
+## END BOOK 3
 
 
 ## BOOK 4
@@ -1587,6 +1591,7 @@ dissembling, and ostentation.
 >>>>
 
 
+## END BOOK 4
 
 
 ## BOOK 5
@@ -2152,6 +2157,7 @@ soul, good desires, good actions.
 >>>>
 
 
+## END BOOK 5
 
 
 ## BOOK 6
@@ -2826,6 +2832,7 @@ and how many it hath already buried!
 >>>>
 
 
+## END BOOK 6
 
 
 ## BOOK 7
@@ -3496,6 +3503,7 @@ conduce to thy tranquillity.
 >>>>
 
 
+## END BOOK 7
 
 
 ## BOOK 8
@@ -4216,6 +4224,7 @@ thine own open, and penetrable to any other.
 >>>>
 
 
+## END BOOK 8
 
 
 ## BOOK 9
@@ -4827,6 +4836,7 @@ he was made, and therefore can require no more.
 >>>>
 
 
+## END BOOK 9
 
 
 ## BOOK 10
@@ -5480,6 +5490,7 @@ coachman.
 >>>>
 
 
+## END BOOK 10
 
 
 ## BOOK 11
@@ -5975,6 +5986,7 @@ strive and contend between you?'
 >>>>
 
 
+## END BOOK 11
 
 
 ## BOOK 12
@@ -6389,6 +6401,4 @@ dismisseth thee.
 >>>>
 
 
-
-
-## END
+## END BOOK 12
