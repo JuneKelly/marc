@@ -6,6 +6,7 @@
 ## BOOK 1
 
 
+<<<<
 I. Of my grandfather Verus I have learned to be gentle and meek, and to
 refrain from all anger and passion. From the fame and memory of him that
 begot me I have learned both shamefastness and manlike behaviour. Of my
@@ -15,8 +16,10 @@ diet, and to fly all such excess as is incidental to great wealth. Of my
 great-grandfather, both to frequent public schools and auditories, and
 to get me good and able teachers at home; and that I ought not to think
 much, if upon such occasions, I were at excessive charges.
+>>>>
 
 
+<<<<
 II. Of him that brought me up, not to be fondly addicted to either of
 the two great factions of the coursers in the circus, called Prasini,
 and Veneti: nor in the amphitheatre partially to favour any of the
@@ -24,8 +27,10 @@ gladiators, or fencers, as either the Parmularii, or the Secutores.
 Moreover, to endure labour; nor to need many things; when I have
 anything to do, to do it myself rather than by others; not to meddle
 with many businesses; and not easily to admit of any slander.
+>>>>
 
 
+<<<<
 III. Of Diognetus, not to busy myself about vain things, and not easily
 to believe those things, which are commonly spoken, by such as take upon
 them to work wonders, and by sorcerers, or prestidigitators, and
@@ -37,8 +42,10 @@ thank, that ever I heard first Bacchius, then Tandasis and Marcianus,
 and that I did write dialogues in my youth; and that I took liking to
 the philosophers' little couch and skins, and such other things, which
 by the Grecian discipline are proper to those who profess philosophy.
+>>>>
 
 
+<<<<
 IV. To Rusticus I am beholding, that I first entered into the conceit
 that my life wanted some redress and cure. And then, that I did not
 fall into the ambition of ordinary sophists, either to write tracts
@@ -57,8 +64,10 @@ superficial knowledge, nor quickly to assent to things commonly spoken
 of: whom also I must thank that ever I lighted upon Epictetus his
 Hypomnemata, or moral commentaries and common-factions: which also he
 gave me of his own.
+>>>>
 
 
+<<<<
 V. From Apollonius, true liberty, and unvariable steadfastness, and not
 to regard anything at all, though never so little, but right and reason:
 and always, whether in the sharpest pains, or after the loss of a child,
@@ -74,8 +83,10 @@ kindnesses (as commonly they are accounted:) from friends, so that I
 might not become obnoxious unto them, for them, nor more yielding upon
 occasion, than in right I ought; and yet so that I should not pass them
 neither, as an unsensible and unthankful man.
+>>>>
 
 
+<<<<
 VI. Of Sextus, mildness and the pattern of a family governed with
 paternal affection; and a purpose to live according to nature: to be
 grave without affectation: to observe carefully the several dispositions
@@ -92,36 +103,46 @@ any other passion; able at the same time most exactly to observe the
 Stoic Apathia, or unpassionateness, and yet to be most tender-hearted:
 ever of good credit; and yet almost without any noise, or rumour: very
 learned, and yet making little show.
+>>>>
 
 
+<<<<
 VII. From Alexander the Grammarian, to be un-reprovable myself, and not
 reproachfully to reprehend any man for a barbarism, or a solecism, or
 any false pronunciation, but dextrously by way of answer, or testimony,
 or confirmation of the same matter (taking no notice of the word) to
 utter it as it should have been spoken; or by some other such close and
 indirect admonition, handsomely and civilly to tell him of it.
+>>>>
 
 
+<<<<
 VIII. Of Fronto, to how much envy and fraud and hypocrisy the state of a
 tyrannous king is subject unto, and how they who are commonly called
 [Eupatridas Gk.], i.e. nobly born, are in some sort incapable, or void
 of natural affection.
+>>>>
 
 
+<<<<
 IX. Of Alexander the Platonic, not often nor without great necessity to
 say, or to write to any man in a letter, 'I am not at leisure'; nor in
 this manner still to put off those duties, which we owe to our friends
 and acquaintances (to every one in his kind) under pretence of urgent
 affairs.
+>>>>
 
 
+<<<<
 X. Of Catulus, not to contemn any friend's expostulation, though unjust,
 but to strive to reduce him to his former disposition: freely and
 heartily to speak well of all my masters upon any occasion, as it is
 reported of Domitius, and Athenodotus: and to love my children with true
 affection.
+>>>>
 
 
+<<<<
 XI. From my brother Severus, to be kind and loving to all them of my
 house and family; by whom also I came to the knowledge of Thrasea and
 Helvidius, and Cato, and Dio, and Brutus. He it was also that did put me
@@ -135,8 +156,10 @@ be confident that my friends love me. In whom I moreover observed open
 dealing towards those whom he reproved at any time, and that his friends
 might without all doubt or much observation know what he would, or would
 not, so open and plain was he.
+>>>>
 
 
+<<<<
 XII. From Claudius Maximus, in all things to endeavour to have power
 of myself, and in nothing to be carried about; to be cheerful and
 courageous in all sudden chances and accidents, as in sicknesses: to
@@ -153,8 +176,10 @@ have been rectified or redressed; neither was there any man that ever
 thought himself undervalued by him, or that could find in his heart, to
 think himself a better man than he. He would also be very pleasant and
 gracious.
+>>>>
 
 
+<<<<
 XIII. In my father, I observed his meekness; his constancy without
 wavering in those things, which after a due examination and
 deliberation, he had determined. How free from all vanity he carried
@@ -230,8 +255,10 @@ show themselves weak; and in the fruition, intemperate: but to hold out
 firm and constant, and to keep within the compass of true moderation and
 sobriety in either estate, is proper to a man, who hath a perfect and
 invincible soul; such as he showed himself in the sickness of Maximus.
+>>>>
 
 
+<<<<
 XIV. From the gods I received that I had good grandfathers, and parents,
 a good sister, good masters, good domestics, loving kinsmen, almost all
 that I have; and that I never through haste and rashness transgressed
@@ -292,8 +319,10 @@ practising myself in the solution of arguments and fallacies, nor dwelt
 upon the studies of the meteors, and other natural curiosities. All
 these things without the assistance of the gods, and fortune, could not
 have been.
+>>>>
 
 
+<<<<
 XV. In the country of the Quadi at Granua, these. Betimes in the morning
 say to thyself, This day I shalt have to do with an idle curious man,
 with an unthankful man, a railer, a crafty, false, or an envious man; an
@@ -311,8 +340,10 @@ fellow-workers, as the feet, the hands, and the eyelids; as the rows of
 the upper and under teeth: for such therefore to be in opposition, is
 against nature; and what is it to chafe at, and to be averse from, but
 to be in opposition?
+>>>>
 
 
+<<<<
 XVI. Whatsoever I am, is either flesh, or life, or that which we
 commonly call the mistress and overruling part of man; reason. Away with
 thy books, suffer not thy mind any more to be distracted, and carried to
@@ -328,8 +359,10 @@ unreasonable and unsociable lusts and motions, as it were with wires and
 nerves; suffer it not any more, either to repine at anything now
 present, or to fear and fly anything to come, which the destiny hath
 appointed thee.
+>>>>
 
 
+<<<<
 XVII. Whatsoever proceeds from the gods immediately, that any man will
 grant totally depends from their divine providence. As for those
 things that are commonly said to happen by fortune, even those must be
@@ -347,6 +380,7 @@ these things suffice thee; let them be always unto thee, as thy general
 rules and precepts. As for thy thirst after books, away with it with all
 speed, that thou die not murmuring and complaining, but truly meek and
 well satisfied, and from thy heart thankful unto the gods.
+>>>>
 
 
 
@@ -354,6 +388,7 @@ well satisfied, and from thy heart thankful unto the gods.
 ## BOOK 2
 
 
+<<<<
 I. Remember how long thou hast already put off these things, and how
 often a certain day and hour as it were, having been set unto thee by
 the gods, thou hast neglected it. It is high time for thee to understand
@@ -363,8 +398,10 @@ thou thyself didst flow: and that there is but a certain limit of time
 appointed unto thee, which if thou shalt not make use of to calm and
 allay the many distempers of thy soul, it will pass away and thou with
 it, and never after return.
+>>>>
 
 
+<<<<
 II. Let it be thy earnest and incessant care as a Roman and a man to
 perform whatsoever it is that thou art about, with true and unfeigned
 gravity, natural affection, freedom and justice: and as for all other
@@ -377,15 +414,19 @@ seest that those things, which for a man to hold on in a prosperous
 course, and to live a divine life, are requisite and necessary, are not
 many, for the gods will require no more of any man, that shall but keep
 and observe these things.
+>>>>
 
 
+<<<<
 III. Do, soul, do; abuse and contemn thyself; yet a while and the time
 for thee to respect thyself, will be at an end. Every man's happiness
 depends from himself, but behold thy life is almost at an end, whiles
 affording thyself no respect, thou dost make thy happiness to consist in
 the souls, and conceits of other men.
+>>>>
 
 
+<<<<
 IV. Why should any of these things that happen externally, so much
 distract thee? Give thyself leisure to learn some good thing, and cease
 roving and wandering to and fro. Thou must also take heed of another
@@ -395,16 +436,20 @@ their motions, and desires. V. For not observing the state of another
 man's soul, scarce was ever any man known to be unhappy. Tell whosoever
 they be that intend not, and guide not by reason and discretion the
 motions of their own souls, they must of necessity be unhappy.
+>>>>
 
 
+<<<<
 VI. These things thou must always have in mind: What is the nature
 of the universe, and what is mine--in particular: This unto that what
 relation it hath: what kind of part, of what kind of universe it is: And
 that there is nobody that can hinder thee, but that thou mayest always
 both do and speak those things which are agreeable to that nature,
 whereof thou art a part.
+>>>>
 
 
+<<<<
 VII. Theophrastus, where he compares sin with sin (as after a vulgar
 sense such things I grant may be compared:) says well and like a
 philosopher, that those sins are greater which are committed through
@@ -418,8 +463,10 @@ that sins with grief. For indeed this latter may seem first to have been
 wronged, and so in some manner through grief thereof to have been forced
 to be angry, whereas he who through lust doth commit anything, did of
 himself merely resolve upon that action.
+>>>>
 
 
+<<<<
 VIII. Whatsoever thou dost affect, whatsoever thou dost project, so do,
 and so project all, as one who, for aught thou knowest, may at this very
 present depart out of this life. And as for death, if there be any gods,
@@ -445,8 +492,10 @@ labour and pleasure, riches and poverty, all these things happen
 unto men indeed, both good and bad, equally; but as things which of
 themselves are neither good nor bad; because of themselves, neither
 shameful nor praiseworthy.
+>>>>
 
 
+<<<<
 IX. Consider how quickly all things are dissolved and resolved: the
 bodies and substances themselves, into the matter and substance of the
 world: and their memories into the general age and time of the world.
@@ -455,8 +504,10 @@ which either ensnare by pleasure, or for their irksomeness are dreadful,
 or for their outward lustre and show are in great esteem and request,
 how vile and contemptible, how base and corruptible, how destitute of
 all true life and being they are.
+>>>>
 
 
+<<<<
 X. It is the part of a man endowed with a good understanding faculty, to
 consider what they themselves are in very deed, from whose bare conceits
 and voices, honour and credit do proceed: as also what it is to die, and
@@ -466,8 +517,10 @@ themselves unto us, he can conceive of it no otherwise, than as of a
 work of nature, and he that fears any work of nature, is a very child.
 Now death, it is not only a work of nature, but also conducing to
 nature.
+>>>>
 
 
+<<<<
 XI. Consider with thyself how man, and by what part of his, is joined
 unto God, and how that part of man is affected, when it is said to be
 diffused. There is nothing more wretched than that soul, which in a kind
@@ -486,8 +539,10 @@ be entertained, with love, always; sometimes, as proceeding from their
 ignorance, of that which is truly good and bad, (a blindness no less,
 than that by which we are not able to discern between white and black:)
 with a kind of pity and compassion also.
+>>>>
 
 
+<<<<
 XII. If thou shouldst live three thousand, or as many as ten thousands
 of years, yet remember this, that man can part with no life properly,
 save with that little part of life, which he now lives: and that which
@@ -510,15 +565,19 @@ longest liver, or the shortest liver parts with, is for length and
 duration the very same, for that only which is present, is that, which
 either of them can lose, as being that only which they have; for that
 which he hath not, no man can truly be said to lose.
+>>>>
 
 
+<<<<
 XIII. Remember that all is but opinion and conceit, for those things
 are plain and apparent, which were spoken unto Monimus the Cynic; and as
 plain and apparent is the use that may be made of those things, if that
 which is true and serious in them, be received as well as that which is
 sweet and pleasing.
+>>>>
 
 
+<<<<
 XIV. A man's soul doth wrong and disrespect itself first and especially,
 when as much as in itself lies it becomes an aposteme, and as it were an
 excrescency of the world, for to be grieved and displeased with anything
@@ -535,8 +594,10 @@ is to the common end. For even the least things ought not to be done,
 without relation unto the end; and the end of the reasonable creatures
 is, to follow and obey him, who is the reason as it were, and the law of
 this great city, and ancient commonwealth.
+>>>>
 
 
+<<<<
 XV. The time of a man's life is as a point; the substance of it ever
 flowing, the sense obscure; and the whole composition of the body
 tending to corruption. His soul is restless, fortune uncertain, and fame
@@ -558,6 +619,7 @@ another, that dissolution, and alteration, which is so common unto all,
 why should it be feared by any? Is not this according to nature? But
 nothing that is according to nature can be evil, whilst I was at
 Carnuntzim.
+>>>>
 
 
 
@@ -565,6 +627,7 @@ Carnuntzim.
 ## BOOK 3
 
 
+<<<<
 I. A man must not only consider how daily his life wasteth and
 decreaseth, but this also, that if he live long, he cannot be certain,
 whether his understanding shall continue so able and sufficient,
@@ -584,8 +647,10 @@ nearer unto death than other, but also because that intellective faculty
 in thee, whereby thou art enabled to know the true nature of things, and
 to order all thy actions by that knowledge, doth daily waste and decay:
 or, may fail thee before thou die.
+>>>>
 
 
+<<<<
 II. This also thou must observe, that whatsoever it is that naturally
 doth happen to things natural, hath somewhat in itself that is pleasing
 and delightful: as a great loaf when it is baked, some parts of it
@@ -613,8 +678,10 @@ and continent eyes he will soon find out and discern. Those and many
 other things will he discern, not credible unto every one, but unto them
 only who are truly and familiarly acquainted, both with nature itself,
 and all natural things.
+>>>>
 
 
+<<<<
 III. Hippocrates having cured many sicknesses, fell sick himself and
 died. The Chaldeans and Astrologians having foretold the deaths of
 divers, were afterwards themselves surprised by the fates. Alexander and
@@ -632,8 +699,10 @@ thou cease also to be subject to either pains or pleasures; and to serve
 and tend this vile cottage; so much the viler, by how much that which
 ministers unto it doth excel; the one being a rational substance, and a
 spirit, the other nothing but earth and blood.
+>>>>
 
 
+<<<<
 IV. Spend not the remnant of thy days in thoughts and fancies concerning
 other men, when it is not in relation to some common good, when by it
 thou art hindered from some other better work. That is, spend not thy
@@ -682,8 +751,10 @@ conditions, or with men of what conditions they moil and pass away
 the time together, he knoweth, and remembers right well, he therefore
 regards not such praise and approbation, as proceeding from them, who
 cannot like and approve themselves.
+>>>>
 
 
+<<<<
 V. Do nothing against thy will, nor contrary to the community, nor
 without due examination, nor with reluctancy. Affect not to set out thy
 thoughts with curious neat language. Be neither a great talker, nor a
@@ -694,14 +765,18 @@ one that expecteth, as it were, nothing but the sound of the trumpet,
 sounding a retreat to depart out of this life with all expedition. One
 who for his word or actions neither needs an oath, nor any man to be a
 witness.
+>>>>
 
 
+<<<<
 VI. To be cheerful, and to stand in no need, either of other men's help
 or attendance, or of that rest and tranquillity, which thou must be
 beholding to others for. Rather like one that is straight of himself, or
 hath ever been straight, than one that hath been rectified.
+>>>>
 
 
+<<<<
 VII. If thou shalt find anything in this mortal life better than
 righteousness, than truth, temperance, fortitude, and in general better
 than a mind contented both with those things which according to right
@@ -733,8 +808,10 @@ man, stand thou to it, and maintain it; but if they mean profitable, as
 he is a creature, only reject it; and from this thy tenet and conclusion
 keep off carefully all plausible shows and colours of external
 appearance, that thou mayest be able to discern things rightly.
+>>>>
 
 
+<<<<
 VIII. Never esteem of anything as profitable, which shall ever constrain
 thee either to break thy faith, or to lose thy modesty; to hate any man,
 to suspect, to curse, to dissemble, to lust after anything, that
@@ -749,8 +826,10 @@ now he were to depart, he is as ready for it, as for any other action,
 which may be performed with modesty and decency. For all his life long,
 this is his only care, that his mind may always be occupied in such
 intentions and objects, as are proper to a rational sociable creature.
+>>>>
 
 
+<<<<
 IX. In the mind that is once truly disciplined and purged, thou canst
 not find anything, either foul or impure, or as it were festered:
 nothing that is either servile, or affected: no partial tie; no
@@ -758,8 +837,10 @@ malicious averseness; nothing obnoxious; nothing concealed. The life of
 such an one, death can never surprise as imperfect; as of an actor, that
 should die before he had ended, or the play itself were at an end, a man
 might speak.
+>>>>
 
 
+<<<<
 X. Use thine opinative faculty with all honour and respect, for in
 her indeed is all: that thy opinion do not beget in thy understanding
 anything contrary to either nature, or the proper constitution of a
@@ -777,8 +858,10 @@ is, is by the succession of silly mortal men preserved, who likewise
 shall shortly die, and even whiles they live know not what in very deed
 they themselves are: and much less can know one, who long before is dead
 and gone.
+>>>>
 
 
+<<<<
 XI. To these ever-present helps and mementoes, let one more be added,
 ever to make a particular description and delineation as it were of
 every object that presents itself to thy mind, that thou mayest wholly
@@ -795,8 +878,10 @@ of this universe, to which it is useful? how much in regard of the
 universe may it be esteemed? how much in regard of man, a citizen of the
 supreme city, of which all other cities in the world are as it were but
 houses and families?
+>>>>
 
 
+<<<<
 XII. What is this, that now my fancy is set upon? of what things doth
 it consist? how long can it last? which of all the virtues is the proper
 virtue for this present use? as whether meekness, fortitude, truth,
@@ -810,8 +895,10 @@ it, and therefore carry myself towards him according to the natural law
 of fellowship; that is kindly, and justly. As for those things that of
 themselves are altogether indifferent, as in my best judgment I conceive
 everything to deserve more or less, so I carry myself towards it.
+>>>>
 
 
+<<<<
 XIII. If thou shalt intend that which is present, following the rule of
 right and reason carefully, solidly, meekly, and shalt not intermix
 any other businesses, but shall study this only to preserve thy spirit
@@ -819,8 +906,10 @@ unpolluted, and pure, and shall cleave unto him without either hope
 or fear of anything, in all things that thou shalt either do or speak,
 contenting thyself with heroical truth, thou shalt live happily; and
 from this, there is no man that can hinder thee.
+>>>>
 
 
+<<<<
 XIV. As physicians and chirurgeons have always their instruments ready
 at hand for all sudden cures; so have thou always thy dogmata in a
 readiness for the knowledge of things, both divine and human: and
@@ -829,24 +918,30 @@ must ever remember that mutual relation, and connection that is between
 these two things divine, and things human. For without relation unto
 God, thou shalt never speed in any worldly actions; nor on the other
 side in any divine, without some respect had to things human.
+>>>>
 
 
+<<<<
 XV. Be not deceived; for thou shalt never live to read thy moral
 commentaries, nor the acts of the famous Romans and Grecians; nor those
 excerpta from several books; all which thou hadst provided and laid
 up for thyself against thine old age. Hasten therefore to an end, and
 giving over all vain hopes, help thyself in time if thou carest for
 thyself, as thou oughtest to do.
+>>>>
 
 
+<<<<
 XVI. To steal, to sow, to buy, to be at rest, to see what is to be done
 (which is not seen by the eyes, but by another kind of sight:) what
 these words mean, and how many ways to be understood, they do not
 understand. The body, the soul, the understanding. As the senses
 naturally belong to the body, and the desires and affections to the
 soul, so do the dogmata to the understanding.
+>>>>
 
 
+<<<<
 XVII. To be capable of fancies and imaginations, is common to man and
 beast. To be violently drawn and moved by the lusts and desires of the
 soul, is proper to wild beasts and monsters, such as Phalaris and Nero
@@ -867,6 +962,7 @@ for it, nor diverted by it from the way that leadeth to the end of his
 life, through which a man must pass pure, ever ready to depart, and
 willing of himself without any compulsion to fit and accommodate himself
 to his proper lot and portion.
+>>>>
 
 
 
@@ -874,6 +970,7 @@ to his proper lot and portion.
 ## BOOK 4
 
 
+<<<<
 I. That inward mistress part of man if it be in its own true natural
 temper, is towards all worldly chances and events ever so disposed and
 affected, that it will easily turn and apply itself to that which may
@@ -887,12 +984,16 @@ prevails upon those things that are in his way; by which things indeed a
 little fire would have been quenched, but a great fire doth soon turn to
 its own nature, and so consume whatsoever comes in his way: yea by those
 very things it is made greater and greater.
+>>>>
 
 
+<<<<
 II. Let nothing be done rashly, and at random, but all things according
 to the most exact and perfect rules of art.
+>>>>
 
 
+<<<<
 III. They seek for themselves private retiring
 places, as country villages, the sea-shore, mountains; yea thou thyself
 art wont to long much after such places. But all this thou must know
@@ -951,8 +1052,10 @@ while be changed, and be no more: and ever call to mind, how many
 changes and alterations in the world thou thyself hast already been an
 eyewitness of in thy time. This world is mere change, and this life,
 opinion.
+>>>>
 
 
+<<<<
 IV. If to understand and to be reasonable be common unto all men, then
 is that reason, for which we are termed reasonable, common unto all. If
 reason is general, then is that reason also, which prescribeth what is
@@ -968,32 +1071,40 @@ likewise which is dry and fiery in me: (for there is nothing which doth
 not proceed from something; as also there is nothing that can be reduced
 unto mere nothing:) so also is there some common beginning from whence
 my understanding hath proceeded.
+>>>>
 
 
+<<<<
 V. As generation is, so also death, a secret of nature's wisdom: a
 mixture of elements, resolved into the same elements again, a thing
 surely which no man ought to be ashamed of: in a series of other fatal
 events and consequences, which a rational creature is subject unto,
 not improper or incongruous, nor contrary to the natural and proper
 constitution of man himself.
+>>>>
 
 
+<<<<
 VI. Such and such things, from such and such causes, must of necessity
 proceed. He that would not have such things to happen, is as he that
 would have the fig-tree grow without any sap or moisture. In sum,
 remember this, that within a very little while, both thou and he shall
 both be dead, and after a little while more, not so much as your names
 and memories shall be remaining.
+>>>>
 
 
+<<<<
 VII. Let opinion be taken away, and no man will think himself wronged.
 If no man shall think himself wronged, then is there no more any such
 thing as wrong. That which makes not man himself the worse, cannot
 make his life the worse, neither can it hurt him either inwardly
 or outwardly. It was expedient in nature that it should be so, and
 therefore necessary.
+>>>>
 
 
+<<<<
 VIII. Whatsoever doth happen in the world, doth happen justly, and so if
 thou dost well take heed, thou shalt find it. I say not only in right
 order by a series of inevitable consequences, but according to justice
@@ -1002,13 +1113,17 @@ of everything. Continue then to take notice of it, as thou hast begun,
 and whatsoever thou dost, do it not without this proviso, that it be a
 thing of that nature that a good man (as the word good is properly
 taken) may do it. This observe carefully in every action.
+>>>>
 
 
+<<<<
 IX. Conceit no such things, as he that wrongeth thee conceiveth,
 or would have thee to conceive, but look into the matter itself, and see
 what it is in very truth.
+>>>>
 
 
+<<<<
 X. These two rules, thou must have always in a readiness. First, do
 nothing at all, but what reason proceeding from that regal and supreme
 part, shall for the good and benefit of men, suggest unto thee. And
@@ -1018,38 +1133,50 @@ change thy mind, and this change to proceed, not from any respect of any
 pleasure or credit thereon depending, but always from some probable
 apparent ground of justice, or of some public good thereby to be
 furthered; or from some other such inducement.
+>>>>
 
 
+<<<<
 XI. Hast thou reason? I have. Why then makest thou not use of it? For if
 thy reason do her part, what more canst thou require?
+>>>>
 
 
+<<<<
 XII. As a part hitherto thou hast had a particular subsistence: and now
 shalt thou vanish away into the common substance of Him, who first begot
 thee, or rather thou shalt be resumed again into that original rational
 substance, out of which all others have issued, and are propagated.
 Many small pieces of frankincense are set upon the same altar, one drops
 first and is consumed, another after; and it comes all to one.
+>>>>
 
 
+<<<<
 XIII. Within ten days, if so happen, thou shalt be esteemed a god of
 them, who now if thou shalt return to the dogmata and to the honouring
 of reason, will esteem of thee no better than of a mere brute, and of an
 ape.
+>>>>
 
 
+<<<<
 XIV. Not as though thou hadst thousands of years to live. Death hangs
 over thee: whilst yet thou livest, whilst thou mayest, be good.
+>>>>
 
 
+<<<<
 XV. Now much time and leisure doth he gain, who is not curious to know
 what his neighbour hath said, or hath done, or hath attempted, but only
 what he doth himself, that it may be just and holy? or to express it in
 Agathos' words, Not to look about upon the evil conditions of others,
 but to run on straight in the line, without any loose and extravagant
 agitation.
+>>>>
 
 
+<<<<
 XVI. He who is greedy of credit and reputation after his death, doth
 not consider, that they themselves by whom he is remembered, shall soon
 after every one of them be dead; and they likewise that succeed those;
@@ -1075,8 +1202,10 @@ because commended; or dispraised suffers any damage? Doth the emerald
 become worse in itself, or more vile if it be not commended? Doth gold,
 or ivory, or purple? Is there anything that doth though never so common,
 as a knife, a flower, or a tree?
+>>>>
 
 
+<<<<
 XVII. If so be that the souls remain after death (say they that will not
 believe it); how is the air from all eternity able to contain them? How
 is the earth (say I) ever from that time able to Contain the bodies
@@ -1097,13 +1226,17 @@ of the eaters, yet is the same place and body able to contain them, by
 reason of their conversion, partly into blood, partly into air and fire.
 What in these things is the speculation of truth? to divide things into
 that which is passive and material; and that which is active and formal.
+>>>>
 
 
+<<<<
 XVIII. Not to wander out of the way, but upon every motion and desire,
 to perform that which is just: and ever to be careful to attain to the
 true natural apprehension of every fancy, that presents itself.
+>>>>
 
 
+<<<<
 XIX. Whatsoever is expedient unto thee, O World, is expedient unto me;
 nothing can either be 'unseasonable unto me, or out of date, which unto
 thee is seasonable. Whatsoever thy seasons bear, shall ever by me be
@@ -1111,8 +1244,10 @@ esteemed as happy fruit, and increase. O Nature! from thee are all
 things, in thee all things subsist, and to thee all tend. Could he say
 of Athens, Thou lovely city of Cecrops; and shalt not thou say of the
 world, Thou lovely city of God?
+>>>>
 
 
+<<<<
 XX. They will say commonly, Meddle not with many things, if thou wilt
 live cheerfully. Certainly there is nothing better, than for a man
 to confine himself to necessary actions; to such and so many only, as
@@ -1128,8 +1263,10 @@ number of unnecessary actions? Neither must he use himself to cut off
 actions only, but thoughts and imaginations also, that are unnecessary
 for so will unnecessary consequent actions the better be prevented and
 cut off.
+>>>>
 
 
+<<<<
 XXI. Try also how a good man's life; (of one, who is well pleased with
 those things whatsoever, which among the common changes and chances of
 this world fall to his own lot and share; and can live well contented
@@ -1145,8 +1282,10 @@ series of all other things that have, or shall happen, was destinated
 and appointed unto thee. To comprehend all in a few words, our life is
 short; we must endeavour to gain the present time with best discretion
 and justice. Use recreation with sobriety.
+>>>>
 
 
+<<<<
 XXII. Either this world is a kosmoz or comely piece, because all
 disposed and governed by certain order: or if it be a mixture, though
 confused, yet still it is a comely piece. For is it possible that in
@@ -1155,16 +1294,20 @@ there should be nothing but disorder and confusion? and all things in it
 too, by natural different properties one from another differenced and
 distinguished; and yet all through diffused, and by natural sympathy,
 one to another united, as they are?
+>>>>
 
 
+<<<<
 XXIII. A black or malign disposition, an effeminate disposition; an
 hard inexorable disposition, a wild inhuman disposition, a sheepish
 disposition, a childish disposition; a blockish, a false, a scurril, a
 fraudulent, a tyrannical: what then? If he be a stranger in the world,
 that knows not the things that are in it; why not be a stranger as well,
 that wonders at the things that are done in it?
+>>>>
 
 
+<<<<
 XXIV. He is a true fugitive, that flies from reason, by which men are
 sociable. He blind, who cannot see with the eyes of his understanding.
 He poor, that stands in need of another, and hath not in himself all
@@ -1175,22 +1318,28 @@ rational administration. For the same nature it is that brings this
 unto thee, whatsoever it be, that first brought thee into the world. He
 raises sedition in the city, who by irrational actions withdraws his own
 soul from that one and common soul of all rational creatures.
+>>>>
 
 
+<<<<
 XXV. There is, who without so much as a coat; and there is, who without
 so much as a book, doth put philosophy in practice. I am half naked,
 neither have I bread to eat, and yet I depart not from reason, saith
 one. But I say; I want the food of good teaching, and instructions, and
 yet I depart not from reason.
+>>>>
 
 
+<<<<
 XXVI. What art and profession soever thou hast learned, endeavour to
 affect it, and comfort thyself in it; and pass the remainder of thy life
 as one who from his whole heart commits himself and whatsoever belongs
 unto him, unto the gods: and as for men, carry not thyself either
 tyrannically or servilely towards any.
+>>>>
 
 
+<<<<
 XXVII. Consider in my mind, for example's sake, the times of Vespasian:
 thou shalt see but the same things: some marrying, some bringing up
 children, some sick, some dying, some fighting, some feasting, some
@@ -1212,8 +1361,10 @@ constitution did require. And here thou must remember, that thy carriage
 in every business must be according to the worth and due proportion of
 it, for so shalt thou not easily be tired out and vexed, if thou shalt
 not dwell upon small matters longer than is fitting.
+>>>>
 
 
+<<<<
 XXVIII. Those words which once were common and ordinary, are now become
 obscure and obsolete; and so the names of men once commonly known and
 famous, are now become in a manner obscure and obsolete names. Camillus,
@@ -1233,8 +1384,10 @@ fountain, from which both thou thyself and all things are.
 Willingly therefore, and wholly surrender up thyself unto that fatal
 concatenation, yielding up thyself unto the fates, to be disposed of at
 their pleasure.
+>>>>
 
 
+<<<<
 XXIX. Whatsoever is now present, and from day to day hath its existence;
 all objects of memories, and the minds and memories themselves,
 incessantly consider, all things that are, have their being by change
@@ -1244,21 +1397,27 @@ those things that are, and in making others like unto them. So that we
 may say, that whatsoever is, is but as it were the seed of that which
 shall be. For if thou think that that only is seed, which either the
 earth or the womb receiveth, thou art very simple.
+>>>>
 
 
+<<<<
 XXX. Thou art now ready to die, and yet hast thou not attained to
 that perfect simplicity: thou art yet subject to many troubles and
 perturbations; not yet free from all fear and suspicion of external
 accidents; nor yet either so meekly disposed towards all men, as thou
 shouldest; or so affected as one, whose only study and only wisdom is,
 to be just in all his actions.
+>>>>
 
 
+<<<<
 XXXI. Behold and observe, what is the state of their rational part; and
 those that the world doth account wise, see what things they fly and are
 afraid of; and what things they hunt after.
+>>>>
 
 
+<<<<
 XXXII. In another man's mind and understanding thy evil Cannot subsist,
 nor in any proper temper or distemper of the natural constitution of thy
 body, which is but as it were the coat or cottage of thy soul. Wherein
@@ -1272,28 +1431,36 @@ may happen to a wicked man, and to a good man, is neither good nor evil.
 For that which happens equally to him that lives according to nature,
 and to him that doth not, is neither according to nature, nor against
 it; and by consequent, neither good nor bad.
+>>>>
 
 
+<<<<
 XXXIII. Ever consider and think upon the world as being but one living
 substance, and having but one soul, and how all things in the world, are
 terminated into one sensitive power; and are done by one general motion
 as it were, and deliberation of that one soul; and how all things that
 are, concur in the cause of one another's being, and by what manner of
 connection and concatenation all things happen.
+>>>>
 
 
+<<<<
 XXXIV. What art thou, that better and divine part excepted, but as
 Epictetus said well, a wretched soul, appointed to carry a carcass up
 and down?
+>>>>
 
 
+<<<<
 XXXV. To suffer change can be no hurt; as no benefit it is, by change to
 attain to being. The age and time of the world is as it were a flood and
 swift current, consisting of the things that are brought to pass in
 the world. For as soon as anything hath appeared, and is passed away,
 another succeeds, and that also will presently out of sight.
+>>>>
 
 
+<<<<
 XXXVI. Whatsoever doth happen in the world, is, in the course of nature,
 as usual and ordinary as a rose in the spring, and fruit in summer. Of
 the same nature is sickness and death; slander, and lying in wait, and
@@ -1305,8 +1472,10 @@ independent number, consisting merely of necessary events; but as a
 discreet connection of things orderly and harmoniously disposed. There
 is then to be seen in the things of the world, not a bare succession,
 but an admirable correspondence and affinity.
+>>>>
 
 
+<<<<
 XXXVII. Let that of Heraclitus never be out of thy mind, that the death
 of earth, is water, and the death of water, is air; and the death of
 air, is fire; and so on the contrary. Remember him also who was ignorant
@@ -1320,16 +1489,20 @@ opinion and bare imagination: for then we think we speak and do, and
 that we must not be as children, who follow their father's example;
 for best reason alleging their bare successive tradition from our
 forefathers we have received it.
+>>>>
 
 
+<<<<
 XXXVIII. Even as if any of the gods should tell thee, Thou shalt
 certainly die to-morrow, or next day, thou wouldst not, except thou wert
 extremely base and pusillanimous, take it for a great benefit, rather
 to die the next day after, than to-morrow; (for alas, what is the
 difference!) so, for the same reason, think it no great matter to die
 rather many years after, than the very next day.
+>>>>
 
 
+<<<<
 XXXIX. Let it be thy perpetual meditation, how many physicians who
 once looked so grim, and so theatrically shrunk their brows upon their
 patients, are dead and gone themselves. How many astrologers, after that
@@ -1353,13 +1526,17 @@ ashes. Thus must thou according to truth and nature, throughly consider
 how man's life is but for a very moment of time, and so depart meek and
 contented: even as if a ripe olive falling should praise the ground that
 bare her, and give thanks to the tree that begat her.
+>>>>
 
 
+<<<<
 XL. Thou must be like a promontory of the sea, against which though
 the waves beat continually, yet it both itself stands, and about it are
 those swelling waves stilled and quieted.
+>>>>
 
 
+<<<<
 XLI. Oh, wretched I, to whom this mischance is happened! nay, happy I,
 to whom this thing being happened, I can continue without grief; neither
 wounded by that which is present, nor in fear of that which is to come.
@@ -1379,8 +1556,10 @@ remember henceforth to make use of this dogma, that whatsoever it is
 that hath happened unto thee, is in very deed no such thing of itself,
 as a misfortune; but that to bear it generously, is certainly great
 happiness.
+>>>>
 
 
+<<<<
 XLII. It is but an ordinary coarse one, yet it is a good effectual
 remedy against the fear of death, for a man to consider in his mind the
 examples of such, who greedily and covetously (as it were) did for a
@@ -1396,13 +1575,16 @@ behold, what an infinite chaos of time doth present itself unto thee;
 and as infinite a chaos, if thou shalt look forward. In that which is
 so infinite, what difference can there be between that which liveth but
 three days, and that which liveth three ages?
+>>>>
 
 
+<<<<
 XLIII. Let thy course ever be the most compendious way. The most
 compendious, is that which is according to nature: that is, in all both
 words and deeds, ever to follow that which is most sound and perfect.
 For such a resolution will free a man from all trouble, strife,
 dissembling, and ostentation.
+>>>>
 
 
 
@@ -1410,6 +1592,7 @@ dissembling, and ostentation.
 ## BOOK 5
 
 
+<<<<
 I. In the morning when thou findest thyself unwilling to rise, consider
 with thyself presently, it is to go about a man's work that I am stirred
 up. Am I then yet unwilling to go about that, for which I myself was
@@ -1439,13 +1622,17 @@ can be content to want their meat and sleep, to further that every one
 which he affects: and shall actions tending to the common good of
 human society, seem more vile unto thee, or worthy of less respect and
 intention?
+>>>>
 
 
+<<<<
 II. How easy a thing is it for a man to put off from him all turbulent
 adventitious imaginations, and presently to be in perfect rest and
 tranquillity!
+>>>>
 
 
+<<<<
 III. Think thyself fit and worthy to speak, or to do anything that is
 according to nature, and let not the reproach, or report of some that
 may ensue upon it, ever deter thee. If it be right and honest to be
@@ -1455,8 +1642,10 @@ their own proper inclination: which thou must not stand and look
 about to take notice of, but go on straight, whither both thine own
 particular, and the common nature do lead thee; and the way of both
 these, is but one.
+>>>>
 
 
+<<<<
 IV. I continue my course by actions according to nature, until I
 fall and cease, breathing out my last breath into that air, by which
 continually breathed in I did live; and falling upon that earth, out of
@@ -1465,8 +1654,10 @@ blood, and my nurse her milk, out of which for so many years I have
 been provided, both of meat and drink. And lastly, which beareth me that
 tread upon it, and beareth with me that so many ways do abuse it, or
 so freely make use of it, so many ways to so many ends.
+>>>>
 
 
+<<<<
 V. No man can admire thee for thy sharp acute language, such is thy
 natural disability that way. Be it so: yet there be many other good
 things, for the want of which thou canst not plead the want or natural
@@ -1486,8 +1677,10 @@ been rid long ago: only, this thou must have been contented with, to
 have borne the blame of one that is somewhat slow and dull, wherein thou
 must so exercise thyself, as one who neither doth much take to heart
 this his natural defect, nor yet pleaseth himself in it.
+>>>>
 
 
+<<<<
 VI. Such there be, who when they have done a good turn to any, are ready
 to set them on the score for it, and to require retaliation. Others
 there be, who though they stand not upon retaliation, to require any,
@@ -1515,14 +1708,18 @@ art thou one of those first, whom I mentioned. For they also are led by
 a probable appearance of reason. But if thou dost desire to understand
 truly what it is that is said, fear not that thou shalt therefore give
 over any sociable action.
+>>>>
 
 
+<<<<
 VII. The form of the Athenians' prayer did run thus: 'O rain, rain, good
 Jupiter, upon all the grounds and fields that belong to the Athenians.'
 Either we should not pray at all, or thus absolutely and freely; and not
 every one for himself in particular alone.
+>>>>
 
 
+<<<<
 VIII. As we say commonly, The physician hath prescribed unto this man,
 riding; unto another, cold baths; unto a third, to go barefoot: so it is
 alike to say, The nature of the universe hath prescribed unto this man
@@ -1571,8 +1768,10 @@ of causes, is maintained and preserved. Of which certain it is,
 that thou doest (as much as lieth in thee) cut off, and in some sort
 violently take somewhat away, as often as thou art displeased with
 anything that happeneth.
+>>>>
 
 
+<<<<
 IX. Be not discontented, be not disheartened, be not out of hope, if
 often it succeed not so well with thee punctually and precisely to do
 all things according to the right dogmata, but being once cast off,
@@ -1617,8 +1816,10 @@ of the substances and time; both of the motions themselves, and things
 moved; what it is that we can fasten upon; either to honour, and respect
 especially; or seriously, and studiously to seek after; I cannot so much
 as conceive For indeed they are things contrary.
+>>>>
 
 
+<<<<
 X. Thou must comfort thyself in the expectation of thy natural
 dissolution, and in the meantime not grieve at the delay; but rest
 contented in those two things. First, that nothing shall happen unto
@@ -1626,16 +1827,20 @@ thee, which is not according to the nature of the universe. Secondly,
 that it is in thy power, to do nothing against thine own proper God, and
 inward spirit. For it is not in any man's power to constrain thee to
 transgress against him.
+>>>>
 
 
+<<<<
 XI. What is the use that now at this present I make of my soul? Thus
 from time to time and upon all occasions thou must put this question to
 thyself; what is now that part of mine which they call the rational
 mistress part, employed about? Whose soul do I now properly possess? a
 child's? or a youth's? a woman's? or a tyrant's? some brute, or some
 wild beast's soul?
+>>>>
 
 
+<<<<
 XII. What those things are in themselves, which by the greatest part are
 esteemed good, thou mayest gather even from this. For if a man shall
 hear things mentioned as good, which are really good indeed, such as are
@@ -1656,8 +1861,10 @@ had not in all the world of their own, (such was their affluence and
 plenty) so much as a place where to avoid their excrements. Whether, I
 say, those ought not also in very deed to be much respected, and
 esteemed of, as the only things that are truly good.
+>>>>
 
 
+<<<<
 XIII. All that I consist of, is either form or matter. No corruption can
 reduce either of these unto nothing: for neither did I of nothing become
 a subsistent creature. Every part of mine then will by mutation be
@@ -1667,8 +1874,10 @@ became what I am, and so did they that begot me, and they before them,
 and so upwards in infinitum. For so we may be allowed to speak, though
 the age and government of the world, be to some certain periods of time
 limited, and confined.
+>>>>
 
 
+<<<<
 XIV. Reason, and rational power, are faculties which content themselves
 with themselves, and their own proper operations. And as for their first
 inclination and motion, that they take from themselves. But their
@@ -1692,8 +1901,10 @@ deprive himself of any of them. But we see contrariwise, that the more a
 man doth withdraw himself from these wherein external pomp and greatness
 doth consist, or any other like these; or the better he doth bear with
 the loss of these, the better he is accounted.
+>>>>
 
 
+<<<<
 XV. Such as thy thoughts and ordinary cogitations are, such will thy
 mind be in time. For the soul doth as it were receive its tincture from
 the fancies, and imaginations. Dye it therefore and thoroughly soak it
@@ -1711,8 +1922,10 @@ inferior, is ordinarily subordinated to that which is better? and that
 those things that are best, are made one for another? And those things
 that have souls, are better than those that have none? and of those that
 have, those best that have rational souls?
+>>>>
 
 
+<<<<
 XVI. To desire things impossible is the part of a mad man. But it is a
 thing impossible, that wicked man should not commit some such things.
 Neither doth anything happen to any man, which in the ordinary course
@@ -1728,8 +1941,10 @@ ways either affect it, or move it. For she herself alone can affect and
 move herself, and according as the dogmata and opinions are, which she
 doth vouchsafe herself; so are those things which, as accessories, have
 any co-existence with her.
+>>>>
 
 
+<<<<
 XVII. After one consideration, man is nearest unto us; as we are bound
 to do them good, and to bear with them. But as he may oppose any of our
 true proper actions, so man is unto me but as a thing indifferent: even
@@ -1743,16 +1958,20 @@ occasion serves, it doth observe. For by these the mind doth turn and
 convert any impediment whatsoever, to be her aim and purpose. So that
 what before was the impediment, is now the principal object of her
 working; and that which before was in her way, is now her readiest way.
+>>>>
 
 
+<<<<
 XVIII. Honour that which is chiefest and most powerful in the world, and
 that is it, which makes use of all things, and governs all things. So
 also in thyself; honour that which is chiefest, and most powerful; and
 is of one kind and nature with that which we now spake of. For it is the
 very same, which being in thee, turneth all other things to its own use,
 and by whom also thy life is governed.
+>>>>
 
 
+<<<<
 XIX. That which doth not hurt the city itself; cannot hurt any citizen.
 This rule thou must remember to apply and make use of upon every conceit
 and apprehension of wrong. If the whole city be not hurt by this,
@@ -1779,8 +1998,10 @@ doth trespass against me. Let him look to that. He is master of his own
 disposition, and of his own operation. I for my part am in the meantime
 in possession of as much, as the common nature would have me to possess:
 and that which mine own nature would have me do, I do.
+>>>>
 
 
+<<<<
 XX. Let not that chief commanding part of thy soul be ever subject to
 any variation through any corporal either pain or pleasure, neither
 suffer it to be mixed with these, but let it both circumscribe itself,
@@ -1791,15 +2012,19 @@ must thou not go about to resist sense and feeling, it being natural.
 However let not thy understanding to this natural sense and feeling,
 which whether unto our flesh pleasant or painful, is unto us nothing
 properly, add an opinion of either good or bad and all is well.
+>>>>
 
 
+<<<<
 XXI. To live with the Gods. He liveth with the Gods, who at all times
 affords unto them the spectacle of a soul, both contented and well
 pleased with whatsoever is afforded, or allotted unto her; and
 performing whatsoever is pleasing to that Spirit, whom (being part of
 himself) Jove hath appointed to every man as his overseer and governor.
+>>>>
 
 
+<<<<
 XXII. Be not angry neither with him whose breath, neither with him whose
 arm holes, are offensive. What can he do? such is his breath naturally,
 and such are his arm holes; and from such, such an effect, and such
@@ -1809,8 +2034,10 @@ near, cannot choose but offend.' And thou also (God bless thee!) hast
 understanding. Let thy reasonable faculty, work upon his reasonable
 faculty; show him his fault, admonish him. If he hearken unto thee, thou
 hast cured him, and there will be no more occasion of anger.
+>>>>
 
 
+<<<<
 XXIII. 'Where there shall neither roarer be, nor harlot.' Why so? As
 thou dost purpose to live, when thou hast retired thyself to some such
 place, where neither roarer nor harlot is: so mayest thou here. And if
@@ -1821,8 +2048,10 @@ great matter is this! Now till some such thing force me out, I will
 continue free; neither shall any man hinder me to do what I will, and
 my will shall ever be by the proper nature of a reasonable and sociable
 creature, regulated and directed.
+>>>>
 
 
+<<<<
 XXIV. That rational essence by which the universe is governed, is for
 community and society; and therefore hath it both made the things that
 are worse, for the best, and hath allied and knit together those
@@ -1831,8 +2060,10 @@ sub-ordinated, and co-ordinated? and how it hath distributed unto
 everything according to its worth? and those which have the pre-eminency
 and superiority above all, hath it united together, into a mutual
 consent and agreement.
+>>>>
 
 
+<<<<
 XXV. How hast thou carried thyself hitherto towards the Gods? towards
 thy parents? towards thy brethren? towards thy wife? towards thy
 children? towards thy masters? thy foster-fathers? thy friends? thy
@@ -1845,16 +2076,20 @@ been discerned? how many pleasures, how many pains hast thou passed over
 with contempt? how many things eternally glorious hast thou despised?
 towards how many perverse unreasonable men hast thou carried thyself
 kindly, and discreetly?
+>>>>
 
 
+<<<<
 XXVI. Why should imprudent unlearned souls trouble that which is
 both learned, and prudent? And which is that that is so? she that
 understandeth the beginning and the end, and hath the true knowledge of
 that rational essence, that passeth through all things subsisting, and
 through all ages being ever the same, disposing and dispensing as it
 were this universe by certain periods of time.
+>>>>
 
 
+<<<<
 XXVII. Within a very little while, thou wilt be either ashes, or a
 sceletum; and a name perchance; and perchance, not so much as a name.
 And what is that but an empty sound, and a rebounding echo? Those things
@@ -1874,8 +2109,10 @@ and praise the Gods; and to do good unto men. To bear with them, and
 to forbear to do them any wrong. And for all external things belonging
 either to this thy wretched body, or life, to remember that they are
 neither thine, nor in thy power.
+>>>>
 
 
+<<<<
 XXVIII. Thou mayest always speed, if thou wilt but make choice of the
 right way; if in the course both of thine opinions and actions, thou
 wilt observe a true method. These two things be common to the souls, as
@@ -1883,8 +2120,10 @@ of God, so of men, and of every reasonable creature, first that in their
 own proper work they cannot be hindered by anything: and secondly, that
 their happiness doth consist in a disposition to, and in the practice of
 righteousness; and that in these their desire is terminated.
+>>>>
 
 
+<<<<
 XXIX. If this neither be my wicked act, nor an act anyways depending
 from any wickedness of mine, and that by it the public is not hurt; what
 doth it concern me? And wherein can the public be hurt? For thou must
@@ -1900,14 +2139,17 @@ For indeed what is all this pleading and public bawling for at the
 courts? O man, hast thou forgotten what those things are! yea but they
 are things that others much care for, and highly esteem of. Wilt thou
 therefore be a fool too? Once I was; let that suffice.
+>>>>
 
 
+<<<<
 XXX. Let death surprise rue when it will, and where it will, I may be a
 happy man, nevertheless.
 
 For he is a happy man, who in his lifetime dealeth unto himself a happy
 lot and portion. A happy lot and portion is, good inclinations of the
 soul, good desires, good actions.
+>>>>
 
 
 
@@ -1915,24 +2157,31 @@ soul, good desires, good actions.
 ## BOOK 6
 
 
+<<<<
 I. The matter itself, of which the universe doth consist, is of itself
 very tractable and pliable. That rational essence that doth govern it,
 hath in itself no cause to do evil. It hath no evil in itself; neither
 can it do anything that is evil: neither can anything be hurt by it. And
 all things are done and determined according to its will and prescript.
+>>>>
 
 
+<<<<
 II. Be it all one unto thee, whether half frozen or well warm; whether
 only slumbering, or after a full sleep; whether discommended or
 commended thou do thy duty: or whether dying or doing somewhat else; for
 that also 'to die,' must among the rest be reckoned as one of the duties
 and actions of our lives.
+>>>>
 
 
+<<<<
 III. Look in, let not either the proper quality, or the true worth of
 anything pass thee, before thou hast fully apprehended it.
+>>>>
 
 
+<<<<
 IV. All substances come soon to their change, and either they shall
 be resolved by way of exhalation (if so be that all things shall be
 reunited into one substance), or as others maintain, they shall be
@@ -1941,21 +2190,29 @@ things are governed, as it best understandeth itself, both its own
 disposition, and what it doth, and what matter it hath to do with and
 accordingly doth all things; so we that do not, no wonder, if we wonder
 at many things, the reasons whereof we cannot comprehend.
+>>>>
 
 
+<<<<
 V. The best kind of revenge is, not to become like unto them.
+>>>>
 
 
+<<<<
 VI. Let this be thy only joy, and thy only comfort, from one sociable
 kind action without intermission to pass unto another, God being ever in
 thy mind.
+>>>>
 
 
+<<<<
 VII. The rational commanding part, as it alone can stir up and turn
 itself; so it maketh both itself to be, and everything that happeneth,
 to appear unto itself, as it will itself.
+>>>>
 
 
+<<<<
 VIII. According to the nature of the universe all things particular are
 determined, not according to any other nature, either about compassing
 and containing; or within, dispersed and contained; or without,
@@ -1970,16 +2227,20 @@ Whatsoever I do, dispersion is my end, and will come upon me whether I
 will or no. But if the latter be, then am not I religious in vain;
 then will I be quiet and patient, and put my trust in Him, who is the
 Governor of all.
+>>>>
 
 
+<<<<
 IX. Whensoever by some present hard occurrences thou art constrained to
 be in some sort troubled and vexed, return unto thyself as soon as may
 be, and be not out of tune longer than thou must needs. For so shalt
 thou be the better able to keep thy part another time, and to maintain
 the harmony, if thou dost use thyself to this continually; once out,
 presently to have recourse unto it, and to begin again.
+>>>>
 
 
+<<<<
 X. If it were that thou hadst at one time both a stepmother, and
 a natural mother living, thou wouldst honour and respect her also;
 nevertheless to thine own natural mother would thy refuge, and recourse
@@ -1987,8 +2248,10 @@ be continually. So let the court and thy philosophy be unto thee. Have
 recourse unto it often, and comfort thyself in her, by whom it is that
 those other things are made tolerable unto thee, and thou also in those
 things not intolerable unto others.
+>>>>
 
 
+<<<<
 XI. How marvellous useful it is for a man to represent unto himself
 meats, and all such things that are for the mouth, under a right
 apprehension and imagination! as for example: This is the carcass of a
@@ -2009,11 +2272,15 @@ a show. For outward pomp and appearance is a great juggler; and then
 especially art thou most in danger to be beguiled by it, when (to
 a man's thinking) thou most seemest to be employed about matters of
 moment.
+>>>>
 
 
+<<<<
 XII. See what Crates pronounceth concerning Xenocrates himself.
+>>>>
 
 
+<<<<
 XIII. Those things which the common sort of people do admire, are most
 of them such things as are very general, and may be comprehended under
 things merely natural, or naturally affected and qualified: as stones,
@@ -2029,8 +2296,10 @@ naturally sociable, doth little regard anything else: and above all
 things is careful to preserve his own, in the continual habit and
 exercise both of reason and sociableness: and thereby doth co-operate
 with him, of whose nature he doth also participate; God.
+>>>>
 
 
+<<<<
 XIV. Some things hasten to be, and others to be no more. And even
 whatsoever now is, some part thereof hath already perished. Perpetual
 fluxes and alterations renew the world, as the perpetual course of time
@@ -2046,8 +2315,10 @@ and to breathe it out again, which we do daily: so much is it and no
 more, at once to breathe out all thy respirative faculty into that
 common air from whence but lately (as being but from yesterday, and
 to-day), thou didst first breathe it in, and with it, life.
+>>>>
 
 
+<<<<
 XV. Not vegetative spiration, it is not surely (which plants have) that
 in this life should be so dear unto us; nor sensitive respiration, the
 proper life of beasts, both tame and wild; nor this our imaginative
@@ -2082,28 +2353,36 @@ honour and respect thy mind only, that will make thee acceptable
 towards thyself, towards thy friends very tractable; and conformable
 and concordant with the Gods; that is, accepting with praises whatsoever
 they shall think good to appoint and allot unto thee.
+>>>>
 
 
+<<<<
 XVI. Under, above, and about, are the motions of the elements; but
 the motion of virtue, is none of those motions, but is somewhat more
 excellent and divine. Whose way (to speed and prosper in it) must be
 through a way, that is not easily comprehended.
+>>>>
 
 
+<<<<
 XVII. Who can choose but wonder at them? They will not speak well of
 them that are at the same time with them, and live with them; yet they
 themselves are very ambitious, that they that shall follow, whom they
 have never seen, nor shall ever see, should speak well of them. As if
 a man should grieve that he hath not been commended by them, that lived
 before him.
+>>>>
 
 
+<<<<
 XVIII. Do not ever conceive anything impossible to man, which by thee
 cannot, or not without much difficulty be effected; but whatsoever in
 general thou canst Conceive possible and proper unto any man, think that
 very possible unto thee also.
+>>>>
 
 
+<<<<
 XIX. Suppose that at the palestra somebody hath all to-torn thee with
 his nails, and hath broken thy head. Well, thou art wounded. Yet thou
 dost not exclaim; thou art not offended with him. Thou dost not suspect
@@ -2115,15 +2394,19 @@ disposition in other parts of thy life also. For many things there be,
 which we must conceit and apprehend, as though we had had to do with an
 antagonist at the palestra. For as I said, it is very possible for us to
 avoid and decline, though we neither suspect, nor hate.
+>>>>
 
 
+<<<<
 XX. If anybody shall reprove me, and shall make it apparent unto me,
 that in any either opinion or action of mine I do err, I will most
 gladly retract. For it is the truth that I seek after, by which I am
 sure that never any man was hurt; and as sure, that he is hurt that
 continueth in any error, or ignorance whatsoever.
+>>>>
 
 
+<<<<
 XXI. I for my part will do what belongs unto me; as for other things,
 whether things unsensible or things irrational; or if rational, yet
 deceived and ignorant of the true way, they shall not trouble or
@@ -2135,21 +2418,27 @@ same reason, my care is to carry myself sociably. But whatsoever it is
 that thou art about, remember to call upon the Gods. And as for the time
 how long thou shalt live to do these things, let it be altogether
 indifferent unto thee, for even three such hours are sufficient.
+>>>>
 
 
+<<<<
 XXII. Alexander of Macedon, and he that dressed his mules, when once
 dead both came to one. For either they were both resumed into those
 original rational essences from whence all things in the world are
 propagated; or both after one fashion were scattered into atoms.
+>>>>
 
 
+<<<<
 XXIII. Consider how many different things, whether they concern our
 bodies, or our souls, in a moment of time come to pass in every one of
 us, and so thou wilt not wonder if many more things or rather all things
 that are done, can at one time subsist, and coexist in that both one and
 general, which we call the world.
+>>>>
 
 
+<<<<
 XXIV. if any should put this question unto thee, how this word Antoninus
 is written, wouldst thou not presently fix thine intention upon it, and
 utter out in order every letter of it? And if any shall begin to gainsay
@@ -2160,8 +2449,10 @@ unto a man doth consist of some certain letters or numbers as it were,
 to which without any noise or tumult keeping thyself thou must orderly
 proceed to thy proposed end, forbearing to quarrel with him that would
 quarrel and fall out with thee.
+>>>>
 
 
+<<<<
 XXV. Is it not a cruel thing to forbid men to affect those things, which
 they conceive to agree best with their own natures, and to tend most
 to their own proper good and behoof? But thou after a sort deniest them
@@ -2170,13 +2461,17 @@ surely they are led unto those sins whatsoever they be, as to
 their proper good and commodity. But it is not so (thou wilt object
 perchance). Thou therefore teach them better, and make it appear unto
 them: but be not thou angry with them.
+>>>>
 
 
+<<<<
 XXVI. Death is a cessation from the impression of the senses, the
 tyranny of the passions, the errors of the mind, and the servitude of
 the body.
+>>>>
 
 
+<<<<
 XXVII. If in this kind of life thy body be able to hold out, it is a
 shame that thy soul should faint first, and give over, take heed, lest
 of a philosopher thou become a mere Caesar in time, and receive a new
@@ -2189,8 +2484,10 @@ constantly applied thyself unto it) would have made, and secured thee.
 Worship the Gods, procure the welfare of men, this life is short.
 Charitable actions, and a holy disposition, is the only fruit of this
 earthly life.
+>>>>
 
 
+<<<<
 XXVIII. Do all things as becometh the disciple of Antoninus Pius.
 Remember his resolute constancy in things that were done by him
 according to reason, his equability in all things, his sanctity; the
@@ -2215,16 +2512,20 @@ advise him: and lastly, how religious he was without superstition. All
 these things of him remember, that whensoever thy last hour shall
 come upon thee, it may find thee, as it did him, ready for it in the
 possession of a good conscience.
+>>>>
 
 
+<<<<
 XXIX. Stir up thy mind, and recall thy wits again from thy natural
 dreams, and visions, and when thou art perfectly awoken, and canst
 perceive that they were but dreams that troubled thee, as one newly
 awakened out of another kind of sleep look upon these worldly things
 with the same mind as thou didst upon those, that thou sawest in thy
 sleep.
+>>>>
 
 
+<<<<
 XXX. I consist of body and soul. Unto my body all things are
 indifferent, for of itself it cannot affect one thing more than another
 with apprehension of any difference; as for my mind, all things which
@@ -2233,8 +2534,10 @@ and for her own operations, those altogether depend of her; neither
 does she busy herself about any, but those that are present; for as
 for future and past operations, those also are now at this present
 indifferent unto her.
+>>>>
 
 
+<<<<
 XXXI. As long as the foot doth that which belongeth unto it to do, and
 the hand that which belongs unto it, their labour, whatsoever it be, is
 not unnatural. So a man as long as he doth that which is proper unto
@@ -2243,8 +2546,10 @@ nature, then neither is it hurtful unto him. But if it were so that
 happiness did consist in pleasure: how came notorious robbers, impure
 abominable livers, parricides, and tyrants, in so large a measure to
 have their part of pleasures?
+>>>>
 
 
+<<<<
 XXXII. Dost thou not see, how even those that profess mechanic arts,
 though in some respect they be no better than mere idiots, yet they
 stick close to the course of their trade, neither can they find in
@@ -2252,8 +2557,10 @@ their heart to decline from it: and is it not a grievous thing that
 an architect, or a physician shall respect the course and mysteries of
 their profession, more than a man the proper course and condition of his
 own nature, reason, which is common to him and to the Gods?
+>>>>
 
 
+<<<<
 XXXIII. Asia, Europe; what are they, but as corners of the whole world;
 of which the whole sea, is but as one drop; and the great Mount Athos,
 but as a clod, as all present time is but as one point of eternity. All,
@@ -2265,8 +2572,10 @@ lion, and all poison, and all hurtful things, are but (as the thorn and
 the mire) the necessary consequences of goodly fair things. Think not
 of these therefore, as things contrary to those which thou dost much
 honour, and respect; but consider in thy mind the true fountain of all.
+>>>>
 
 
+<<<<
 XXXIV. He that seeth the things that are now, hath Seen all that either
 was ever, or ever shall be, for all things are of one kind; and all like
 one unto another. Meditate often upon the connection of all things in
@@ -2275,8 +2584,10 @@ For all things are after a sort folded and involved one within another,
 and by these means all agree well together. For one thing is consequent
 unto another, by local motion, by natural conspiration and agreement,
 and by substantial union, or, reduction of all substances into one.
+>>>>
 
 
+<<<<
 XXXV. Fit and accommodate thyself to that estate and to those
 occurrences, which by the destinies have been annexed unto thee; and
 love those men whom thy fate it is to live with; but love them truly. An
@@ -2289,8 +2600,10 @@ are the more obliged (if we may live and pass our time according to her
 purpose and intention) to think that all is well with us, and according
 to our own minds. After this manner also, and in this respect it is,
 that he that is all in all doth enjoy his happiness.
+>>>>
 
 
+<<<<
 XXXVI. What things soever are not within the proper power and
 jurisdiction of thine own will either to compass or avoid, if thou shalt
 propose unto thyself any of those things as either good, or evil; it
@@ -2304,8 +2617,10 @@ things, more or less, with an opinion of any difference. But if we mind
 and fancy those things only, as good and bad, which wholly depend of our
 own wills, there is no more occasion why we should either murmur against
 the Gods, or be at enmity with any man.
+>>>>
 
 
+<<<<
 XXXVII. We all work to one effect, some willingly, and with a rational
 apprehension of what we do: others without any such knowledge. As I
 think Heraclitus in a place speaketh of them that sleep, that even they
@@ -2326,8 +2641,10 @@ that, which unto the earth doth properly belong? How is it with every
 one of the stars in particular? Though they all differ one from another,
 and have their several charges and functions by themselves, do they not
 all nevertheless concur and co-operate to one end?
+>>>>
 
 
+<<<<
 XXXIX. If so be that the Gods have deliberated in particular of those
 things that should happen unto me, I must stand to their deliberation,
 as discrete and wise. For that a God should be an imprudent God, is a
@@ -2354,8 +2671,10 @@ towards my fellow members ever to be sociably and kindly disposed and
 affected. My city and country as I am Antoninus, is Rome; as a man, the
 whole world. Those things therefore that are expedient and profitable to
 those cities, are the only things that are good and expedient for me.
+>>>>
 
 
+<<<<
 XL. Whatsoever in any kind doth happen to any one, is expedient to the
 whole. And thus much to content us might suffice, that it is expedient
 for the whole in general. But yet this also shalt thou generally
@@ -2364,16 +2683,20 @@ to any one man or men.... And now I am content that the word expedient,
 should more generally be understood of those things which we otherwise
 call middle things, or things indifferent; as health, wealth, and the
 like.
+>>>>
 
 
+<<<<
 XLI. As the ordinary shows of the theatre and of other such places,
 when thou art presented with them, affect thee; as the same things still
 seen, and in the same fashion, make the sight ingrateful and tedious;
 so must all the things that we see all our life long affect us. For all
 things, above and below, are still the same, and from the same causes.
 When then will there be an end?
+>>>>
 
 
+<<<<
 XLII. Let the several deaths of men of all sorts, and of all sorts of
 professions, and of all sort of nations, be a perpetual object of thy
 thoughts,... so that thou mayst even come down to Philistio, Phoebus,
@@ -2392,8 +2715,10 @@ what are they the worse for it? One thing there is, and that only, which
 is worth our while in this world, and ought by us much to be esteemed;
 and that is, according to truth and righteousness, meekly and lovingly
 to converse with false, and unrighteous men.
+>>>>
 
 
+<<<<
 XLIII. When thou wilt comfort and cheer thyself, call to mind the
 several gifts and virtues of them, whom thou dost daily converse with;
 as for example, the industry of the one; the modesty of another; the
@@ -2403,15 +2728,19 @@ visible and eminent in the dispositions of those who live with thee;
 especially when, all at once, as near as may be, they represent
 themselves unto thee. And therefore thou must have them always in a
 readiness.
+>>>>
 
 
+<<<<
 XLIV. Dost thou grieve that thou dost weigh but so many pounds, and not
 three hundred rather? Just as much reason hast thou to grieve that
 thou must live but so many years, and not longer. For as for bulk and
 substance thou dost content thyself with that proportion of it that is
 allotted unto thee, so shouldst thou for time.
+>>>>
 
 
+<<<<
 XLV. Let us do our best endeavours to persuade them; but however, if
 reason and justice lead thee to it, do it, though they be never so much
 against it. But if any shall by force withstand thee, and hinder thee in
@@ -2426,56 +2755,75 @@ this thou hast, and mayst always obtain, whether the thing desired be in
 thy power or no. And what do I care for more, if that for which I was
 born and brought forth into the world (to rule all my desires with
 reason and discretion) may be?
+>>>>
 
 
+<<<<
 XLVI. The ambitious supposeth another man's act, praise and applause, to
 be his own happiness; the voluptuous his own sense and feeling; but he
 that is wise, his own action.
+>>>>
 
 
+<<<<
 XLVII. It is in thy power absolutely to exclude all manner of conceit
 and opinion, as concerning this matter; and by the same means, to
 exclude all grief and sorrow from thy soul. For as for the things and
 objects themselves, they of themselves have no such power, whereby to
 beget and force upon us any opinion at all.
+>>>>
 
 
+<<<<
 XLVIII. Use thyself when any man speaks unto thee, so to hearken unto
 him, as that in the interim thou give not way to any other thoughts;
 that so thou mayst (as far as is possible) seem fixed and fastened to
 his very soul, whosoever he be that speaks unto thee.
+>>>>
 
 
+<<<<
 XLIX. That which is not good for the bee-hive, cannot be good for the
 bee.
+>>>>
 
 
+<<<<
 L. Will either passengers, or patients, find fault and complain, either
 the one if they be well carried, or the others if well cured? Do they
 take care for any more than this; the one, that their shipmaster may
 bring them safe to land, and the other, that their physician may effect
 their recovery?
+>>>>
 
 
+<<<<
 LI. How many of them who came into the world at the same time when I
 did, are already gone out of it?
+>>>>
 
 
+<<<<
 LII. To them that are sick of the jaundice, honey seems bitter; and to
 them that are bitten by a mad dog, the water terrible; and to children,
 a little ball seems a fine thing. And why then should I be angry? or
 do I think that error and false opinion is less powerful to make men
 transgress, than either choler, being immoderate and excessive, to cause
 the jaundice; or poison, to cause rage?
+>>>>
 
 
+<<<<
 LIII. No man can hinder thee to live as thy nature doth require. Nothing
 can happen unto thee, but what the common good of nature doth require.
+>>>>
 
 
+<<<<
 LIV. What manner of men they be whom they seek to please, and what to
 get, and by what actions: how soon time will cover and bury all things,
 and how many it hath already buried!
+>>>>
 
 
 
@@ -2483,6 +2831,7 @@ and how many it hath already buried!
 ## BOOK 7
 
 
+<<<<
 I. What is wickedness? It is that which many time and often thou hast
 already seen and known in the world. And so oft as anything doth happen
 that might otherwise trouble thee, let this memento presently come to
@@ -2492,8 +2841,10 @@ very same things whereof ancient stories, middle age stories, and fresh
 stories are full whereof towns are full, and houses full. There is
 nothing that is new. All things that are, are both usual and of little
 continuance.
+>>>>
 
 
+<<<<
 II. What fear is there that thy dogmata, or philosophical resolutions
 and conclusions, should become dead in thee, and lose their proper
 power and efficacy to make thee live happy, as long as those proper
@@ -2505,8 +2856,10 @@ right and true. If it be, why then am I troubled? Those things that are
 without my understanding, are nothing to it at all: and that is it only,
 which doth properly concern me. Be always in this mind, and thou wilt be
 right.
+>>>>
 
 
+<<<<
 III. That which most men would think themselves most happy for, and
 would prefer before all things, if the Gods would grant it unto them
 after their deaths, thou mayst whilst thou livest grant unto thyself; to
@@ -2521,8 +2874,10 @@ all these thou must stand steadfast, meekly affected, and free from all
 manner of indignation; with this right ratiocination and apprehension;
 that as the worth is of those things which a man doth affect, so is in
 very deed every man's worth more or less.
+>>>>
 
 
+<<<<
 IV. Word after word, every one by itself, must the things that are
 spoken be conceived and understood; and so the things that are done,
 purpose after purpose, every one by itself likewise. And as in matter of
@@ -2530,8 +2885,10 @@ purposes and actions, we must presently see what is the proper use and
 relation of every one; so of words must we be as ready, to consider of
 every one what is the true meaning, and signification of it according to
 truth and nature, however it be taken in common use.
+>>>>
 
 
+<<<<
 V. Is my reason, and understanding sufficient for this, or no? If it be
 sufficient, without any private applause, or public ostentation as of an
 instrument, which by nature I am provided of, I will make use of it for
@@ -2554,8 +2911,10 @@ reach unto the top of the battlements alone, which with the help of
 another thou mayst; wilt thou therefore give it over, or go about it
 with less courage and alacrity, because thou canst not effect it all
 alone?
+>>>>
 
 
+<<<<
 VI. Let not things future trouble thee. For if necessity so require that
 they come to pass, thou shalt (whensoever that is) be provided for them
 with the same reason, by which whatsoever is now present, is made both
@@ -2573,22 +2932,30 @@ and the same law. There is one common reason, and one common truth, that
 belongs unto all reasonable creatures, for neither is there save one
 perfection of all creatures that are of the same kind, and partakers of
 the same reason.
+>>>>
 
 
+<<<<
 VII. Whatsoever is material, doth soon vanish away into the common
 substance of the whole; and whatsoever is formal, or, whatsoever doth
 animate that which is material, is soon resumed into the common reason
 of the whole; and the fame and memory of anything, is soon swallowed up
 by the general age and duration of the whole.
+>>>>
 
 
+<<<<
 VIII. To a reasonable creature, the same action is both according
 to nature, and according to reason.
+>>>>
 
 
+<<<<
 IX. Straight of itself, not made straight.
+>>>>
 
 
+<<<<
 X. As several members in one body united, so are reasonable creatures
 in a body divided and dispersed, all made and prepared for one common
 operation. And this thou shalt apprehend the better, if thou shalt use
@@ -2599,22 +2966,28 @@ takest in the exercise of bounty, is not yet grounded upon a due
 ratiocination and right apprehension of the nature of things. Thou dost
 exercise it as yet upon this ground barely, as a thing convenient and
 fitting; not, as doing good to thyself, when thou dost good unto others.
+>>>>
 
 
+<<<<
 XI. Of things that are external, happen what will to that which can
 suffer by external accidents. Those things that suffer let them complain
 themselves, if they will; as for me, as long as I conceive no such
 thing, that that which is happened is evil, I have no hurt; and it is in
 my power not to conceive any such thing.
+>>>>
 
 
+<<<<
 XII. Whatsoever any man either doth or saith, thou must be good; not for
 any man's sake, but for thine own nature's sake; as if either gold, or
 the emerald, or purple, should ever be saying to themselves, Whatsoever
 any man either doth or saith, I must still be an emerald, and I must
 keep my colour.
+>>>>
 
 
+<<<<
 XIII. This may ever be my comfort and security: my understanding, that
 ruleth over all, will not of itself bring trouble and vexation upon
 itself. This I say; it will not put itself in any fear, it will not lead
@@ -2633,8 +3006,10 @@ is of itself sufficient unto itself, and needs not (if itself doth not
 bring itself to need) any other thing besides itself, and by consequent
 as it needs nothing, so neither can it be troubled or hindered by
 anything, if itself doth not trouble and hinder itself.
+>>>>
 
 
+<<<<
 XIV. What is rv&nfLovia, or happiness: but a7~o~ &d~wv, or, a good
 da~rnon, or spirit? What then dost thou do here, O opinion? By the Gods
 I adjure thee, that thou get thee gone, as thou earnest: for I need thee
@@ -2642,8 +3017,10 @@ not. Thou earnest indeed unto me according to thy ancient wonted manner.
 It is that, that all men have ever been subject unto. That thou camest
 therefore I am not angry with thee, only begone, now that I have found
 thee what thou art.
+>>>>
 
 
+<<<<
 XV. Is any man so foolish as to fear change, to which all things that
 once were not owe their being? And what is it, that is more pleasing and
 more familiar to the nature of the universe? How couldst thou thyself
@@ -2654,8 +3031,10 @@ else almost (that is useful and profitable) be brought to pass without
 change? How then dost not thou perceive, that for thee also, by death,
 to come to change, is a thing of the very same nature, and as necessary
 for the nature of the universe?
+>>>>
 
 
+<<<<
 XVI. Through the substance of the universe, as through a torrent pass
 all particular bodies, being all of the same nature, and all joint
 workers with the universe itself as in one of our bodies so many
@@ -2679,8 +3058,10 @@ against their wills that they sin; and that within a very short while
 after, both thou and he shall be no more. But above all things, that he
 hath not done thee any hurt; for that by him thy mind and understanding
 is not made worse or more vile than it was before.
+>>>>
 
 
+<<<<
 XVII. The nature of the universe, of the common substance of all things
 as it were of so much wax hath now perchance formed a horse; and then,
 destroying that figure, hath new tempered and fashioned the matter of it
@@ -2689,8 +3070,10 @@ substance of a man: and then that again into some other. Now every one
 of these doth subsist but for a very little while. As for dissolution,
 if it be no grievous thing to the chest or trunk, to be joined together;
 why should it be more grievous to be put asunder?
+>>>>
 
 
+<<<<
 XVIII. An angry countenance is much against nature, and it is oftentimes
 the proper countenance of them that are at the point of death. But were
 it so, that all anger and passion were so thoroughly quenched in thee,
@@ -2706,8 +3089,10 @@ administered, will soon bring change and alteration upon them, and then
 of their substances make other things like unto them: and then soon
 after others again of the matter and substance of these: that so by
 these means, the world may still appear fresh and new.
+>>>>
 
 
+<<<<
 XIX. Whensoever any man doth trespass against other, presently consider
 with thyself what it was that he did suppose to be good, what to be
 evil, when he did trespass. For this when thou knowest, thou wilt pity
@@ -2719,8 +3104,10 @@ he have done that which thou in the like case wouldst have done thyself.
 Or if so be that thou dost not any more suppose the same things to be
 good or evil, that he doth; how canst thou but be gentle unto him that
 is in an error?
+>>>>
 
 
+<<<<
 XX. Fancy not to thyself things future, as though they were present
 but of those that are present, take some aside, that thou takest most
 benefit of, and consider of them particularly, how wonderfully thou
@@ -2732,8 +3119,10 @@ up thyself into thyself. Such is the nature of thy reasonable
 commanding part, as that if it exercise justice, and have by that means
 tranquillity within itself, it doth rest fully satisfied with itself
 without any other thing.
+>>>>
 
 
+<<<<
 XXI. Wipe off all opinion stay the force and violence of unreasonable
 lusts and affections: circumscribe the present time examine whatsoever
 it be that is happened, either to thyself or to another: divide all
@@ -2744,8 +3133,10 @@ thy mind penetrate both into the effects, and into the causes. Rejoice
 thyself with true simplicity, and modesty; and that all middle things
 between virtue and vice are indifferent unto thee. Finally, love
 mankind; obey God.
+>>>>
 
 
+<<<<
 XXII. All things (saith he) are by certain order and appointment. And
 what if the elements only.
 
@@ -2765,24 +3156,30 @@ after: and that as in the seaside, whatsoever was before to be seen,
 is by the continual succession of new heaps of sand cast up one upon
 another, soon hid and covered; so in this life, all former things by
 those which immediately succeed.
+>>>>
 
 
+<<<<
 XXIII. Out of Plato. 'He then whose mind is endowed with true
 magnanimity, who hath accustomed himself to the contemplation both of
 all times, and of all things in general; can this mortal life (thinkest
 thou) seem any great matter unto him? It is not possible, answered he.
 Then neither will such a one account death a grievous thing? By no
 means.'
+>>>>
 
 
+<<<<
 XXIV. Out of Antisthenes. 'It is a princely thing to do well, and to be
 ill-spoken of. It is a shameful thing that the face should be subject
 unto the mind, to be put into what shape it will, and to be dressed by
 it as it will; and that the mind should not bestow so much care upon
 herself, as to fashion herself, and to dress herself as best becometh
 her.'
+>>>>
 
 
+<<<<
 XXV. Out of several poets and comics. 'It will but little avail thee,
 to turn thine anger and indignation upon the things themselves that have
 fallen across unto thee. For as for them, they are not sensible of it,
@@ -2792,8 +3189,10 @@ standing and another is down, &c. But if so be that I and my children be
 neglected by the gods, there is some reason even for that, &c. As long
 as right and equity is of my side, &c. Not to lament with them, not to
 tremble, &c.'
+>>>>
 
 
+<<<<
 XXVI. Out of Plato. 'My answer, full of justice and equity, should be
 this: Thy speech is not right, O man! if thou supposest that he that is
 of any worth at all, should apprehend either life or death, as a matter
@@ -2827,8 +3226,10 @@ places of judicatures; desert places; the several nations of barbarians,
 public festivals, mournings, fairs, markets.' How all things upon earth
 are pell-mell; and how miraculously things contrary one to another,
 concur to the beauty and perfection of this universe.
+>>>>
 
 
+<<<<
 XXVII. To look back upon things of former ages, as upon the manifold
 changes and conversions of several monarchies and commonwealths. We
 may also foresee things future, for they shall all be of the same kind;
@@ -2846,14 +3247,18 @@ incorruptible elements... 'With meats and drinks and divers charms, they
 seek to divert the channel, that they might not die. Yet must we needs
 endure that blast of wind that cometh from above, though we toil and
 labour never so much.'
+>>>>
 
 
+<<<<
 XXVIII. He hath a stronger body, and is a better wrestler than I. What
 then? Is he more bountiful? is he more modest? Doth he bear all adverse
 chances with more equanimity: or with his neighbour's offences with more
 meekness and gentleness than I?
+>>>>
 
 
+<<<<
 XXIX. Where the matter may be effected agreeably to that reason, which
 both unto the Gods and men is common, there can be no just cause of
 grief or sorrow. For where the fruit and benefit of an action well begun
@@ -2865,8 +3270,10 @@ happened unto thee, and justly to converse with those men, whom thou
 hast to do with, and accurately to examine every fancy that presents
 itself, that nothing may slip and steal in, before thou hast rightly
 apprehended the true nature of it.
+>>>>
 
 
+<<<<
 XXX. Look not about upon other men's minds and understandings; but look
 right on forwards whither nature, both that of the universe, in those
 things that happen unto thee; and thine in particular, in those things
@@ -2889,8 +3296,10 @@ thing proper to man by his constitution, is, to avoid all rashness and
 precipitancy; and not to be subject to error. To these things then, let
 the mind apply herself and go straight on, without any distraction about
 other things, and she hath her end, and by consequent her happiness.
+>>>>
 
 
+<<<<
 XXXI. As one who had lived, and were now to die by right, whatsoever is
 yet remaining, bestow that wholly as a gracious overplus upon a virtuous
 life. Love and affect that only, whatsoever it be that happeneth, and is
@@ -2912,22 +3321,28 @@ that thou remember well, according as the diversity of the matter of
 the action that thou art about shall require. Look within; within is the
 fountain of all good. Such a fountain, where springing waters can never
 fail, so thou dig still deeper and deeper.
+>>>>
 
 
+<<<<
 XXXII. Thou must use thyself also to keep thy body fixed and steady;
 free from all loose fluctuant either motion, or posture. And as upon thy
 face and looks, thy mind hath easily power over them to keep them to
 that which is grave and decent; so let it challenge the same power over
 the whole body also. But so observe all things in this kind, as that it
 be without any manner of affectation.
+>>>>
 
 
+<<<<
 XXXIII. The art of true living in this world is more like a wrestler's,
 than a dancer's practice. For in this they both agree, to teach a man
 whatsoever falls upon him, that he may be ready for it, and that nothing
 may cast him down.
+>>>>
 
 
+<<<<
 XXXIV. Thou must continually ponder and consider with thyself, what
 manner of men they be, and for their minds and understandings what is
 their present estate, whose good word and testimony thou dost desire.
@@ -2939,8 +3354,10 @@ of the truth,' and by consequent, neither of justice, or temperance, or
 kindness, and mildness; nor of anything that is of the same kind. It is
 most needful that thou shouldst always remember this. For so shalt thou
 be far more gentle and moderate towards all men.
+>>>>
 
 
+<<<<
 XXXV. What pain soever thou art in, let this presently come to thy mind,
 that it is not a thing whereof thou needest to be ashamed, neither is it
 a thing whereby thy understanding, that hath the government of all,
@@ -2956,12 +3373,16 @@ pains, which in very deed are of the same nature as pain; as to slumber
 unquietly, to suffer heat, to want appetite: when therefore any of these
 things make thee discontented, check thyself with these words: Now hath
 pain given thee the foil; thy courage hath failed thee.
+>>>>
 
 
+<<<<
 XXXVI. Take heed lest at any time thou stand so affected, though towards
 unnatural evil men, as ordinary men are commonly one towards another.
+>>>>
 
 
+<<<<
 XXXVII. How know we whether Socrates were so eminent indeed, and of so
 extraordinary a disposition? For that he died more gloriously, that he
 disputed with the Sophists more subtilty; that he watched in the frost
@@ -2985,8 +3406,10 @@ with the senses, and affections of the body. For we must not think that
 Nature hath so mixed and tempered it with the body, as that she hath not
 power to circumscribe herself, and by herself to intend her own ends and
 occasions.
+>>>>
 
 
+<<<<
 XXXVIII. For it is a thing very possible, that a man should be a very
 divine man, and yet be altogether unknown. This thou must ever be
 mindful of, as of this also, that a man's true happiness doth consist
@@ -2994,8 +3417,10 @@ in very few things. And that although thou dost despair, that thou shalt
 ever be a good either logician, or naturalist, yet thou art never the
 further off by it from being either liberal, or modest, or charitable,
 or obedient unto God.
+>>>>
 
 
+<<<<
 XXXIX. Free from all compulsion in all cheerfulness and alacrity thou
 mayst run out thy time, though men should exclaim against thee never so
 much, and the wild beasts should pull in sunder the poor members of thy
@@ -3016,14 +3441,18 @@ either unto God or man, whatsoever it is that doth happen in the world
 hath in the ordinary course of nature its proper reference; neither is
 there anything, that in regard of nature is either new, or reluctant and
 intractable, but all things both usual and easy.
+>>>>
 
 
+<<<<
 XL. Then hath a man attained to the estate of perfection in his life and
 conversation, when he so spends every day, as if it were his last day:
 never hot and vehement in his affections, nor yet so cold and stupid as
 one that had no sense; and free from all manner of dissimulation.
+>>>>
 
 
+<<<<
 XLI. Can the Gods, who are immortal, for the continuance of so many ages
 bear without indignation with such and so many sinners, as have ever
 been, yea not only so, but also take such care for them, that they want
@@ -3033,13 +3462,17 @@ that art one of those sinners thyself? A very ridiculous thing it is,
 that any man should dispense with vice and wickedness in himself, which
 is in his power to restrain; and should go about to suppress it in
 others, which is altogether impossible.
+>>>>
 
 
+<<<<
 XLII. What object soever, our reasonable and sociable faculty doth meet
 with, that affords nothing either for the satisfaction of reason, or for
 the practice of charity, she worthily doth think unworthy of herself.
+>>>>
 
 
+<<<<
 XLIII. When thou hast done well, and another is benefited by thy action,
 must thou like a very fool look for a third thing besides, as that
 it may appear unto others also that thou hast done well, or that thou
@@ -3047,8 +3480,10 @@ mayest in time, receive one good turn for another? No man useth to be
 weary of that which is beneficial unto him. But every action according
 to nature, is beneficial. Be not weary then of doing that which is
 beneficial unto thee, whilst it is so unto others.
+>>>>
 
 
+<<<<
 XLIV. The nature of the universe did once certainly before it was
 created, whatsoever it hath done since, deliberate and so resolve upon
 the creation of the world. Now since that time, whatsoever it is, that
@@ -3058,6 +3493,7 @@ world, takes any thought and care of things particular, they are surely
 his reasonable and principal creatures, that are the proper object of
 his particular care and providence. This often thought upon, will much
 conduce to thy tranquillity.
+>>>>
 
 
 
@@ -3065,6 +3501,7 @@ conduce to thy tranquillity.
 ## BOOK 8
 
 
+<<<<
 I. This also, among other things, may serve to keep thee from vainglory;
 if thou shalt consider, that thou art now altogether incapable of the
 commendation of one, who all his life long, or from his youth at least,
@@ -3092,8 +3529,10 @@ there is nothing truly good and beneficial unto man, but that which
 makes him just, temperate, courageous, liberal; and that there is
 nothing truly evil and hurtful unto man, but that which causeth the
 contrary effects.
+>>>>
 
 
+<<<<
 II. Upon every action that thou art about, put this question to thyself;
 How will this when it is done agree with me? Shall I have no occasion
 to repent of it? Yet a very little while and I am dead and gone; and
@@ -3102,15 +3541,19 @@ present action whatsoever it be, may be the proper action of one that
 is reasonable; whose end is, the common good; who in all things is ruled
 and governed by the same law of right and reason, by which God Himself
 is.
+>>>>
 
 
+<<<<
 III. Alexander, Caius, Pompeius; what are these to Diogenes, Heraclitus,
 and Socrates? These penetrated into the true nature of things; into all
 causes, and all subjects: and upon these did they exercise their power
 and authority. But as for those, as the extent of their error was, so
 far did their slavery extend.
+>>>>
 
 
+<<<<
 IV. What they have done, they will still do, although thou shouldst hang
 thyself. First; let it not trouble thee. For all things both good and
 evil: come to pass according to the nature and general condition of the
@@ -3122,15 +3565,19 @@ bound nevertheless to be a good man, and what it is that thy nature
 requireth of thee as thou art a man, be not diverted from what thou art
 about, and speak that which seemeth unto thee most just: only speak it
 kindly, modestly, and without hypocrisy.
+>>>>
 
 
+<<<<
 V. That which the nature of the universe doth busy herself about, is;
 that which is here, to transfer it thither, to change it, and thence
 again to take it away, and to carry it to another place. So that thou
 needest not fear any new thing. For all things are usual and ordinary;
 and all things are disposed by equality.
+>>>>
 
 
+<<<<
 VI. Every particular nature hath content, when in its own proper course
 it speeds. A reasonable nature doth then speed, when first in matter of
 fancies and imaginations, it gives no consent to that which is either
@@ -3151,48 +3598,62 @@ accidents. But herein consider not whether thou shalt find this equality
 in everything absolutely and by itself; but whether in all the
 particulars of some one thing taken together, and compared with all the
 particulars of some other thing, and them together likewise.
+>>>>
 
 
+<<<<
 VII. Thou hast no time nor opportunity to read. What then? Hast thou
 not time and opportunity to exercise thyself, not to wrong thyself; to
 strive against all carnal pleasures and pains, and to aet the upper hand
 of them; to contemn honour and vainglory; and not only, not to be angry
 with them, whom towards thee thou doest find unsensible and unthankful;
 but also to have a care of them still, and of their welfare?
+>>>>
 
 
+<<<<
 VIII. Forbear henceforth to complain of the trouble of a courtly life,
 either in public before others, or in private by thyself.
+>>>>
 
 
+<<<<
 IX. Repentance is an inward and self-reprehension for the neglect or
 omission of somewhat that was profitable. Now whatsoever is good, is
 also profitable, and it is the part of an honest virtuous man to set by
 it, and to make reckoning of it accordingly. But never did any honest
 virtuous man repent of the neglect or omission of any carnal pleasure:
 no carnal pleasure then is either good or profitable.
+>>>>
 
 
+<<<<
 X. This, what is it in itself, and by itself, according to its proper
 constitution? What is the substance of it? What is the matter, or proper
 use? What is the form or efficient cause? What is it for in this world,
 and how long will it abide? Thus must thou examine all things, that
 present themselves unto thee.
+>>>>
 
 
+<<<<
 XI. When thou art hard to be stirred up and awaked out of thy sleep,
 admonish thyself and call to mind, that, to perform actions tending to
 the common good is that which thine own proper constitution, and
 that which the nature of man do require. But to sleep, is common to
 unreasonable creatures also. And what more proper and natural, yea what
 more kind and pleasing, than that which is according to nature?
+>>>>
 
 
+<<<<
 XII. As every fancy and imagination presents itself unto thee, consider
 (if it be possible) the true nature, and the proper qualities of it, and
 reason with thyself about it.
+>>>>
 
 
+<<<<
 XIII. At thy first encounter with any one, say presently to thyself:
 This man, what are his opinions concerning that which is good or evil?
 as concerning pain, pleasure, and the causes of both; concerning honour,
@@ -3206,41 +3667,53 @@ whatsoever it is which in the ordinary course of nature it may bear.
 To a physician also and to a pilot it is a shame either for the one to
 wonder, that such and such a one should have an ague; or for the other,
 that the winds should prove Contrary.
+>>>>
 
 
+<<<<
 XIV. Remember, that to change thy mind upon occasion, and to follow him
 that is able to rectify thee, is equally ingenuous, as to find out at
 the first, what is right and just, without help. For of thee nothing is
 required, ti, is beyond the extent of thine own deliberation and jun.
 merit, and of thine own understanding.
+>>>>
 
 
+<<<<
 XV. If it were thine act and in thine own power, wouldest thou do
 it? If it were not, whom dost tin accuse? the atoms, or the Gods? For to
 do either, the part of a mad man. Thou must therefore blame nobody, but
 if it be in thy power, redress what is amiss; if it be not, to what end
 is it to complain? For nothing should be done but to some certain end.
+>>>>
 
 
+<<<<
 XVI. Whatsoever dieth and falleth, however and wheresoever it die
 and fall, it cannot fall out of the world, here it have its abode
 and change, here also shall it have its dissolution into its proper
 elements. The same are the world's elements, and the elements of which
 thou dost consist. And they when they are changed, they murmur not; why
 shouldest thou?
+>>>>
 
 
+<<<<
 XVII. Whatsoever is, was made for something: as a horse, a vine. Why
 wonderest thou? The sun itself will say of itself, I was made for
 something; and so hath every god its proper function. What then were
 then made for? to disport and delight thyself? See how even common sense
 and reason cannot brook it.
+>>>>
 
 
+<<<<
 XVIII. Nature hath its end as well in the end and final consummation of
 anything that is, as in the begin-nine and continuation of it.
+>>>>
 
 
+<<<<
 XIX. As one that tosseth up a ball. And what is a ball the better, if
 the motion of it be upwards; or the worse if it be downwards; or if it
 chance to fall upon the ground? So for the bubble; if it continue, what
@@ -3258,32 +3731,42 @@ that thou art praised; and yet in this corner, thou hast not the joint
 praises of all men; no nor scarce of any one constantly. And yet the
 whole earth itself, what is it but as one point, in regard of the whole
 world?
+>>>>
 
 
+<<<<
 XX. That which must be the subject of thy consideration, is either the
 matter itself, or the dogma, or the operation, or the true sense and
 signification.
+>>>>
 
 
+<<<<
 XXI. Most justly have these things happened unto thee: why dost not
 thou amend? O but thou hadst rather become good to-morrow, than to be
 so to-day.
+>>>>
 
 
+<<<<
 XXII. Shall I do it? I will; so the end of my action be to do good unto
 men. Doth anything by way of cross or adversity happen unto me? I accept
 it, with reference unto the Gods, and their providence; the fountain of
 all things, from which whatsoever comes to pass, doth hang and depend.
+>>>>
 
 
+<<<<
 XXIII. By one action judge of the rest: this bathing which usually takes
 up so much of our time, what is it? Oil, sweat, filth; or the sordes of
 the body: an excrementitious viscosity, the excrements of oil and other
 ointments used about the body, and mixed with the sordes of the body:
 all base and loathsome. And such almost is every part of our life;
 and every worldly object.
+>>>>
 
 
+<<<<
 XXIV. Lucilla buried Verus; then was Lucilla herself buried by others.
 So Secunda Maximus, then Secunda herself. So Epitynchanus, Diotimus;
 then Epitynchanus himself. So Antoninus Pius, Faustina his wife; then
@@ -3299,8 +3782,10 @@ thereafter thou must remember, that whatsoever thou art compounded of,
 shall soon be dispersed, and that thy life and breath, or thy soul,
 shall either be no more or shall ranslated (sp.), and appointed to some
 certain place and station.
+>>>>
 
 
+<<<<
 XXV. The true joy of a man, is to do that which properly belongs unto a
 man. That which is most proper unto a man, is, first, to be kindly
 affected towards them that are of the same kind and nature as he is
@@ -3312,8 +3797,10 @@ the apparent secondary cause. The Second to the first original cause,
 God, from whom originally proceeds whatsoever doth happen in the world.
 The third and last, to them that we live and converse with: what use may
 be made of it, to their use and benefit.
+>>>>
 
 
+<<<<
 XXVI. If pain be an evil, either it is in regard of the body; (and that
 cannot be, because the body of itself is altogether insensible:) or in
 regard of the soul But it is in the power of the soul, to preserve her
@@ -3321,24 +3808,30 @@ own peace and tranquillity, and not to suppose that pain is evil. For
 all judgment and deliberation; all prosecution, or aversation is from
 within, whither the sense of evil (except it be let in by opinion)
 cannot penetrate.
+>>>>
 
 
+<<<<
 XXVII. Wipe off all idle fancies, and say unto thyself incessantly; Now
 if I will, it is in my power to keep out of this my soul all wickedness,
 all lust, and concupiscences, all trouble and confusion. But on the
 contrary to behold and consider all things according to their true
 nature, and to carry myself towards everything according to its true
 worth. Remember then this thy power that nature hath given thee.
+>>>>
 
 
+<<<<
 XXVIII. Whether thou speak in the Senate or whether thou speak to any
 particular, let thy speech In always grave and modest. But thou must
 not openly and vulgarly observe that sound and exact form of speaking,
 concerning that which is truly good and truly civil; the vanity of
 the world, and of worldly men: which otherwise truth and reason doth
 prescribe.
+>>>>
 
 
+<<<<
 XXIX. Augustus his court; his wife, his daughter, his nephews, his
 sons-in-law his sister, Agrippa, his kinsmen, his domestics, his
 friends; Areus, Maecenas, his slayers of beasts for sacrifice and
@@ -3352,8 +3845,10 @@ LAST OF HIS OWN KINDRED. O what care did his predecessors take, that
 they might leave a successor, yet behold at last one or other must of
 necessity be THE LAST. Here again therefore consider the death of a
 whole kindred.
+>>>>
 
 
+<<<<
 XXX. Contract thy whole life to the measure and proportion of one single
 action. And if in every particular action thou dost perform what is
 fitting to the utmost of thy power, let it suffice thee. And who can
@@ -3367,13 +3862,17 @@ gentle and equanimious conversion of thy mind unto that which may be,
 instead of that which at first thou didst intend, in the room of that
 former action there succeedeth another, which agrees as well with this
 contraction of thy life, that we now speak of.
+>>>>
 
 
+<<<<
 XXXI. Receive temporal blessings without ostentation, when they are sent
 and thou shalt be able to part with them with all readiness and facility
 when they are taken from thee again.
+>>>>
 
 
+<<<<
 XXXII. If ever thou sawest either a hand, or a foot, or a head lying by
 itself, in some place or other, as cut off from the rest of the body,
 such must thou conceive him to make himself, as much as in him lieth,
@@ -3393,8 +3892,10 @@ himself from the whole; so once divided and cut off, IT hath so provided
 and ordered it, that if he would himself, he might return, and grow
 together again, and be admitted into its former rank and place of a
 part, as he was before.
+>>>>
 
 
+<<<<
 XXXIII. As almost all her other faculties and properties the nature of
 the universe hath imparted unto every reasonable creature, so this in
 particular we have received from her, that as whatsoever doth oppose
@@ -3407,8 +3908,10 @@ creature, what crosses and impediments soever it meets with in the
 course of this mortal life, it may use them as fit and proper objects,
 to the furtherance of whatsoever it intended and absolutely proposed
 unto itself as its natural end and happiness.
+>>>>
 
 
+<<<<
 XXXIV. Let not the general representation unto thyself of the
 wretchedness of this our mortal life, trouble thee. Let not thy mind
 wander up and down, and heap together in her thoughts the many troubles
@@ -3421,8 +3924,10 @@ which is past can hurt thee; but that only which is present. (And that
 also is much lessened, if thou dost lightly circumscribe it:) and then
 check thy mind if for so little a while, (a mere instant), it cannot
 hold out with patience.
+>>>>
 
 
+<<<<
 XXXV. What? are either Panthea or Pergamus abiding to this day by their
 masters' tombs? or either Chabrias or Diotimus by that of Adrianus? O
 foolery! For what if they did, would their masters be sensible of It? or
@@ -3431,26 +3936,34 @@ Was not it appointed unto them also (both men and women,) to become
 old in time, and then to die? And these once dead, what would become of
 these former? And when all is done, what is all this for, but for a mere
 bag of blood and corruption?
+>>>>
 
 
+<<<<
 XXXVI. If thou beest quick-sighted, be so in matter of judgment, and
 best discretion, saith he.
+>>>>
 
 
+<<<<
 XXXVII. In the whole constitution of man, I see not any virtue contrary
 to justice, whereby it may be resisted and opposed. But one whereby
 pleasure and voluptuousness may be resisted and opposed, I see:
 continence.
+>>>>
 
 
+<<<<
 XXXVIII. If thou canst but withdraw conceit and opinion concerning that
 which may seem hurtful and offensive, thou thyself art as safe, as safe
 may be. Thou thyself? and who is that? Thy reason. 'Yea, but I am not
 reason.' Well, be it so. However, let not thy reason or understanding
 admit of grief, and if there be anything in thee that is grieved, let
 that, (whatsoever it be,) conceive its own grief, if it can.
+>>>>
 
 
+<<<<
 XXXIX. That which is a hindrance of the senses, is an evil to the
 sensitive nature. That which is a hindrance of the appetitive and
 prosecutive faculty, is an evil to the sensitive nature. As of the
@@ -3467,11 +3980,15 @@ not thereby either hurt, nor properly hindered. For in those things that
 properly belong unto the mind, she cannot be hindered by any man. It
 is not fire, nor iron; nor the power of a tyrant nor the power of a
 slandering tongue; nor anything else that can penetrate into her.
+>>>>
 
 
+<<<<
 XL. If once round and solid, there is no fear that ever it will change.
+>>>>
 
 
+<<<<
 XLI. Why should I grieve myself; who never did willingly grieve any
 other! One thing rejoices one and another thing another. As for me, this
 is my joy, if my understanding be right and sound, as neither averse
@@ -3479,8 +3996,10 @@ from any man, nor refusing any of those things which as a man I am
 subject unto; if I can look upon all things in the world meekly and
 kindly; accept all things and carry myself towards everything according
 to to true worth of the thing itself.
+>>>>
 
 
+<<<<
 XLII. This time that is now present, bestow thou upon thyself. They that
 rather hunt for fame after death, do not consider, that those men that
 shall be hereafter, will be even such, as these whom now they can so
@@ -3488,21 +4007,27 @@ hardly bear with. And besides they also will be mortal men. But to
 consider the thing in itself, if so many with so many voices, shall make
 such and such a sound, or shall have such and such an opinion concerning
 thee, what is it to thee?
+>>>>
 
 
+<<<<
 XLIII. Take me and throw me where thou wilt: I am indifferent. For there
 also I shall have that spirit which is within me propitious; that is
 well pleased and fully contented both in that constant disposition, and
 with those particular actions, which to its own proper constitution are
 suitable and agreeable.
+>>>>
 
 
+<<<<
 XLIV. Is this then a thing of that worth, that for it my soul should
 suffer, and become worse than it was? as either basely dejected, or
 disordinately affected, or confounded within itself, or terrified? What
 can there be, that thou shouldest so much esteem?
+>>>>
 
 
+<<<<
 XLV. Nothing can happen unto thee, which is not incidental unto thee, as
 thou art a man. As nothing can happen either to an ox, a vine, or to
 a stone, which is not incidental unto them; unto every one in his own
@@ -3524,8 +4049,10 @@ condition that thou be kindly and lovingly disposed towards all men,
 thou mayest be gone. For even then, as much as at any time, art thou in
 a very good estate of performance, when thou doest die in charity with
 those, that are an obstacle unto thy performance.
+>>>>
 
 
+<<<<
 XLVI. Remember that thy mind is of that nature as that it becometh
 altogether unconquerable, when once recollected in herself, she seeks no
 other content than this, that she cannot be forced: yea though it so
@@ -3536,8 +4063,10 @@ be, a mind free from passions. A stronger place, (whereunto to make his
 refuge, and so to become impregnable) and better fortified than this,
 hath no man. He that seeth not this is unlearned. He that seeth it, and
 betaketh not himself to this place of refuge, is unhappy.
+>>>>
 
 
+<<<<
 XLVII. Keep thyself to the first bare and naked apprehensions of things,
 as they present themselves unto thee, and add not unto them. It is
 reported unto thee, that such a one speaketh ill of thee. Well; that he
@@ -3550,8 +4079,10 @@ they present themselves outwardly; and add not unto them from within
 thyself through mere conceit and opinion. Or rather add unto them: hut
 as one that understandeth the true nature of all things that happen in
 the world.
+>>>>
 
 
+<<<<
 XLVIII. Is the cucumber bitter? set it away. Brambles are in the way?
 avoid them. Let this suffice. Add not presently speaking unto thyself,
 What serve these things for in the world? For, this, one that is
@@ -3569,15 +4100,19 @@ needeth not to seek elsewhere out of herself either for a new supply of
 matter and substance, or for a place where to throw out whatsoever is
 irrecoverably putrid and corrupt. Thus she, as for place, so for matter
 and art, is herself sufficient unto herself.
+>>>>
 
 
+<<<<
 XLIX. Not to be slack and negligent; or loose, and wanton in thy
 actions; nor contentious, and troublesome in thy conversation; nor to
 rove and wander in thy fancies and imaginations. Not basely to contract
 thy soul; nor boisterously to sally out with it, or furiously to launch
 out as it were, nor ever to want employment.
+>>>>
 
 
+<<<<
 L. 'They kill me, they cut my flesh; they persecute my person with
 curses.' What then? May not thy mind for all this continue pure,
 prudent, temperate, just? As a fountain of sweet and clear water, though
@@ -3588,8 +4123,10 @@ She cannot be dyed or infected by it. What then must I do, that I
 may have within myself an overflowing fountain, and not a well? Beget
 thyself by continual pains and endeavours to true liberty with charity,
 and true simplicity and modesty.
+>>>>
 
 
+<<<<
 LI. He that knoweth not what the world is, knoweth not where he himself
 is. And he that knoweth not what the world was made for, cannot possibly
 know either what are the qualities, or what is the nature of the world.
@@ -3602,8 +4139,10 @@ thrice in one hour perchance, doth himself curse himself? Dost thou
 desire to please him, who pleaseth not himself? or dost thou think that
 he pleaseth himself, who doth use to repent himself almost of everything
 that he doth?
+>>>>
 
 
+<<<<
 LII. Not only now henceforth to have a common breath, or to hold
 correspondency of breath, with that air, that compasseth us about; but
 to have a common mind, or to hold correspondency of mind also with that
@@ -3611,8 +4150,10 @@ rational substance, which compasseth all things. For, that also is of
 itself, and of its own nature (if a man can but draw it in as he should)
 everywhere diffused; and passeth through all things, no less than the
 air doth, if a man can but suck it in.
+>>>>
 
 
+<<<<
 LIII. Wickedness in general doth not hurt the world. Particular
 wickedness doth not hurt any other: only unto him it is hurtful,
 whosoever he be that offends, unto whom in great favour and mercy it is
@@ -3624,8 +4165,10 @@ understandings each of them their own proper and limited jurisdiction.
 For else another man's wickedness might be my evil which God would not
 have, that it might not be in another man's power to make me unhappy:
 which nothing now can do but mine own wickedness.
+>>>>
 
 
+<<<<
 LIV. The sun seemeth to be shed abroad. And indeed it is diffused but
 not effused. For that diffusion of it is a [-r~Jo-tc] or an extension.
 For therefore are the beams of it called [~i-~m'~] from the word
@@ -3641,27 +4184,36 @@ must not violently, and by way of an impetuous onset light upon them;
 neither must she fall down; but she must stand, and give light unto that
 which doth admit of it. For as for that which doth not, it is its own
 fault and loss, if it bereave itself of her light.
+>>>>
 
 
+<<<<
 LV. He that feareth death, either feareth that he shall have no sense at
 all, or that his senses will not be the same. Whereas, he should rather
 comfort himself, that either no sense at all, and so no sense of evil;
 or if any sense, then another life, and so no death properly.
+>>>>
 
 
+<<<<
 LVI. All men are made one for another: either then teach them better, or
 bear with them.
+>>>>
 
 
+<<<<
 LVII. The motion of the mind is not as the motion of a dart. For
 the mind when it is wary and cautelous, and by way of diligent
 circumspection turneth herself many ways, may then as well be said to
 go straight on to the object, as when it useth no such circumspection.
+>>>>
 
 
+<<<<
 LVIII. To pierce and penetrate into the estate of every one's
 understanding that thou hast to do with: as also to make the estate of
 thine own open, and penetrable to any other.
+>>>>
 
 
 
@@ -3669,6 +4221,7 @@ thine own open, and penetrable to any other.
 ## BOOK 9
 
 
+<<<<
 I. He that is unjust, is also impious. For the nature of the universe,
 having made all reasonable creatures one for another, to the end that
 they should do one another good; more or less according to the several
@@ -3716,8 +4269,10 @@ by which she from some certain beginning, did resolve upon the creation
 of such a world, conceiving then in her womb as it were some certain
 rational generative seeds and faculties of things future, whether
 subjects, changes, successions; both such and such, and just so many.
+>>>>
 
 
+<<<<
 II. It were indeed more happy and comfortable, for a man to depart out
 of this world, having lived all his life long clear from all falsehood,
 dissimulation, voluptuousness, and pride. But if this cannot be, yet it
@@ -3728,8 +4283,10 @@ plague? For a far greater plague is the corruption of the mind, than any
 certain change and distemper of the common air can be. This is a plague
 of creatures, as they are living creatures; but that of men as they are
 men or reasonable.
+>>>>
 
 
+<<<<
 III. Thou must not in matter of death carry thyself scornfully, but as
 one that is well pleased with it, as being one of those things that
 nature hath appointed. For what thou dost conceive of these, of a boy to
@@ -3758,23 +4315,31 @@ were thy hap to live with men that had obtained the same belief that
 thou hast. But now, what a toil it is for thee to live with men of
 different opinions, thou seest: so that thou hast rather occasion to
 say, Hasten, I thee pray, O Death; lest I also in time forget myself.
+>>>>
 
 
+<<<<
 IV. He that sinneth, sinneth unto himself. He that is unjust, hurts
 himself, in that he makes himself worse than he was before. Not he only
 that committeth, but he also that omitteth something, is oftentimes
 unjust.
+>>>>
 
 
+<<<<
 V. If my present apprehension of the object be right, and my present
 action charitable, and this, towards whatsoever doth proceed from God,
 be my present disposition, to be well pleased with it, it sufficeth.
+>>>>
 
 
+<<<<
 VI. To wipe away fancy, to use deliberation, to quench concupiscence, to
 keep the mind free to herself.
+>>>>
 
 
+<<<<
 VII. Of all unreasonable creatures, there is but one unreasonable soul;
 and of all that are reasonable, but one reasonable soul, divided betwixt
 them all. As of all earthly things there is but one earth, and but one
@@ -3814,8 +4379,10 @@ their course, and apprehended. Do they what they can, nature doth
 prevail. And so shalt thou confess, if thou dost observe it. For sooner
 mayst thou find a thing earthly, where no earthly thing is, than find a
 man that naturally can live by himself alone.
+>>>>
 
 
+<<<<
 VIII. Man, God, the world, every one in their kind, bear some fruits.
 All things have their proper time to bear. Though by custom, the word
 itself is in a manner become proper unto the vine, and the like, yet is
@@ -3823,8 +4390,10 @@ it so nevertheless, as we have said. As for reason, that beareth both
 common fruit for the use of others; and peculiar, which itself doth
 enjoy. Reason is of a diffusive nature, what itself is in itself, it
 begets in others, and so doth multiply.
+>>>>
 
 
+<<<<
 IX. Either teach them better if it be in thy power; or if it be not,
 remember that for this use, to bear with them patiently, was mildness
 and goodness granted unto thee. The Gods themselves are good unto such;
@@ -3832,56 +4401,76 @@ yea and in some things, (as in matter of health, of wealth, of honour,)
 are content often to further their endeavours: so good and gracious are
 they. And mightest thou not be so too? or, tell me, what doth hinder
 thee?
+>>>>
 
 
+<<<<
 X. Labour not as one to whom it is appointed to be wretched, nor as one
 that either would be pitied, or admired; but let this be thine only care
 and desire; so always and in all things to prosecute or to forbear, as
 the law of charity, or mutual society doth require.
+>>>>
 
 
+<<<<
 XI. This day I did come out of all my trouble. Nay I have cast out all
 my trouble; it should rather be for that which troubled thee, whatsoever
 it was, was not without anywhere that thou shouldest come out of it, but
 within in thine own opinions, from whence it must be cast out, before
 thou canst truly and constantly be at ease.
+>>>>
 
 
+<<<<
 XII. All those things, for matter of experience are usual and ordinary;
 for their continuance but for a day; and for their matter, most base and
 filthy. As they were in the days of those whom we have buried, so are
 they now also, and no otherwise.
+>>>>
 
 
+<<<<
 XIII. The things themselves that affect us, they stand without doors,
 neither knowing anything themselves nor able to utter anything unto
 others concerning themselves. What then is it, that passeth verdict on
 them? The understanding.
+>>>>
 
 
+<<<<
 XIV. As virtue and wickedness consist not in passion, but in action; so
 neither doth the true good or evil of a reasonable charitable man
 consist in passion, but in operation and action.
+>>>>
 
 
+<<<<
 XV. To the stone that is cast up, when it comes down it is no hurt unto
 it; as neither benefit, when it doth ascend.
+>>>>
 
 
+<<<<
 XVI. Sift their minds and understandings, and behold what men they be,
 whom thou dost stand in fear of what they shall judge of thee, what they
 themselves judge of themselves.
+>>>>
 
 
+<<<<
 XVII. All things that are in the world, are always in the estate
 of alteration. Thou also art in a perpetual change, yea and under
 corruption too, in some part: and so is the whole world.
+>>>>
 
 
+<<<<
 XVIII. it is not thine, but another man's sin. Why should it trouble
 thee? Let him look to it, whose sin it is.
+>>>>
 
 
+<<<<
 XIX. Of an operation and of a purpose there is an ending, or of an
 action and of a purpose we say commonly, that it is at an end: from
 opinion also there is an absolute cessation, which is as it were the
@@ -3897,8 +4486,10 @@ matter of grief or sorrow dost thou find in any of these? Or what doest
 thou suffer through any of these? If in none of these, then neither
 in the ending and consummation of thy whole life, which is also but a
 cessation and change.
+>>>>
 
 
+<<<<
 XX. As occasion shall require, either to thine own understanding, or to
 that of the universe, or to his, whom thou hast now to do with, let thy
 refuge be with all speed. To thine own, that it resolve upon nothing
@@ -3906,8 +4497,10 @@ against justice. To that of the universe, that thou mayest remember,
 part of whom thou art. Of his, that thou mayest consider whether in the
 estate of ignorance, or of knowledge. And then also must thou call to
 mind, that he is thy kinsman.
+>>>>
 
 
+<<<<
 XXI. As thou thyself, whoever thou art, were made for the perfection and
 consummation, being a member of it, of a common society; so must every
 action of thine tend to the perfection and consummation of a life that
@@ -3916,26 +4509,34 @@ immediately or afar off, hath not reference to the common good, that is
 an exorbitant and disorderly action; yea it is seditious; as one among
 the people who from such and such a consent and unity, should factiously
 divide and separate himself.
+>>>>
 
 
+<<<<
 XXII. Children's anger, mere babels; wretched souls bearing up dead
 bodies, that they may not have their fall so soon: even as it is in that
 common dirge song.
+>>>>
 
 
+<<<<
 XXIII. Go to the quality of the cause from which the effect doth
 proceed. Behold it by itself bare and naked, separated from all that is
 material. Then consider the utmost bounds of time that that cause, thus
 and thus qualified, can subsist and abide.
+>>>>
 
 
+<<<<
 XXIV. Infinite are the troubles and miseries, that thou hast already
 been put to, by reason of this only, because that for all happiness
 it did not suffice thee, or, that thou didst not account it sufficient
 happiness, that thy understanding did operate according to its natural
 constitution.
+>>>>
 
 
+<<<<
 XXV. When any shall either impeach thee with false accusations, or
 hatefully reproach thee, or shall use any such carriage towards thee,
 get thee presently to their minds and understandings, and look in them,
@@ -3945,8 +4546,10 @@ thee. Yet must thou love them still, for by nature they are thy friends.
 And the Gods themselves, in those things that they seek from them as
 matters of great moment, are well content, all manner of ways, as by
 dreams and oracles, to help them as well as others.
+>>>>
 
 
+<<<<
 XXVI. Up and down, from one age to another, go the ordinary things of
 the world; being still the same. And either of everything in particular
 before it come to pass, the mind of the universe doth consider with
@@ -3958,8 +4561,10 @@ manner and inseparably hold one of another. In sum, either there is a
 God, and then all is well; or if all things go by chance and fortune,
 yet mayest thou use thine own providence in those things that concern
 thee properly; and then art thou well.
+>>>>
 
 
+<<<<
 XXVII. Within a while the earth shall cover us all, and then she herself
 shall have her change. And then the course will be, from one period of
 eternity unto another, and so a perpetual eternity. Now can any man
@@ -3968,8 +4573,10 @@ successions of so many changes and alterations, and the swiftness of all
 these rulings; can he otherwise but contemn in his heart and despise
 all worldly things? The cause of the universe is as it were a strong
 torrent, it carrieth all away.
+>>>>
 
 
+<<<<
 XXVIII. And these your professed politicians, the only true practical
 philosophers of the world, (as they think of themselves) so full of
 affected gravity, or such professed lovers of virtue and honesty, what
@@ -3989,8 +4596,10 @@ or no, they know best themselves. But if they kept a life, and
 swaggered; I (God be thanked) am not bound to imitate them. The effect
 of true philosophy is, unaffected simplicity and modesty. Persuade me
 not to ostentation and vainglory.
+>>>>
 
 
+<<<<
 XXIX. From some high place as it were to look down, and to behold
 here flocks, and there sacrifices, without number; and all kind of
 navigation; some in a rough and stormy sea, and some in a calm: the
@@ -4010,13 +4619,17 @@ doest, whereof thou thyself art the cause, to do it justly: which will
 be, if both in thy resolution and in thy action thou have no further
 end, than to do good unto others, as being that, which by thy natural
 constitution, as a man, thou art bound unto.
+>>>>
 
 
+<<<<
 XXX. Many of those things that trouble and straiten thee, it is in thy
 power to cut off, as wholly depending from mere conceit and opinion; and
 then thou shalt have room enough.
+>>>>
 
 
+<<<<
 XXXI. To comprehend the whole world together in thy mind, and the whole
 course of this present age to represent it unto thyself, and to fix thy
 thoughts upon the sudden change of every particular object. How short
@@ -4026,16 +4639,20 @@ generation, and that which after the generation of it shall be. All
 things that thou seest, will soon be perished, and they that see their
 corruptions, will soon vanish away themselves. He that dieth a hundred
 years old, and he that dieth young, shall come all to one.
+>>>>
 
 
+<<<<
 XXXII. What are their minds and understandings; and what the things that
 they apply themselves unto: what do they love, and what do they hate
 for? Fancy to thyself the estate of their souls openly to be seen. When
 they think they hurt them shrewdly, whom they speak ill of; and when
 they think they do them a very good turn, whom they commend and extol: O
 how full are they then of conceit, and opinion!
+>>>>
 
 
+<<<<
 XXXIII. Loss and corruption, is in very deed nothing else but change and
 alteration; and that is it, which the nature of the universe doth most
 delight in, by which, and according to which, whatsoever is done, is
@@ -4045,8 +4662,10 @@ in the world have gone ill from the beginning for so many ages, and
 shall ever go ill? And then among so many deities, could no divine power
 be found all this while, that could rectify the things of the world? Or
 is the world, to incessant woes and miseries, for ever condemned?
+>>>>
 
 
+<<<<
 XXXIV. How base and putrid, every common matter is! Water, dust, and
 from the mixture of these bones, and all that loathsome stuff that our
 bodies do consist of: so subject to be infected, and corrupted. And
@@ -4058,8 +4677,10 @@ sheep, and for colour, the very blood of a shell-fish; of this nature
 are all other things. Thy life itself, is some such thing too; a mere
 exhalation of blood: and it also, apt to be changed into some other
 common thing.
+>>>>
 
 
+<<<<
 XXXV. Will this querulousness, this murmuring, this complaining and
 dissembling never be at an end? What then is it, that troubleth thee?
 Doth any new thing happen unto thee? What doest thou so wonder at? At
@@ -4067,16 +4688,22 @@ the cause, or the matter? Behold either by itself, is either of that
 weight and moment indeed? And besides these, there is not anything. But
 thy duty towards the Gods also, it is time thou shouldst acquit thyself
 of it with more goodness and simplicity.
+>>>>
 
 
+<<<<
 XXXVI. It is all one to see these things for a hundred of years together
 or but for three years.
+>>>>
 
 
+<<<<
 XXXVII. If he have sinned, his is the harm, not mine. But perchance he
 hath not.
+>>>>
 
 
+<<<<
 XXXVIII. Either all things by the providence of reason happen unto every
 particular, as a part of one general body; and then it is against reason
 that a part should complain of anything that happens for the good of the
@@ -4084,14 +4711,18 @@ whole; or if, according to Epicurus, atoms be the cause of all things
 and that life be nothing else but an accidentary confusion of things,
 and death nothing else, but a mere dispersion and so of all other
 things: what doest thou trouble thyself for?
+>>>>
 
 
+<<<<
 XXXIX. Sayest thou unto that rational part, Thou art dead; corruption
 hath taken hold on thee? Doth it then also void excrements? Doth it like
 either oxen, or sheep, graze or feed; that it also should be mortal, as
 well as the body?
+>>>>
 
 
+<<<<
 XL. Either the Gods can do nothing for us at all, or they can still and
 allay all the distractions and distempers of thy mind. If they can do
 nothing, why doest thou pray? If they can, why wouldst not thou rather
@@ -4116,8 +4747,10 @@ that thou mayst so patiently bear with him, as that thou have no such
 need to be rid of him. Another, that he may not lose his child. Pray
 thou that thou mayst not fear to lose him. To this end and purpose, let
 all thy prayer be, and see what will be the event.
+>>>>
 
 
+<<<<
 XLI. 'In my sickness' (saith Epicurus of himself:) 'my discourses were
 not concerning the nature of my disease, neither was that, to them that
 came to visit me, the subject of my talk; but in the consideration and
@@ -4136,12 +4769,16 @@ of extremity soever, endeavour thou also to be in thy mind so affected,
 as he doth report of himself: not to depart from thy philosophy for
 anything that can befall thee, nor to give ear to the discourses of
 silly people, and mere naturalists.
+>>>>
 
 
+<<<<
 XLII. It is common to all trades and professions to mind and intend that
 only, which now they are about, and the instrument whereby they work.
+>>>>
 
 
+<<<<
 XLIII. When at any time thou art offended with any one's impudency, put
 presently this question to thyself: 'What? Is it then possible, that
 there should not be any impudent men in the world! Certainly it is not
@@ -4187,6 +4824,7 @@ whensoever he doth a real good unto any by helping them out of error; or
 though but in middle things, as in matter of wealth, life, preferment,
 and the like, doth help to further their desires he doth that for which
 he was made, and therefore can require no more.
+>>>>
 
 
 
@@ -4194,6 +4832,7 @@ he was made, and therefore can require no more.
 ## BOOK 10
 
 
+<<<<
 I. O my soul, the time I trust will be, when thou shalt be good, simple,
 single, more open and visible, than that body by which it is enclosed.
 Thou wilt one day be sensible of their happiness, whose end is love, and
@@ -4215,8 +4854,10 @@ disposition, that thou shalt be able, both in regard of the Gods, and
 in regard of men, so to fit and order thy conversation, as neither
 to complain of them at any time, for anything that they do; nor to do
 anything thyself, for which thou mayest justly be condemned.
+>>>>
 
 
+<<<<
 II. As one who is altogether governed by nature, let it be thy care to
 observe what it is that thy nature in general doth require. That
 done, if thou find not that thy nature, as thou art a living sensible
@@ -4226,8 +4867,10 @@ doth require. And that, whatsoever it be, thou mayest admit of and do
 it, if thy nature as thou art a reasonable living creature, will not be
 the worse for it. Now whatsoever is reasonable, is also sociable, Keep
 thyself to these rules, and trouble not thyself about idle things.
+>>>>
 
 
+<<<<
 III. Whatsoever doth happen unto thee, thou art naturally by thy natural
 constitution either able, or not able to bear. If thou beest able, be
 not offended, but bear it according to thy natural constitution, or as
@@ -4237,19 +4880,25 @@ same time end with thee. But remember, that whatsoever by the strength
 of opinion, grounded upon a certain apprehension of both true profit and
 duty, thou canst conceive tolerable; that thou art able to bear that by
 thy natural constitution.
+>>>>
 
 
+<<<<
 IV. Him that offends, to teach with love and meek ness, and to show him
 his error. But if thou canst not, then to blame thyself; or rather not
 thyself neither, if thy will and endeavours have not been wanting.
+>>>>
 
 
+<<<<
 V. Whatsoever it be that happens unto thee, it is that which from all
 time was appointed unto thee. For by the same coherence of causes, by
 which thy substance from all eternity was appointed to be, was also
 whatsoever should happen unto it, destinated and appointed.
+>>>>
 
 
+<<<<
 VI. Either with Epicurus, we must fondly imagine the atoms to be the
 cause of all things, or we must needs grant a nature. Let this then be
 thy first ground, that thou art part of that universe, which is governed
@@ -4277,8 +4926,10 @@ wouldst think him a happy citizen, whose constant study and practice
 were for the good and benefit of his fellow citizens, and the carriage
 of the city such towards him, that he were well pleased with it; so must
 it needs be with thee, that thou shalt live a happy life.
+>>>>
 
 
+<<<<
 VII. All parts of the world, (all things I mean that are contained
 within the whole world), must of necessity at some time or other come to
 corruption. Alteration I should say, to speak truly and properly; but
@@ -4321,8 +4972,10 @@ substance, and more solid part of it, should still cleave unto thee
 never so close, yet what is that to the proper qualities and affections
 of it, by which persons are distinguished, which certainly are quite
 different?
+>>>>
 
 
+<<<<
 VIII. Now that thou hast taken these names upon thee of good, modest,
 true; of emfrwn, sumfrwn, uperfrwn; take heed lest at any times by doing
 anything that is contrary, thou be but improperly so called, and lose
@@ -4371,8 +5024,10 @@ the fig tree for example; the dog the bee: both do, all of them, and
 apply themselves unto that which by their natural constitution, is
 proper unto them; so man likewise should do that, which by his nature,
 as he is a man, belongs unto him.
+>>>>
 
 
+<<<<
 IX. Toys and fooleries at home, wars abroad: sometimes terror, sometimes
 torpor, or stupid sloth: this is thy daily slavery. By little and
 little, if thou doest not better look to it, those sacred dogmata will
@@ -4394,8 +5049,10 @@ particular object according to its true nature: as what the matter and
 substance of it is; what use it is for in the world: how long it can
 subsist: what things it doth consist of: who they be that are capable of
 it, and who they that can give it, and take it away?
+>>>>
 
 
+<<<<
 X. As the spider, when it hath caught the fly that it hunted after, is
 not little proud, nor meanly conceited of herself: as he likewise that
 hath caught an hare, or hath taken a fish with his net: as another for
@@ -4404,16 +5061,20 @@ and applaud themselves for their valiant acts against the Sarmatai, or
 northern nations lately defeated. For these also, these famous soldiers
 and warlike men, if thou dost look into their minds and opinions, what
 do they for the most part but hunt after prey?
+>>>>
 
 
+<<<<
 XI. To find out, and set to thyself some certain way and method of
 contemplation, whereby thou mayest clearly discern and represent unto
 thyself, the mutual change of all things, the one into the other. Bear
 it in thy mind evermore, and see that thou be throughly well exercised
 in this particular. For there is not anything more effectual to beget
 true magnanimity.
+>>>>
 
 
+<<<<
 XII. He hath got loose from the bonds of his body, and perceiving that
 within a very little while he must of necessity bid the world farewell,
 and leave all these things behind him, he wholly applied himself, as to
@@ -4425,8 +5086,10 @@ against him, he doth not so much as trouble his thoughts with it. To go
 on straight, whither right and reason directed him, and by so doing to
 follow God, was the only thing that he did mind, that, his only business
 and occupation.
+>>>>
 
 
+<<<<
 XIII. What use is there of suspicion at all? or, why should thoughts
 of mistrust, and suspicion concerning that which is future, trouble thy
 mind at all? What now is to be done, if thou mayest search and inquiry
@@ -4439,12 +5102,16 @@ and opportunity, still proposing that unto thyself, which thou doest
 conceive most right and just. For to hit that aright, and to speed in
 the prosecution of it, must needs be happiness, since it is that only
 which we can truly and properly be said to miss of, or miscarry in.
+>>>>
 
 
+<<<<
 XIV. What is that that is slow, and yet quick? merry, and yet grave? He
 that in all things doth follow reason for his guide.
+>>>>
 
 
+<<<<
 XV. In the morning as soon as thou art awaked, when thy judgment, before
 either thy affections, or external objects have wrought upon it, is yet
 most free and impartial: put this question to thyself, whether if that
@@ -4458,14 +5125,18 @@ and what they fly from: what thefts and rapines they commit, if not with
 their hands and feet, yet with that more precious part of theirs, their
 minds: which (would it but admit of them) might enjoy faith, modesty,
 truth, justice, a good spirit.
+>>>>
 
 
+<<<<
 XVI. Give what thou wilt, and take away what thou wilt, saith he that is
 well taught and truly modest, to Him that gives, and takes away. And it
 is not out of a stout and peremptory resolution, that he saith it, but
 in mere love, and humble submission.
+>>>>
 
 
+<<<<
 XVII. So live as indifferent to the world and all worldly objects, as
 one who liveth by himself alone upon some desert hill. For whether here,
 or there, if the whole world be but as one town, it matters not much for
@@ -4473,13 +5144,17 @@ the place. Let them behold and see a man, that is a man indeed, living
 according to the true nature of man. If they cannot bear with me, let
 them kill me. For better were it to die, than so to live as they would
 have thee.
+>>>>
 
 
+<<<<
 XVIII. Make it not any longer a matter of dispute or discourse, what are
 the signs and proprieties of a good man, but really and actually to be
 such.
+>>>>
 
 
+<<<<
 XIX. Ever to represent unto thyself; and to set before thee, both the
 general age and time of the world, and the whole substance of it. And
 how all things particular in respect of these are for their substance,
@@ -4489,8 +5164,10 @@ upon every particular object of the world, and to conceive it, (as it
 is indeed,) as already being in the state of dissolution, and of change;
 tending to some kind of either putrefaction or dispersion; or whatsoever
 else it is, that is the death as it were of everything in his own kind.
+>>>>
 
 
+<<<<
 XX. Consider them through all actions and occupations, of their lives:
 as when they eat, and when they sleep: when they are in the act of
 necessary exoneration, and when in the act of lust. Again, when they
@@ -4500,12 +5177,16 @@ majesty, as from an higher place, they chide and rebuke. How base and
 slavish, but a little while ago, they were fain to be, that they might
 come to this; and within a very little while what will be their estate,
 when death hath once seized upon them.
+>>>>
 
 
+<<<<
 XXI. That is best for every one, that the common nature of all doth send
 unto every one, and then is it best, when she doth send it.
+>>>>
 
 
+<<<<
 XXII. The earth, saith the poet, doth often long after the rain. So is
 the glorious sky often as desirous to fall upon the earth, which argues
 a mutual kind of love between them. And so (say I) doth the world bear
@@ -4515,16 +5196,20 @@ object of my longing be which is of thine. Now that the world doth love
 it is true indeed so is it as commonly said, and acknowledged ledged,
 when, according to the Greek phrase, imitated by the Latins, of things
 that used to be, we say commonly, that they love to be.
+>>>>
 
 
+<<<<
 XXIII. Either thou dost Continue in this kind of life and that is it,
 which so long thou hast been used unto and therefore tolerable: or thou
 doest retire, or leave the world, and that of thine own accord, and then
 thou hast thy mind: or thy life is cut off; and then mayst thou
 rejoice that thou hast ended thy charge. One of these must needs be.
 Be therefore of good comfort.
+>>>>
 
 
+<<<<
 XXIV. Let it always appear and be manifest unto thee that solitariness,
 and desert places, by many philosophers so much esteemed of and
 affected, are of themselves but thus and thus; and that all things are
@@ -4542,8 +5227,10 @@ and what is it, that I employ it about? Is it now void of reason ir no?
 Is it free, and separated; or so affixed, so congealed and grown
 together as it were with the flesh, that it is swayed by the motions and
 inclinations of it?
+>>>>
 
 
+<<<<
 XXV. He that runs away from his master is a fugitive. But the law is
 every man's master. He therefore that forsakes the law, is a fugitive.
 So is he, whosoever he be, that is either sorry, angry, or afraid, or
@@ -4553,8 +5240,10 @@ is Nomoz, or the law, as the only nemwn (sp.), or distributor
 and dispenser of all things that happen unto any one in his
 lifetime--Whatsoever then is either sorry, angry, or afraid,
 is a fugitive.
+>>>>
 
 
+<<<<
 XXVI. From man is the seed, that once cast into the womb man hath no
 more to do with it. Another cause succeedeth, and undertakes the
 work, and in time brings a child (that wonderful effect from such a
@@ -4569,8 +5258,10 @@ but the power also by which they are effected; that thou mayst behold
 it, though not with the eyes of the body, yet as plainly and visibly as
 thou canst see and discern the outward efficient cause of the depression
 and elevation of anything.
+>>>>
 
 
+<<<<
 XXVII. Ever to mind and consider with thyself; how all things that now
 are, have been heretofore much after the same sort, and after the same
 fashion that now they are: and so to think of those things which shall
@@ -4582,8 +5273,10 @@ the whole court of Antoninus Pius, the whole court of Philippus, that of
 Alexander, that of Croesus): to set them all before thine eyes. For thou
 shalt find that they are all but after one sort and fashion: only that
 the actors were others.
+>>>>
 
 
+<<<<
 XXVIII. As a pig that cries and flings when his throat is cut, fancy to
 thyself every one to be, that grieves for any worldly thing and takes
 on. Such a one is he also, who upon his bed alone, doth bewail
@@ -4591,13 +5284,17 @@ the miseries of this our mortal life. And remember this, that Unto
 reasonable creatures only it is granted that they may willingly and
 freely submit unto Providence: but absolutely to submit, is a necessity
 imposed upon all creatures equally.
+>>>>
 
 
+<<<<
 XXIX. Whatsoever it is that thou goest about, consider of it by thyself,
 and ask thyself, What? because I shall do this no more when I am dead,
 should therefore death seem grievous unto me?
+>>>>
 
 
+<<<<
 XXX. When thou art offended with any man's transgression, presently
 reflect upon thyself; and consider what thou thyself art guilty of in
 the same kind. As that thou also perchance dost think it a happiness
@@ -4608,8 +5305,10 @@ time this also shall concur in thy thoughts, that he was constrained by
 his error and ignorance so to do: for how can he choose as long as he
 is of that opinion? Do thou therefore if thou canst, take away that from
 him, that forceth him to do as he doth.
+>>>>
 
 
+<<<<
 XXXI. When thou seest Satyro, think of Socraticus and Eutyches, or
 Hymen, and when Euphrates, think of Eutychio, and Sylvanus, when
 Alciphron, of Tropaeophorus, when Xenophon, of Crito, or Severus. And
@@ -4624,8 +5323,10 @@ whatsoever is once changed, shall never be again as long as the world
 endureth. And thou then, how long shalt thou endure? And why doth it not
 suffice thee, if virtuously, and as becometh thee, thou mayest pass that
 portion of time, how little soever it be, that is allotted unto thee?
+>>>>
 
 
+<<<<
 XXXII. What a subject, and what a course of life is it, that thou doest
 so much desire to be rid of. For all these things, what are they, but
 fit objects for an understanding, that beholdeth everything according to
@@ -4634,8 +5335,10 @@ that (as a strong stomach that turns all things into his own nature; and
 as a great fire that turneth in flame and light, whatsoever thou doest
 cast into it) thou have made these things also familiar, and as it were
 natural unto thee.
+>>>>
 
 
+<<<<
 XXXIII. Let it not be in any man's power, to say truly of thee, that
 thou art not truly simple, or sincere and open, or not good. Let him be
 deceived whosoever he be that shall have any such opinion of thee. For
@@ -4680,8 +5383,10 @@ the city, that is not hurtful unto the law itself. But none of these
 casualties, or external hindrances, do hurt the law itself; or, are
 contrary to that course of justice and equity, by which public societies
 are maintained: neither therefore do they hurt either city or citizen.
+>>>>
 
 
+<<<<
 XXXIV. As he that is bitten by a mad dog, is afraid of everything almost
 that he seeth: so unto him, whom the dogmata have once bitten, or in
 whom true knowledge hath made an impression, everything almost that
@@ -4705,8 +5410,10 @@ unto all. Why then shouldest thou so earnestly either seek after these
 things, or fly from them, as though they should endure for ever? Yet a
 little while, and thine eyes will be closed up, and for him that carries
 thee to thy grave shall another mourn within a while after.
+>>>>
 
 
+<<<<
 XXXV. A good eye must be good to see whatsoever is to be seen, and not
 green things only. For that is proper to sore eyes. So must a good
 ear, and a good smell be ready for whatsoever is either to be heard,
@@ -4716,8 +5423,10 @@ therefore must a sound understanding be for whatsoever shall happen. But
 he that saith, O that my children might live! and, O that all men might
 commend me for whatsoever I do! is an eye that seeks after green things;
 or as teeth, after that which is tender.
+>>>>
 
 
+<<<<
 XXXVI. There is not any man that is so happy in his death, but that some
 of those that are by him when he dies, will be ready to rejoice at his
 supposed calamity. Is it one that was virtuous and wise indeed? will
@@ -4743,14 +5452,18 @@ their bodies, so must thy separation from them be. To these had nature
 joined and annexed me: now she parts us; I am ready to depart, as from
 friends and kinsmen, but yet without either reluctancy or compulsion.
 For this also is according to Nature.
+>>>>
 
 
+<<<<
 XXXVII. Use thyself; as often, as thou seest any man do anything,
 presently (if it be possible) to say unto thyself, What is this man's
 end in this his action? But begin this course with thyself first of all,
 and diligently examine thyself concerning whatsoever thou doest.
+>>>>
 
 
+<<<<
 XXXVIII. Remember, that that which sets a man at work, and hath power
 over the affections to draw them either one way, or the other way, is
 not any external thing properly, but that which is hidden within every
@@ -4764,6 +5477,7 @@ inward cause that hath power to move them, and to restrain them, those
 parts are of themselves of no more use unto us, than the shuttle is
 of itself to the weaver, or the pen to the writer, or the whip to the
 coachman.
+>>>>
 
 
 
@@ -4771,6 +5485,7 @@ coachman.
 ## BOOK 11
 
 
+<<<<
 I. The natural properties, and privileges of a reasonable soul are: That
 she seeth herself; that she can order, and compose herself: that
 she makes herself as she will herself: that she reaps her own fruits
@@ -4800,8 +5515,10 @@ also the property of the law: whereby by the way it appears, that sound
 reason and justice comes all to one, and therefore that justice is the
 chief thing, that reasonable creatures ought to propose unto themselves
 as their end.
+>>>>
 
 
+<<<<
 II. A pleasant song or dance; the Pancratiast's exercise, sports that
 thou art wont to be much taken with, thou shalt easily contemn; if
 the harmonious voice thou shalt divide into so many particular sounds
@@ -4815,8 +5532,10 @@ subject to be much affected with, remember presently thus to divide
 it, and by this kind of division, in each particular to attain unto the
 contempt of the whole. This thou must transfer and apply to thy whole
 life also.
+>>>>
 
 
+<<<<
 III. That soul which is ever ready, even now presently (if need be) from
 the body, whether by way of extinction, or dispersion, or continuation
 in another place and estate to be separated, how blessed and happy is
@@ -4825,16 +5544,20 @@ peremptory resolution of the mind, violently and passionately set upon
 Opposition, as Christians are wont; but from a peculiar judgment; with
 discretion and gravity, so that others may be persuaded also and drawn
 to the like example, but without any noise and passionate exclamations.
+>>>>
 
 
+<<<<
 IV. Have I done anything charitably? then am I benefited by it. See
 that this upon all occasions may present itself unto thy mind, and never
 cease to think of it. What is thy profession? to be good. And how should
 this be well brought to pass, but by certain theorems and doctrines;
 some Concerning the nature of the universe, and some Concerning the
 proper and particular constitution of man?
+>>>>
 
 
+<<<<
 V. Tragedies were at first brought in and instituted, to put men in mind
 of worldly chances and casualties: that these things in the ordinary
 course of nature did so happen: that men that were much pleased and
@@ -4859,13 +5582,17 @@ delight and pleasure of curious and excellent imitation? 'It will steal
 away; look to it,' &c. Why, no man denies, but that these also have some
 good things whereof that may be one: but the whole drift and foundation
 of that kind of dramatical poetry, what is it else, but as we have said?
+>>>>
 
 
+<<<<
 VI. How clearly doth it appear unto thee, that no other course of thy
 life could fit a true philosopher's practice better, than this very
 course, that thou art now already in?
+>>>>
 
 
+<<<<
 VII. A branch cut off from the continuity of that which was next unto
 it, must needs be cut off from the whole tree: so a man that is divided
 from another man, is divided from the whole society. A branch is cut off
@@ -4879,8 +5606,10 @@ be reunited and restored again: and however the branch which, once cut
 of afterwards was graffed in, gardeners can tell you is not like that
 which sprouted together at first, and still continued in the unity of
 the body.
+>>>>
 
 
+<<<<
 VIII. To grow together like fellow branches in matter of good
 correspondence and affection; but not in matter of opinions. They that
 shall oppose thee in thy right courses, as it is not in their power to
@@ -4893,8 +5622,10 @@ For to fail in either (either in the one to give over for fear, or in
 the other to forsake thy natural affection towards him, who by nature is
 both thy friend and thy kinsman) is equally base, and much savouring of
 the disposition of a cowardly fugitive soldier.
+>>>>
 
 
+<<<<
 IX. It is not possible that any nature should be inferior unto art,
 since that all arts imitate nature. If this be so; that the most perfect
 and general nature of all natures should in her operation come short of
@@ -4904,24 +5635,30 @@ common nature do the same. Hence is the first ground of justice. From
 justice all other virtues have their existence. For justice cannot be
 preserved, if either we settle our minds and affections upon worldly
 things; or be apt to be deceived, or rash, and inconstant.
+>>>>
 
 
+<<<<
 X. The things themselves (which either to get or to avoid thou art put
 to so much trouble) come not unto thee themselves; but thou in a manner
 goest unto them. Let then thine own judgment and opinion concerning
 those things be at rest; and as for the things themselves, they stand
 still and quiet, without any noise or stir at all; and so shall all
 pursuing and flying cease.
+>>>>
 
 
+<<<<
 XI. Then is the soul as Empedocles doth liken it, like unto a sphere or
 globe, when she is all of one form and figure: when she neither greedily
 stretcheth out herself unto anything, nor basely contracts herself, or
 lies flat and dejected; but shineth all with light, whereby she does see
 and behold the true nature, both that of the universe, and her own in
 particular.
+>>>>
 
 
+<<<<
 XII. Will any contemn me? let him look to that, upon what grounds he
 does it: my care shall be that I may never be found either doing or
 speaking anything that doth truly deserve contempt. Will any hate me?
@@ -4937,14 +5674,18 @@ mayest do that which is proper and suitable to thine own nature? Wilt
 not thou (a man wholly appointed to be both what, and as the common good
 shall require) accept of that which is now seasonable to the nature
 of the universe?
+>>>>
 
 
+<<<<
 XIII. They contemn one another, and yet they seek to please one another:
 and whilest they seek to surpass one another in worldly pomp and
 greatness, they most debase and prostitute themselves in their better
 part one to another.
+>>>>
 
 
+<<<<
 XIV. How rotten and insincere is he, that saith, I am resolved to carry
 myself hereafter towards you with all ingenuity and simplicity. O man,
 what doest thou mean! what needs this profession of thine? the thing
@@ -4960,8 +5701,10 @@ friendship. Above all things, that must be avoided. However true
 goodness, simplicity, and kindness cannot so be hidden, but that as
 we have already said in the very eyes and countenance they will show
 themselves.
+>>>>
 
 
+<<<<
 XV. To live happily is an inward power of the soul, when she is affected
 with indifferency, towards those things that are by their nature
 indifferent. To be thus affected she must consider all worldly objects
@@ -4979,8 +5722,10 @@ they be against nature, seek thou that which is according to thine own
 nature, and whether it be for thy credit or no, use all possible speed
 for the attainment of it: for no man ought to be blamed, for seeking his
 own good and happiness.
+>>>>
 
 
+<<<<
 XVI. Of everything thou must consider from whence it came, of what
 things it doth consist, and into what it will be changed: what will be
 the nature of it, or what it will be like unto when it is changed; and
@@ -5065,8 +5810,10 @@ because it is impossible. Now for a man to brook well enough, that there
 should be wicked men in the world, but not to endure that any
 should transgress against himself, is against all equity, and indeed
 tyrannical.
+>>>>
 
 
+<<<<
 XVII. Four several dispositions or inclinations there be of the mind and
 understanding, which to be aware of, thou must carefully observe: and
 whensoever thou doest discover them, thou must rectify them, saying to
@@ -5077,8 +5824,10 @@ the fourth, thou shalt sharply check and upbraid thyself; for that
 thou doest suffer that more divine part in thee, to become subject and
 obnoxious to that more ignoble part of thy body, and the gross lusts
 and concupiscences thereof.
+>>>>
 
 
+<<<<
 XVIII. What portion soever, either of air or fire there be in thee,
 although by nature it tend upwards, submitting nevertheless to the
 ordinance of the universe, it abides here below in this mixed body. So
@@ -5103,8 +5852,10 @@ also being part of those duties, which as naturally sociable, we are
 bound unto; and without which we cannot happily converse one with
 another: yea and the very ground and fountain indeed of all just
 actions.
+>>>>
 
 
+<<<<
 XIX. He that hath not one and the self-same general end always as long
 as he liveth, cannot possibly be one and the self-same man always. But
 this will not suffice except thou add also what ought to be this general
@@ -5117,59 +5868,81 @@ good: so must the end also that we propose unto ourselves, be common
 and sociable. For he that doth direct all his own private motions and
 purposes to that end, all his actions will be agreeable and uniform; and
 by that means will be still the same man.
+>>>>
 
 
+<<<<
 XX. Remember the fable of the country mouse and the city mouse, and the
 great fright and terror that this was put into.
+>>>>
 
 
+<<<<
 XXI. Socrates was wont to call the common conceits and opinions of men,
 the common bugbears of the world: the proper terror of silly children.
+>>>>
 
 
+<<<<
 XXII. The Lacedaemonians at their public spectacles were wont to appoint
 seats and forms for their strangers in the shadow, they themselves were
 content to sit anywhere.
+>>>>
 
 
+<<<<
 XXIII. What Socrates answered unto Perdiccas, why he did not come unto
 him, Lest of all deaths I should die the worst kind of death, said he:
 that is, not able to requite the good that hath been done unto me.
+>>>>
 
 
+<<<<
 XXIV. In the ancient mystical letters of the Ephesians, there was an
 item, that a man should always have in his mind some one or other of the
 ancient worthies.
+>>>>
 
 
+<<<<
 XXV. The Pythagoreans were wont betimes in the morning the first thing
 they did, to look up unto the heavens, to put themselves in mind of them
 who constantly and invariably did perform their task: as also to put
 themselves in mind of orderliness, or good order, and of purity, and of
 naked simplicity. For no star or planet hath any cover before it.
+>>>>
 
 
+<<<<
 XXVI. How Socrates looked, when he was fain to gird himself with a
 skin, Xanthippe his wife having taken away his clothes, and carried them
 abroad with her, and what he said to his fellows and friends, who were
 ashamed; and out of respect to him, did retire themselves when they saw
 him thus decked.
+>>>>
 
 
+<<<<
 XXVII. In matter of writing or reading thou must needs be taught before
 thou can do either: much more in matter of life. 'For thou art born a
 mere slave, to thy senses and brutish affections;' destitute without
 teaching of all true knowledge and sound reason.
+>>>>
 
 
+<<<<
 XXVIII. 'My heart smiled within me.' 'They will accuse even virtue
 herself; with heinous and opprobrious words.'
+>>>>
 
 
+<<<<
 XXIX. As they that long after figs in winter when they cannot be had; so
 are they that long after children, before they be granted them.
+>>>>
 
 
+<<<<
 XXX. 'As often as a father kisseth his child, he should say secretly
 with himself' (said Epictetus,) 'tomorrow perchance shall he die.' But
 these words be ominous. No words ominous (said he) that signify anything
@@ -5179,8 +5952,10 @@ grapes, or raisins: so many changes and mutations of one thing, not into
 that which was not absolutely, but rather so many several changes and
 mutations, not into that which hath no being at all, but into that which
 is not yet in being.
+>>>>
 
 
+<<<<
 XXXI. 'Of the free will there is no thief or robber:' out of Epictetus;
 Whose is this also: that we should find a certain art and method of
 assenting; and that we should always observe with great care and heed
@@ -5197,6 +5972,7 @@ whose reason is sound and perfect? or of those whose reason is vitiated
 and corrupted? Of those whose reason is sound and perfect. Why then
 labour ye not for such? Because we have them already. What then do ye so
 strive and contend between you?'
+>>>>
 
 
 
@@ -5204,6 +5980,7 @@ strive and contend between you?'
 ## BOOK 12
 
 
+<<<<
 I. Whatsoever thou doest hereafter aspire unto, thou mayest even now
 enjoy and possess, if thou doest not envy thyself thine own happiness.
 And that will be, if thou shalt forget all that is past, and for the
@@ -5226,8 +6003,10 @@ thy beginning; then shalt thou cease to be a stranger in thy country,
 and to wonder at those things that happen daily, as things strange and
 unexpected, and anxiously to depend of divers things that are not in thy
 power.
+>>>>
 
 
+<<<<
 II. God beholds our minds and understandings, bare and naked from these
 material vessels, and outsides, and all earthly dross. For with His
 simple and pure understanding, He pierceth into our inmost and purest
@@ -5257,8 +6036,10 @@ like unto Empedocles his allegorical sphere, 'all round and circular,'
 then shalt thou be truly able to pass the remainder of thy days without
 troubles and distractions; nobly and generously disposed, and in good
 favour and correspondency, with that spirit which is within thee.
+>>>>
 
 
+<<<<
 III. I have often wondered how it should come to pass, that every man
 loving himself best, should more regard other men's opinions concerning
 himself than his own. For if any God or grave master standing by,
@@ -5266,8 +6047,10 @@ should command any of us to think nothing by himself but what he should
 presently speak out; no man were able to endure it, though but for one
 day. Thus do we fear more what our neighbours will think of us, than
 what we ourselves.
+>>>>
 
 
+<<<<
 IV. how come it to pass that the Gods having ordered all other things
 so well and so lovingly, should be overseen in this one only thing, that
 whereas then hath been some very good men that have made many covenants
@@ -5285,14 +6068,18 @@ and contest with God. But were not the Gods both just and good in the
 highest degree, thou durst not thus reason with them. Now if just and
 good, it could not be that in the creation of the world, they should
 either unjustly or unreasonably oversee anything.
+>>>>
 
 
+<<<<
 V. Use thyself even unto those things that thou doest at first despair
 of. For the left hand we see, which for the most part lieth idle because
 not used; yet doth it hold the bridle with more strength than the right,
 because it hath been used unto it.
+>>>>
 
 
+<<<<
 VI. Let these be the objects of thy ordinary meditation: to consider,
 what manner of men both for soul and body we ought to be, whensoever
 death shall surprise us: the shortness of this our mortal life: the
@@ -5310,28 +6097,38 @@ or one that at the same time both fights and wrestles with hands and
 feet, than a gladiator. For this, if he lose his sword that he fights
 with, he is gone: whereas the other hath still his hand free, which he
 may easily turn and manage at his will.
+>>>>
 
 
+<<<<
 VII. All worldly things thou must behold and consider, dividing them
 into matter, form, and reference, or their proper end.
+>>>>
 
 
+<<<<
 VIII. How happy is man in this his power that hath been granted unto
 him: that he needs not do anything but what God shall approve, and
 that he may embrace contentedly, whatsoever God doth send unto him?
+>>>>
 
 
+<<<<
 IX. Whatsoever doth happen in the ordinary course and consequence of
 natural events, neither the Gods, (for it is not possible, that they
 either wittingly or unwittingly should do anything amiss) nor men, (for
 it is through ignorance, and therefore against their wills that they do
 anything amiss) must be accused. None then must be accused.
+>>>>
 
 
+<<<<
 X. How ridiculous and strange is he, that wonders at anything that
 happens in this life in the ordinary course of nature!
+>>>>
 
 
+<<<<
 XI. Either fate, (and that either an absolute necessity, and unavoidable
 decree; or a placable and flexible Providence) or all is a mere
 casual confusion, void of all order and government. If an absolute and
@@ -5347,8 +6144,10 @@ understanding cannot. Or should it be so, that the light of a candle
 indeed is still bright and lightsome until it be put out: and should
 truth, and righteousness, and temperance cease to shine in thee whilest
 thou thyself hast any being?
+>>>>
 
 
+<<<<
 XII. At the conceit and apprehension that such and such a one hath
 sinned, thus reason with thyself; What do I know whether this be a sin
 indeed, as it seems to be? But if it be, what do I know but that he
@@ -5360,19 +6159,25 @@ children to welp nor a horse to neigh, nor anything else that in the
 course of nature is necessary. For what shall he do that hath such an
 habit? If thou therefore beest powerful and eloquent, remedy it if thou
 canst.
+>>>>
 
 
+<<<<
 XIII. If it be not fitting, do it not. If it be not true, speak it not.
 Ever maintain thine own purpose and resolution free from all compulsion
 and necessity.
+>>>>
 
 
+<<<<
 XIV. Of everything that presents itself unto thee, to consider what the
 true nature of it is, and to unfold it, as it were, by dividing it into
 that which is formal: that which is material: the true use or end of it,
 and the just time that it is appointed to last.
+>>>>
 
 
+<<<<
 XV. It is high time for thee, to understand that there is somewhat in
 thee, better and more divine than either thy passions, or thy sensual
 appetites and affections. What is now the object of my mind, is it fear,
@@ -5383,15 +6188,19 @@ more: no more will any, either of those things that now thou seest, or
 of those men that now are living, be any more. For all things are by
 nature appointed soon to be changed, turned, and corrupted, that other
 things might succeed in their room.
+>>>>
 
 
+<<<<
 XVI. Remember that all is but opinion, and all opinion depends of the
 mind. Take thine opinion away, and then as a ship that hath stricken
 in within the arms and mouth of the harbour, a present calm; all things
 safe and steady: a bay, not capable of any storms and tempests: as the
 poet hath it.
+>>>>
 
 
+<<<<
 XVII. No operation whatsoever it he, ceasing for a while, can be truly
 said to suffer any evil, because it is at an end. Neither can he that
 is the author of that operation; for this very respect, because his
@@ -5415,8 +6224,10 @@ mind in these things runs along with the Divine ordinance, and by this
 concurrence of his will and mind with the Divine Providence, is led
 and driven along, as it were by God Himself; may truly be termed and
 esteemed the *OEo~p7poc*, or divinely led and inspired.
+>>>>
 
 
+<<<<
 XVIII. These three things thou must have always in a readiness: first
 concerning thine own actions, whether thou doest nothing either idly,
 or otherwise, than justice and equity do require: and concerning those
@@ -5434,8 +6245,10 @@ are round about it. And that as often as thou shalt behold them, thou
 shalt still see the same: as the same things, so the same shortness of
 continuance of all those things. And, behold, these be the things that
 we are so proud and puffed up for.
+>>>>
 
 
+<<<<
 XIX. Cast away from thee opinion, and thou art safe. And what is it that
 hinders thee from casting of it away? When thou art grieved at anything,
 hast thou forgotten that all things happen according to the nature
@@ -5451,8 +6264,10 @@ things: that all things are but opinion; that no man lives properly, but
 that very instant of time which is now present. And therefore that no
 man whensoever he dieth can properly be said to lose any more, than an
 instant of time.
+>>>>
 
 
+<<<<
 XX. Let thy thoughts ever run upon them, who once for some one thing or
 other, were moved with extraordinary indignation; who were once in
 the highest pitch of either honour, or calamity; or mutual hatred and
@@ -5469,8 +6284,10 @@ that offers itself; justly, and moderately, as one that followeth the
 Gods with all simplicity. For, for a man to be proud and high conceited,
 that he is not proud and high conceited, is of all kind of pride and
 presumption, the most intolerable.
+>>>>
 
 
+<<<<
 XXI. To them that ask thee, Where hast thou seen the Gods, or how
 knowest thou certainly that there be Gods, that thou art so devout in
 their worship? I answer first of all, that even to the very eye, they
@@ -5479,16 +6296,20 @@ seen mine own soul, and yet I respect and honour it. So then for the
 Gods, by the daily experience that I have of their power and providence
 towards myself and others, I know certainly that they are, and therefore
 worship them.
+>>>>
 
 
+<<<<
 XXII. Herein doth consist happiness of life, for a man to know
 thoroughly the true nature of everything; what is the matter, and what
 is the form of it: with all his heart and soul, ever to do that which is
 just, and to speak the truth. What then remaineth but to enjoy thy life
 in a course and coherence of good actions, one upon another immediately
 succeeding, and never interrupted, though for never so little a while?
+>>>>
 
 
+<<<<
 XXIII. There is but one light of the sun, though it be intercepted by
 walls and mountains, and other thousand objects. There is but one common
 substance of the whole world, though it be concluded and restrained into
@@ -5504,8 +6325,10 @@ this the particular nature, that it hath reference to whatsoever is
 of her own kind, and desireth to be united: neither can this common
 affection, or mutual unity and correspondency, be here intercepted or
 divided, or confined to particulars as those other common things are.
+>>>>
 
 
+<<<<
 XXIV. What doest thou desire? To live long. What? To enjoy the
 operations of a sensitive soul; or of the appetitive faculty? or wouldst
 thou grow, and then decrease again? Wouldst thou long be able to talk,
@@ -5515,8 +6338,10 @@ they be but little worth in themselves, proceed on unto the last, which
 is, in all things to follow God and reason. But for a man to grieve that
 by death he shall be deprived of any of these things, is both against
 God and reason.
+>>>>
 
 
+<<<<
 XXV. What a small portion of vast and infinite eternity it is, that is
 allowed unto every one of us, and how soon it vanisheth into the general
 age of the world: of the common substance, and of the common soul also
@@ -5526,14 +6351,18 @@ shalt rightly have considered these things with thyself; fancy not
 anything else in the world any more to be of any weight and moment
 but this, to do that only which thine own nature doth require; and to
 conform thyself to that which the common nature doth afford.
+>>>>
 
 
+<<<<
 XXVI. What is the present estate of my understanding? For herein lieth
 all indeed. As for all other things, they are without the compass of
 mine own will: and if without the compass of my will, then are they as
 dead things unto me, and as it were mere smoke.
+>>>>
 
 
+<<<<
 XXVII. To stir up a man to the contempt of death this among other
 things, is of good power and efficacy, that even they who esteemed
 pleasure to be happiness, and pain misery, did nevertheless many of them
@@ -5557,6 +6386,9 @@ unto him only, who as first he was of thy composition, so is now the
 cause of thy dissolution. As for thyself; thou hast to do with
 neither. Go thy ways then well pleased and contented: for so is He that
 dismisseth thee.
+>>>>
+
+
 
 
 ## END
