@@ -7,7 +7,9 @@ Translated by George Long
 
 ----------------------------------------------------------------------
 
+
 BOOK ONE
+
 
 <<<<
 From my grandfather Verus I learned good morals and the government
@@ -343,9 +345,12 @@ or occupy myself about the investigation of appearances in the heavens;
 for all these things require the help of the gods and fortune.
 >>>>
 
+
 ----------------------------------------------------------------------
 
+
 BOOK TWO
+
 
 <<<<
 Begin the morning by saying to thyself, I shall meet with the busy-body,
@@ -610,9 +615,12 @@ the elements? For it is according to nature, and nothing is evil which
 is according to nature.
 >>>>
 
+
 ----------------------------------------------------------------------
 
+
 BOOK THREE
+
 
 <<<<
 We ought to consider not only that our life is daily wasting away
@@ -929,9 +937,12 @@ to depart, and without any compulsion perfectly reconciled to his
 lot.
 >>>>
 
+
 ----------------------------------------------------------------------
 
+
 BOOK FOUR
+
 
 <<<<
 That which rules within, when it is according to nature, is so affected
@@ -1517,9 +1528,12 @@ such a purpose frees a man from trouble, and warfare, and all artifice
 and ostentatious display.
 >>>>
 
+
 ----------------------------------------------------------------------
 
+
 BOOK FIVE
+
 
 <<<<
 In he morning when thou risest unwillingly, let this thought be present-
@@ -2043,7 +2057,9 @@ means that a man has assigned to himself a good fortune: and a good
 fortune is good disposition of the soul, good emotions, good actions.
 >>>>
 
+
 ----------------------------------------------------------------------
+
 
 BOOK SIX
 
@@ -2679,11 +2695,12 @@ objects, and by what kind of acts? How soon will time cover all things,
 and how many it has covered already.
 >>>>
 
+
 ----------------------------------------------------------------------
+
 
 BOOK SEVEN
 
-####
 
 <<<<
 What is badness? It is that which thou hast often seen. And on the
@@ -2790,6 +2807,10 @@ to reason.
 
 <<<<
 Be thou erect, or be made erect.
+>>>>
+
+
+<<<<
 Just as it is with the members in those bodies which are united in
 one, so it is with rational beings which exist separate, for they
 have been constituted for one co-operation. And the perception of
@@ -2818,7 +2839,7 @@ one does or says, I must be emerald and keep my colour.
 
 
 <<<<
-The ruling faculty does not disturb itself; I mean, does not frighten
+The directing mind does not disturb itself; I mean, does not frighten
 itself or cause itself pain. But if any one else can frighten or pain
 it, let him do so. For the faculty itself will not by its own opinion
 turn itself into such ways. Let the body itself take care, if it can,
@@ -3037,7 +3058,7 @@ For the good is with me, and the just.
 
 
 <<<<
-No joining others in their wailing, no violent emotion.
+No joining others in their wailing, nor violent emotion.
 >>>>
 
 
@@ -3150,10 +3171,7 @@ to do that which is according to its constitution; and all other things
 have been constituted for the sake of rational beings, just as among
 irrational things the inferior for the sake of the superior, but the
 rational for the sake of one another.
->>>>
 
-
-<<<<
 The prime principle then in man's constitution is the social. And
 the second is not to yield to the persuasions of the body, for it
 is the peculiar office of the rational and intelligent motion to circumscribe
@@ -3175,7 +3193,7 @@ is allowed thee.
 
 
 <<<<
-Love that only which happens to thee and is spun with the thread of
+Love only that which happens to thee and is spun with the thread of
 thy destiny. For what is more suitable?
 >>>>
 
@@ -3262,7 +3280,9 @@ more skilfully with the sophists, and passed the night in the cold
 with more endurance, and that when he was bid to arrest Leon of Salamis,
 he considered it more noble to refuse, and that he walked in a swaggering
 way in the streets- though as to this fact one may have great doubts
-if it was true. But we ought to inquire, what kind of a soul it was
+if it was true.
+
+But we ought to inquire, what kind of a soul it was
 that Socrates possessed, and if he was able to be content with being
 just towards men and pious towards the gods, neither idly vexed on
 account of men's villainy, nor yet making himself a slave to any man's
@@ -3357,9 +3377,12 @@ its own movement are governed by no rational principle. If this is
 remembered it will make thee more tranquil in many things.
 >>>>
 
+
 ----------------------------------------------------------------------
 
+
 BOOK EIGHT
+
 
 <<<<
 This reflection also tends to the removal of the desire of empty
@@ -3375,7 +3398,9 @@ as thy nature wills. Observe then what it wills, and let nothing else
 distract thee; for thou hast had experience of many wanderings without
 having found happiness anywhere, not in syllogisms, nor in wealth,
 nor in reputation, nor in enjoyment, nor anywhere. Where is it then?
-In doing what man's nature requires. How then shall a man do this?
+In doing what man's nature requires.
+
+How then shall a man do this?
 If he has principles from which come his affects and his acts. What
 principles? Those which relate to good and bad: the belief that there
 is nothing good for man, which does not make him just, temperate,
@@ -3566,10 +3591,7 @@ be said of a light also.
 Turn it (the body) inside out, and see what kind of thing it is; and
 when it has grown old, what kind of thing it becomes, and when it
 is diseased.
->>>>
 
-
-<<<<
 Short-lived are both the praiser and the praised, and the rememberer
 and the remembered: and all this in a nook of this part of the world;
 and not even here do all agree, no, not any one with himself: and
@@ -3580,10 +3602,6 @@ the whole earth too is a point.
 <<<<
 Attend to the matter which is before thee, whether it is an opinion
 or an act or a word.
->>>>
-
-
-<<<<
 Thou sufferest this justly: for thou choosest rather to become good
 to-morrow than to be good to-day.
 >>>>
@@ -3724,7 +3742,9 @@ Do not disturb thyself by thinking of the whole of thy life. Let not
 thy thoughts at once embrace all the various troubles which thou mayest
 expect to befall thee: but on every occasion ask thyself, What is
 there in this which is intolerable and past bearing? For thou wilt
-be ashamed to confess. In the next place remember that neither the
+be ashamed to make any such confession.
+
+In the next place remember that neither the
 future nor the past pains thee, but only the present. But this is
 reduced to a very little, if thou only circumscribest it, and chidest
 thy mind, if it is unable to hold out against even this.
@@ -3770,7 +3790,9 @@ Hindrance to the movements (desires) is equally an evil to the animal
 nature. And something else also is equally an impediment and an evil
 to the constitution of plants. So then that which is a hindrance to
 the intelligence is an evil to the intelligent nature. Apply all these
-things then to thyself. Does pain or sensuous pleasure affect thee?
+things then to thyself.
+
+Does pain or sensuous pleasure affect thee?
 The senses will look to that.- Has any obstacle opposed thee in thy
 efforts towards an object? if indeed thou wast making this effort
 absolutely (unconditionally, or without any reservation), certainly
@@ -3844,7 +3866,7 @@ obstacles.
 
 
 <<<<
-Remember that the ruling faculty is invincible, when self-collected
+Remember that your directing mind is invincible, when self-collected
 it is satisfied with itself, if it does nothing which it does not
 choose to do, even if it resist from mere obstinacy. What then will
 it be when it forms a judgement about anything aided by reason and
@@ -3874,7 +3896,9 @@ Turn aside from them.- This is enough. Do not add, And why were such
 things made in the world? For thou wilt be ridiculed by a man who
 is acquainted with nature, as thou wouldst be ridiculed by a carpenter
 and shoemaker if thou didst find fault because thou seest in their
-workshop shavings and cuttings from the things which they make. And
+workshop shavings and cuttings from the things which they make.
+
+And
 yet they have places into which they can throw these shavings and
 cuttings, and the universal nature has no external space; but the
 wondrous part of her art is that though she has circumscribed herself,
@@ -3892,10 +3916,7 @@ Neither in thy actions be sluggish nor in thy conversation without
 method, nor wandering in thy thoughts, nor let there be in thy soul
 inward contention nor external effusion, nor in life be so busy as
 to have no leisure.
->>>>
 
-
-<<<<
 Suppose that men kill thee, cut thee in pieces, curse thee. What then
 can these things do to prevent thy mind from remaining pure, wise,
 sober, just? For instance, if a man should stand by a limpid pure
@@ -3964,8 +3985,10 @@ a thing a ray is, if he looks at the sun's light passing through a
 narrow opening into a darkened room, for it is extended in a right
 line, and as it were is divided when it meets with any solid body
 which stands in the way and intercepts the air beyond; but there the
-light remains fixed and does not glide or fall off. Such then ought
-to be the out-pouring and diffusion of the understanding, and it should
+light remains fixed and does not glide or fall off.
+
+Such then ought
+to be the out-pouring and diffusion of the universal mind, and it should
 in no way be an effusion, but an extension, and it should make no
 violent or impetuous collision with the obstacles which are in its
 way; nor yet fall down, but be fixed and enlighten that which receives
@@ -3997,13 +4020,17 @@ moves straight onward not the less, and to its object.
 
 
 <<<<
-Enter into every man's ruling faculty; and also let every other man
+Enter into every man's directing mind; and also let every other man
 enter into thine.
 >>>>
 
+
 ----------------------------------------------------------------------
 
+
 BOOK NINE
+
+####
 
 <<<<
 He ho acts unjustly acts impiously. For since the universal nature
@@ -4531,9 +4558,12 @@ common interest, he has acted conformably to his constitution, and
 he gets what is his own.
 >>>>
 
+
 ----------------------------------------------------------------------
 
+
 BOOK TEN
+
 
 <<<<
 Wilt thou, then, my soul, never be good and simple and one and naked,
@@ -5068,9 +5098,12 @@ the cause which moves and checks them than in the weaver's shuttle,
 and the writer's pen and the driver's whip.
 >>>>
 
+
 ----------------------------------------------------------------------
 
+
 BOOK ELEVEN
+
 
 <<<<
 These are the properties of the rational soul: it sees itself, analyses
@@ -5592,9 +5625,12 @@ Why then do you not seek for them?- Because we have them.- Why then
 do you fight and quarrel?
 >>>>
 
+
 ----------------------------------------------------------------------
 
+
 BOOK TWELVE
+
 
 <<<<
 All those things at which thou wishest to arrive by a circuitous
