@@ -1,15 +1,12 @@
-﻿The Meditations
-By Marcus Aurelius
-
-https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus
-
-Translated by George Long
-
-
-----------------------------------------------------------------------
+﻿%% The Meditations
+%% By Marcus Aurelius
+%%
+%% https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus
+%%
+%% Translated by George Long
 
 
-BOOK ONE
+########  BOOK ONE  ########
 
 
 <<<<
@@ -347,10 +344,7 @@ for all these things require the help of the gods and fortune.
 >>>>
 
 
-----------------------------------------------------------------------
-
-
-BOOK TWO
+########  BOOK TWO  ########
 
 
 <<<<
@@ -617,10 +611,7 @@ is according to nature.
 >>>>
 
 
-----------------------------------------------------------------------
-
-
-BOOK THREE
+########  BOOK THREE  ########
 
 
 <<<<
@@ -939,10 +930,7 @@ lot.
 >>>>
 
 
-----------------------------------------------------------------------
-
-
-BOOK FOUR
+########  BOOK FOUR  ########
 
 
 <<<<
@@ -1530,10 +1518,7 @@ and ostentatious display.
 >>>>
 
 
-----------------------------------------------------------------------
-
-
-BOOK FIVE
+########  BOOK FIVE  ########
 
 
 <<<<
@@ -2059,10 +2044,7 @@ fortune is good disposition of the soul, good emotions, good actions.
 >>>>
 
 
-----------------------------------------------------------------------
-
-
-BOOK SIX
+########  BOOK SIX  ########
 
 
 <<<<
@@ -2697,10 +2679,7 @@ and how many it has covered already.
 >>>>
 
 
-----------------------------------------------------------------------
-
-
-BOOK SEVEN
+########  BOOK SEVEN  ########
 
 
 <<<<
@@ -3378,10 +3357,7 @@ remembered it will make thee more tranquil in many things.
 >>>>
 
 
-----------------------------------------------------------------------
-
-
-BOOK EIGHT
+########  BOOK EIGHT  ########
 
 
 <<<<
@@ -4025,10 +4001,7 @@ enter into thine.
 >>>>
 
 
-----------------------------------------------------------------------
-
-
-BOOK NINE
+########  BOOK NINE  ########
 
 
 <<<<
@@ -4583,10 +4556,7 @@ he gets what is his own.
 >>>>
 
 
-----------------------------------------------------------------------
-
-
-BOOK TEN
+########  BOOK TEN  ########
 
 
 <<<<
@@ -5146,10 +5116,7 @@ and the writer's pen and the driver's whip.
 >>>>
 
 
-----------------------------------------------------------------------
-
-
-BOOK ELEVEN
+########  BOOK ELEVEN  ########
 
 
 <<<<
@@ -5662,10 +5629,7 @@ do you fight and quarrel?
 >>>>
 
 
-----------------------------------------------------------------------
-
-
-BOOK TWELVE
+########  BOOK TWELVE  ########
 
 
 <<<<
@@ -6078,6 +6042,3 @@ drama; for what shall be a complete drama is determined by him who was once the
 cause of its composition, and now of its dissolution: but thou art the cause of
 neither. Depart then satisfied, for he also who releases thee is satisfied.
 >>>>
-
-
-----------------------------------------------------------------------
