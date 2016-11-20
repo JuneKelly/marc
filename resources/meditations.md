@@ -3621,7 +3621,7 @@ by doing it to others.
 
 ### 75
 
-The nature of the An moved to make the universe. But now either everything
+The nature of the Whole moved to make the universe. But now either everything
 that takes place comes by way of consequence or continuity; or even
 the chief things towards which the ruling power of the universe directs
 its own movement are governed by no rational principle. If this is
