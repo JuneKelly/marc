@@ -32,7 +32,7 @@ $link-hover-decoration: underline !default;
 body {
   min-height: 400px;
   background-color: $background-color;
-  /* background: url("/images/crossword.png") repeat; */
+  background: url("/images/crossword.png") repeat;
 }
 
 .text-center {
@@ -40,7 +40,7 @@ body {
 }
 
 #main-content {
-  font-size: 1.1em;
+  /* font-size: 1.1em; */
   max-width: 800px;
 }
 

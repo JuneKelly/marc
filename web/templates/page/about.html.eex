@@ -1,6 +1,26 @@
-<h1>About</h1>
-<p>
+<div class="row">
+  <div class="col-md-12">
+    <h1>About</h1>
+    <p>
 
-  This site uses the <a href="http://www.gutenberg.org/ebooks/2680">Project Gutenberg</a> translation of Meditations, under the terms of the <a href="http://www.gutenberg.org/wiki/Gutenberg:The_Project_Gutenberg_License">Project Gutenberg License</a>.
+      This site uses a modified version of Meditations based on the <a href="https://en.wikisource.org/wiki/The_Thoughts_of_the_Emperor_Marcus_Aurelius_Antoninus">George Long</a> translation.
 
-</p>
+    </p>
+    <p>
+      Changes include:
+
+      <ul>
+        <li>Altered chapter boundaries</li>
+        <li>Clearer use of quote-marks to denote a change of voice</li>
+        <li>Minor translation corrections (such as changing "Reverence" to "Revere", where appropriate)</li>
+        <li>Use the term "Directing Mind" rather than "Guiding Faculty"</li>
+      </ul>
+
+    </p>
+
+    <p>
+      The full text is available in Markdown format <a href="#">here</a>.
+    </p>
+
+  </div>
+</div>

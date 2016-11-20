@@ -1,7 +1,7 @@
 defmodule Marc.Meditations do
   use GenServer
 
-  @data_file "resources/meditations_flat.json"
+  @data_file     "resources/meditations_flat.json"
 
   # Public API
 
