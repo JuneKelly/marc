@@ -48,6 +48,11 @@ nav#top-nav {
   border-radius: 0;
   padding-left: 0px;
   padding-right: 0px;
+  .navbar-nav {
+    .nav-item {
+      display: inline-block;
+    }
+  }
 }
 
 #page-content {
