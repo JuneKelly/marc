@@ -6365,10 +6365,14 @@ which thou doest do nothing either inconsiderately or otherwise than
 as justice herself would act; but with respect to what may happen
 to thee from without, consider that it happens either by chance or
 according to Providence, and thou must neither blame chance nor accuse
-Providence. Second, consider what every being is from the seed to
+Providence.
+
+Second, consider what every being is from the seed to
 the time of its receiving a soul, and from the reception of a soul
 to the giving back of the same, and of what things every being is
-compounded and into what things it is resolved. Third, if thou shouldst
+compounded and into what things it is resolved.
+
+Third, if thou shouldst
 suddenly be raised up above the earth, and shouldst look down on human
 things, and observe the variety of them how great it is, and at the
 same time also shouldst see at a glance how great is the number of
@@ -6411,6 +6415,7 @@ Constantly bring to thy recollection those who have complained greatly
 about anything, those who have been most conspicuous by the greatest
 fame or misfortunes or enmities or fortunes of any kind: then think
 where are they all now? Smoke and ash and a tale, or not even a tale.
+
 And let there be present to thy mind also everything of this sort,
 how Fabius Catullinus lived in the country, and Lucius Lupus in his
 gardens, and Stertinius at Baiae, and Tiberius at Capreae and Velius
@@ -6513,7 +6518,9 @@ difference does it make to thee whether for five years or fifty? for that
 which is conformable to the laws is just for all. Where is the hardship then, if
 no tyrant nor yet an unjust judge sends thee away from the state, but nature,
 who brought thee into it? the same as if a praetor who has employed an actor
-dismisses him from the stage. "But I have not finished the five acts, but
+dismisses him from the stage.
+
+"But I have not finished the five acts, but
 only three of them." Thou sayest well, but in life the three acts are the whole
 drama; for what shall be a complete drama is determined by him who was once the
 cause of its composition, and now of its dissolution: but thou art the cause of

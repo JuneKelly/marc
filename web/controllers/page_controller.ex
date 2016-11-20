@@ -2,7 +2,7 @@ defmodule Marc.PageController do
   use Marc.Web, :controller
 
   def index(conn, _params) do
-    chapter_view = Marc.Meditations.random_chapter
+    chapter_view = Marc.Meditations.random_chapter()
     render conn, "index.html", chapter_view: chapter_view
   end
 
@@ -18,7 +18,16 @@ defmodule Marc.PageController do
             render conn, "chapter.html", chapter_view: chapter_view
         end
     end
+  end
 
+  def meditations_full(conn, _params) do
+    markdown_text = Marc.MeditationsMarkdown.get_markdown()
+    render conn, "meditations_full.html", markdown_text: markdown_text
+  end
+
+  def meditations_markdown(conn, _params) do
+    markdown = Marc.MeditationsMarkdown.get_markdown()
+    text conn, markdown
   end
 
   def about(conn, _params) do

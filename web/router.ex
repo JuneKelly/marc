@@ -19,6 +19,9 @@ defmodule Marc.Router do
     get "/", PageController, :index
     get "/c/:index", PageController, :chapter
 
+    get "/meditations", PageController, :meditations_full
+    get "/meditations.md", PageController, :meditations_markdown
+
     get "/about", PageController, :about
     get "/status", PageController, :status
   end

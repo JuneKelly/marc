@@ -69,15 +69,27 @@ nav#top-nav {
   .meditation-text {
     font-family: Georgia, serif;
     /* text-align: center; */
+    font-size: 1.1em;
     padding-left: 8px;
     padding-right: 8px;
     p {
-      text-indent: 32px;
+      text-indent: 24px;
     }
   }
   .meditation-actions {
-    margin-top: 16px;
-    padding-top: 8px;
+    margin-top: 24px;
+    padding-top: 16px;
+    padding-bottom: 16px;
     border-top: 1px solid $gray-lighter;
+  }
+}
+
+#meditations-full {
+  h1, h2, h3, h4 {
+    font-size: 1.4em;
+    margin-top: 24px;
+  }
+  p {
+    margin-bottom: 24px;
   }
 }
