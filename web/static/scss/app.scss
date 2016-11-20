@@ -90,8 +90,16 @@ nav#top-nav {
 }
 
 #meditations-full {
-  h1, h2, h3, h4 {
+  h1 {
     font-size: 1.4em;
+  }
+  h2 {
+    font-size: 1.3em;
+  }
+  h3 {
+    font-size: 1em;
+  }
+  h1, h2, h3, h4 {
     margin-top: 24px;
   }
   p {
