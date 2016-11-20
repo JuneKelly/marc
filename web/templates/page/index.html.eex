@@ -3,6 +3,15 @@
 
     <%= render "_chapter_view.html", chapter_view: @chapter_view %>
 
+    <br />
+    <br />
+    <br />
+    <div class="row">
+      <div class="col-md-8 offset-md-2">
+         While on campaign between 170 and 180 CE, Aurelius wrote the Meditations. TODO: more.
+      </div>
+    </div>
+
   </div>
 </div>
 </p>
