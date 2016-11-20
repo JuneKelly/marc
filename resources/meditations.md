@@ -3715,7 +3715,9 @@ and a rational nature goes on its way well, when in its thoughts it
 assents to nothing false or uncertain, and when it directs its movements
 to social acts only, and when it confines its desires and aversions
 to the things which are in its power, and when it is satisfied with
-everything that is assigned to it by the common nature. For of this
+everything that is assigned to it by the common nature.
+
+For of this
 common nature every particular nature is a part, as the nature of
 the leaf is a part of the nature of the plant; except that in the
 plant the nature of the leaf is part of a nature which has not perception
@@ -3723,6 +3725,7 @@ or reason, and is subject to be impeded; but the nature of man is
 part of a nature which is not subject to impediments, and is intelligent
 and just, since it gives to everything in equal portions and according
 to its worth, times, substance, cause (form), activity, and incident.
+
 But examine, not to discover that any one thing compared with any
 other single thing is equal in all respects, but by taking all the
 parts together of one thing and comparing them with all the parts
