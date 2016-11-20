@@ -15,6 +15,7 @@ config :marc, Marc.Endpoint,
                     cd: Path.expand("../", __DIR__)]]
 
 config :marc, :site_name, "Marc (Dev)"
+config :marc, :base_url, "http://localhost:4000"
 
 # Watch static and templates for browser reloading.
 config :marc, Marc.Endpoint,

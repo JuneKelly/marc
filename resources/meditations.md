@@ -1,5 +1,7 @@
 # Meditations - Marcus Aurelius
 
+%% LINK
+
 
 ## Book 1
 
@@ -6520,8 +6522,8 @@ no tyrant nor yet an unjust judge sends thee away from the state, but nature,
 who brought thee into it? the same as if a praetor who has employed an actor
 dismisses him from the stage.
 
-"But I have not finished the five acts, but
-only three of them." Thou sayest well, but in life the three acts are the whole
+"But I have not finished the five acts, but only three of them." Thou sayest well,
+but in life the three acts are the whole
 drama; for what shall be a complete drama is determined by him who was once the
 cause of its composition, and now of its dissolution: but thou art the cause of
 neither. Depart then satisfied, for he also who releases thee is satisfied.
