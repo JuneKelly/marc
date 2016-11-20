@@ -45,14 +45,14 @@ def main():
         print("  Book {}, chapters: {}".format(i+1, len(c)))
 
     print(">> writing to output files")
-    json_data = json.dumps(result, indent=2)
+    json_data = json.dumps(result, indent=2, sort_keys=True)
     with open(MEDITATIONS_JSON_PATH, 'w') as outfile:
         outfile.write(json_data)
 
     flattened = []
     for r in result:
         flattened.extend(r)
-    flattened_json_data = json.dumps(flattened, indent=2)
+    flattened_json_data = json.dumps(flattened, indent=2, sort_keys=True)
     with open(MEDITATIONS_FLAT_JSON_PATH, 'w') as outfile:
         outfile.write(flattened_json_data)
 
