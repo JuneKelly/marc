@@ -1,6 +1,5 @@
 # Meditations - Marcus Aurelius
 
-%% LINK
 
 
 ## Book 1

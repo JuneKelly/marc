@@ -22,17 +22,12 @@ defmodule Marc.PageController do
 
   def meditations_full(conn, _params) do
     markdown_text = Marc.MeditationsMarkdown.get_markdown()
-    |> String.replace("%% LINK", "", global: false)
     render conn, "meditations_full.html", markdown_text: markdown_text
   end
 
   def meditations_markdown(conn, _params) do
     markdown_text = Marc.MeditationsMarkdown.get_markdown()
-    |> String.replace(
-      "%% LINK",
-      "From #{Application.get_env(:marc, :base_url)}/meditations",
-      global: false
-    )
+    <> "\n--------\n\nFrom #{Application.get_env(:marc, :base_url, '')}\n"
     text conn, markdown_text
   end
 

@@ -56,7 +56,7 @@ def main():
     with open(MEDITATIONS_FLAT_JSON_PATH, 'w') as outfile:
         outfile.write(flattened_json_data)
 
-    markdown = """# Meditations - Marcus Aurelius\n\n%% LINK\n\n"""
+    markdown = """# Meditations - Marcus Aurelius\n\n\n"""
 
     for i, book in enumerate(result):
         markdown = markdown + "\n## Book {}\n\n".format(i+1)
