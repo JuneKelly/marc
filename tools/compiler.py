@@ -10,6 +10,7 @@ MEDITATIONS_TEXT_PATH = "./resources/meditations.txt"
 
 # output
 MEDITATIONS_JSON_PATH = "./resources/meditations.json"
+MEDITATIONS_FLAT_JSON_PATH = "./resources/meditations_flat.json"
 MEDITATIONS_MARKDOWN_PATH = "./resources/meditations.md"
 
 
@@ -45,9 +46,15 @@ def main():
 
     print(">> writing to output files")
     json_data = json.dumps(result, indent=2)
-
     with open(MEDITATIONS_JSON_PATH, 'w') as outfile:
         outfile.write(json_data)
+
+    flattened = []
+    for r in result:
+        flattened.extend(r)
+    flattened_json_data = json.dumps(flattened, indent=2)
+    with open(MEDITATIONS_FLAT_JSON_PATH, 'w') as outfile:
+        outfile.write(flattened_json_data)
 
 
 if __name__ == '__main__':

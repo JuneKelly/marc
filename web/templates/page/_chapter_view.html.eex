@@ -4,12 +4,12 @@
   <div class="col-md-8 offset-md-2">
 
     <div class="meditation-title">
-      Book <%= @chapter_view.chapter.book %>
+      <%= @chapter_view.chapter.book %> - <%= @chapter_view.chapter.chapter %>
     </div>
 
     <div class="meditation-text">
       <div class="meditation-text-inner">
-        <%= @chapter_view.chapter.text %>
+        <%= raw(Earmark.to_html(@chapter_view.chapter.text)) %>
       </div>
     </div>
 
