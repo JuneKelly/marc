@@ -4,7 +4,17 @@
   <div class="col-md-8 offset-md-2">
 
     <div class="meditation-title">
+      <%= if @chapter_view.previous do %>
+        <a href="/c/<%= @chapter_view.previous %>" title="Previous" class="float-xs-leftxx">←&nbsp;</a>
+      <% else %>
+        &nbsp;&nbsp;&nbsp;
+      <% end %>
       <%= @chapter_view.chapter.book %> - <%= @chapter_view.chapter.chapter %>
+      <%= if @chapter_view.next do %>
+        <a href="/c/<%= @chapter_view.next %>" title="Next" class="float-xs-rightxx">&nbsp;→</a>
+      <% else %>
+        &nbsp;&nbsp;&nbsp;
+      <% end %>
     </div>
 
     <div class="meditation-text">
