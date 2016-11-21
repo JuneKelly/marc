@@ -2,11 +2,16 @@ defmodule Marc.Meditations do
   use GenServer
 
   @data_file     "resources/meditations_flat.json"
+  @short_chapter_max_length 900
 
   # Public API
 
   def random_chapter do
     GenServer.call __MODULE__, :random
+  end
+
+  def random_short_chapter do
+    GenServer.call __MODULE__, :random_short_chapter
   end
 
   def get_chapter_by_index(index) do
@@ -26,7 +31,13 @@ defmodule Marc.Meditations do
   def init([data_file]) do
     {:ok, raw} = File.read data_file
     {:ok, chapters} = Poison.decode raw, keys: :atoms
+    short_chapter_indices = chapters
+      |> Enum.with_index()
+      |> Enum.map(    fn({s, i}) -> {String.length(s.text), i} end )
+      |> Enum.filter( fn({sl, _}) -> sl < @short_chapter_max_length end )
+      |> Enum.map(    fn({_, i}) -> i end )
     {:ok, %{chapters: chapters,
+            short_chapter_indices: short_chapter_indices,
             count: Enum.count(chapters)}}
   end
 
@@ -39,6 +50,13 @@ defmodule Marc.Meditations do
     index = :rand.uniform(count - 1)
     random_chapter = get_chapter_view(state, index)
     {:reply, random_chapter, state}
+  end
+
+  def handle_call(:random_short_chapter, _from, state) do
+    %{short_chapter_indices: short_chapter_indices} = state
+    index = Enum.random(short_chapter_indices)
+    random_short_chapter = get_chapter_view(state, index)
+    {:reply, random_short_chapter, state}
   end
 
   # Private Helpers

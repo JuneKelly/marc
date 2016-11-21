@@ -2,7 +2,7 @@ defmodule Marc.PageController do
   use Marc.Web, :controller
 
   def index(conn, _params) do
-    chapter_view = Marc.Meditations.random_chapter()
+    chapter_view = Marc.Meditations.random_short_chapter()
     render conn, "index.html", chapter_view: chapter_view
   end
 
