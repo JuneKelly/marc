@@ -529,13 +529,17 @@ but in time the remembrance of them; what is the nature of all sensible
 things, and particularly those which attract with the bait of pleasure
 or terrify by pain, or are noised abroad by vapoury fame; how worthless,
 and contemptible, and sordid, and perishable, and dead they are- all
-this it is the part of the intellectual faculty to observe. To observe
+this it is the part of the intellectual faculty to observe.
+
+To observe
 too who these are whose opinions and voices give reputation; what
 death is, and the fact that, if a man looks at it in itself, and by
 the abstractive power of reflection resolves into their parts all
 the things which present themselves to the imagination in it, he will
 then consider it to be nothing else than an operation of nature; and
-if any one is afraid of an operation of nature, he is a child. This,
+if any one is afraid of an operation of nature, he is a child.
+
+This,
 however, is not only an operation of nature, but it is also a thing
 which conduces to the purposes of nature. To observe too how man comes
 near to the deity, and by what part of him, and when this part of
@@ -568,7 +572,9 @@ other life than this which he now lives, nor lives any other than
 this which he now loses. The longest and shortest are thus brought
 to the same. For the present is the same to all, though that which
 perishes is not the same; and so that which is lost appears to be
-a mere moment. For a man cannot lose either the past or the future:
+a mere moment.
+
+For a man cannot lose either the past or the future:
 for what a man has not, how can any one take this from him? These
 two things then thou must bear in mind; the one, that all things from
 eternity are of like forms and come round in a circle, and that it
@@ -651,7 +657,9 @@ and a smaller part of it is left, but another thing also must be taken
 into the account, that if a man should live longer, it is quite uncertain
 whether the understanding will still continue sufficient for the comprehension
 of things, and retain the power of contemplation which strives to
-acquire the knowledge of the divine and the human. For if he shall
+acquire the knowledge of the divine and the human.
+
+For if he shall
 begin to fall into dotage, perspiration and nutrition and imagination
 and appetite, and whatever else there is of the kind, will not fail;
 but the power of making use of ourselves, and filling up the measure
@@ -741,7 +749,9 @@ is simple and benevolent, and such as befits a social animal, and
 one that cares not for thoughts about pleasure or sensual enjoyments
 at all, nor has any rivalry or envy and suspicion, or anything else
 for which thou wouldst blush if thou shouldst say that thou hadst
-it in thy mind. For the man who is such and no longer delays being
+it in thy mind.
+
+For the man who is such and no longer delays being
 among the number of the best, is like a priest and minister of the
 gods, using too the deity which is planted within him, which makes
 the man uncontaminated by pleasure, unharmed by any pain, untouched
@@ -795,7 +805,9 @@ mind's self-satisfaction in the things which it enables thee to do
 according to right reason, and in the condition that is assigned to
 thee without thy own choice; if, I say, thou seest anything better
 than this, turn to it with all thy soul, and enjoy that which thou
-hast found to be the best. But if nothing appears to be better than
+hast found to be the best.
+
+But if nothing appears to be better than
 the deity which is planted in thee, which has subjected to itself
 all thy appetites, and carefully examines all the impressions, and,
 as Socrates said, has detached itself from the persuasions of sense,
@@ -826,7 +838,9 @@ to break thy promise, to lose thy self-respect, to hate any man, to
 suspect, to curse, to act the hypocrite, to desire anything which
 needs walls and curtains: for he who has preferred to everything intelligence
 and daemon and the worship of its excellence, acts no tragic part,
-does not groan, will not need either solitude or much company; and,
+does not groan, will not need either solitude or much company;
+
+and,
 what is chief of all, he will live without either pursuing or flying
 from death; but whether for a longer or a shorter time he shall have
 the soul inclosed in the body, he cares not at all: for even if he
@@ -880,7 +894,9 @@ Make for thyself a definition or description of the thing which is
 presented to thee, so as to see distinctly what kind of a thing it
 is in its substance, in its nudity, in its complete entirety, and
 tell thyself its proper name, and the names of the things of which
-it has been compounded, and into which it will be resolved. For nothing
+it has been compounded, and into which it will be resolved.
+
+For nothing
 is so productive of elevation of mind as to be able to examine methodically
 and truly every object which is presented to thee in life, and always
 to look at things so as to see at the same time what kind of universe
@@ -1010,7 +1026,9 @@ For nowhere either with more quiet or more freedom from trouble does
 a man retire than into his own soul, particularly when he has within
 him such thoughts that by looking into them he is immediately in perfect
 tranquility; and I affirm that tranquility is nothing else than the
-good ordering of the mind. Constantly then give to thyself this retreat,
+good ordering of the mind.
+
+Constantly then give to thyself this retreat,
 and renew thyself; and let thy principles be brief and fundamental,
 which, as soon as thou shalt recur to them, will be sufficient to
 cleanse the soul completely, and to send thee back free from all discontent
@@ -1023,7 +1041,9 @@ of justice, and that men do wrong involuntarily; and consider how
 many already, after mutual enmity, suspicion, hatred, and fighting,
 have been stretched dead, reduced to ashes; and be quiet at last.
 But perhaps thou art dissatisfied with that which is assigned to thee
-out of the universe. Recall to thy recollection this alternative;
+out of the universe.
+
+Recall to thy recollection this alternative;
 either there is providence or atoms, fortuitous concurrence of things;
 or remember the arguments by which it has been proved that the world
 is a kind of political community, and be quiet at last. But perhaps
@@ -1595,7 +1615,9 @@ to pass in review those who have tenaciously stuck to life. What more
 then have they gained than those who have died early? Certainly they
 lie in their tombs somewhere at last, Cadicianus, Fabius, Julianus,
 Lepidus, or any one else like them, who have carried out many to be
-buried, and then were carried out themselves. Altogether the interval
+buried, and then were carried out themselves.
+
+Altogether the interval
 is small between birth and death; and consider with how much trouble,
 and in company with what sort of people and in what a feeble body
 this interval is laboriously passed. Do not then consider life a thing
@@ -1690,7 +1712,9 @@ not formed for them by nature. Show those qualities then which are
 altogether in thy power, sincerity, gravity, endurance of labour,
 aversion to pleasure, contentment with thy portion and with few things,
 benevolence, frankness, no love of superfluity, freedom from trifling
-magnanimity. Dost thou not see how many qualities thou art immediately
+magnanimity.
+
+Dost thou not see how many qualities thou art immediately
 able to exhibit, in which there is no excuse of natural incapacity
 and unfitness, and yet thou still remainest voluntarily below the
 mark? Or art thou compelled through being defectively furnished by
@@ -1861,7 +1885,9 @@ he would not after having first conceived these endure to listen to
 anything which should not be in harmony with what is really good.
 But if a man has first conceived as good the things which appear to
 the many to be good, he will listen and readily receive as very applicable
-that which was said by the comic writer. Thus even the many perceive
+that which was said by the comic writer.
+
+Thus even the many perceive
 the difference. For were it not so, this saying would not offend and
 would not be rejected in the first case, while we receive it when
 it is said of wealth, and of the means which further luxury and fame,
@@ -1924,7 +1950,9 @@ Such as are thy habitual thoughts, such also will be the character
 of thy mind; for the soul is dyed by the thoughts. Dye it then with
 a continuous series of such thoughts as these: for instance, that
 where a man can live, there he can also live well. But he must live
-in a palace; - well then, he can also live well in a palace. And again,
+in a palace; - well then, he can also live well in a palace.
+
+And again,
 consider that for whatever purpose each thing has been constituted,
 for this it has been constituted, and towards this it is carried;
 and its end is in that towards which it is carried; and where the
@@ -1971,7 +1999,9 @@ present themselves to it.
 In one respect man is the nearest thing to me, so far as I must do
 good to men and endure them. But so far as some men make themselves
 obstacles to my proper acts, man becomes to me one of the things which
-are indifferent, no less than the sun or wind or a wild beast. Now
+are indifferent, no less than the sun or wind or a wild beast.
+
+Now
 it is true that these may impede my action, but they are no impediments
 to my affects and disposition, which have the power of acting conditionally
 and changing: for the mind converts and changes every hindrance to
@@ -2134,7 +2164,9 @@ receive false impressions; and the poor soul itself is an exhalation
 from blood. But to have good repute amidst such a world as this is
 an empty thing. Why then dost thou not wait in tranquility for thy
 end, whether it is extinction or removal to another state? And until
-that time comes, what is sufficient? Why, what else than to venerate
+that time comes, what is sufficient?
+
+Why, what else than to venerate
 the gods and bless them, and to do good to men, and to practise tolerance
 and self-restraint; but as to everything which is beyond the limits
 of the poor flesh and breath, to remember that this is neither thine
