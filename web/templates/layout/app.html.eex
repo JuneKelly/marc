@@ -22,17 +22,27 @@
 
         <nav id="top-nav" class="navbar navbar-light">
           <a id="site-name" href="/" class="navbar-brand"><%= site_name %></a>
-          <ul class="nav navbar-nav float-xs-right">
+
+          <ul class="nav navbar-nav float-xs-left">
+
             <li class="nav-item">
-              <a href="/random" class="nav-link">Random Chapter</a>
+              <a href="/random" class="nav-item nav-link">Random Chapter</a>
             </li>
+
             <li class="nav-item">
-              <a href="/meditations" class="nav-link">Full Text</a>
+              <a href="/meditations" class="nav-item nav-link">Full Text</a>
             </li>
-            <li class="nav-item">
-              <a href="/about" class="nav-link">About</a>
-            </li>
+
           </ul>
+
+          <ul class="nav navbar-nav float-xs-right">
+
+            <li class="nav-item">
+              <a href="/about" class="nav-item nav-link">About</a>
+            </li>
+
+          </ul>
+
         </nav>
 
         <div id="page-content" class="row">
