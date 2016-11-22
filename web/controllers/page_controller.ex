@@ -6,6 +6,11 @@ defmodule Marc.PageController do
     render conn, "index.html", chapter_view: chapter_view
   end
 
+  def random_chapter(conn, _params) do
+    chapter_view = Marc.Meditations.random_chapter()
+    render conn, "random_chapter.html", chapter_view: chapter_view
+  end
+
   def chapter(conn, %{"chapter_number" => num}) do
     case Integer.parse(num) do
       :error ->

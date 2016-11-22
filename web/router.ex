@@ -17,6 +17,7 @@ defmodule Marc.Router do
     pipe_through :browser # Use the default browser stack
 
     get "/", PageController, :index
+    get "/random", PageController, :random_chapter
     get "/c/:chapter_number", PageController, :chapter
 
     get "/meditations", PageController, :meditations_full

@@ -24,6 +24,9 @@
           <a id="site-name" href="/" class="navbar-brand"><%= site_name %></a>
           <ul class="nav navbar-nav float-xs-right">
             <li class="nav-item">
+              <a href="/random" class="nav-link">Random Chapter</a>
+            </li>
+            <li class="nav-item">
               <a href="/meditations" class="nav-link">Full Text</a>
             </li>
             <li class="nav-item">
@@ -33,7 +36,7 @@
         </nav>
 
         <div id="page-content" class="row">
-          <div class="col-md-12">
+          <div class="col-md-10 offset-md-1">
 
             <%= render @view_module, @view_template, assigns %>
 

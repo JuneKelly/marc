@@ -61,7 +61,7 @@ def main():
     for i, book in enumerate(result):
         markdown = markdown + "\n## Book {}\n\n".format(i+1)
         for j, chapter in enumerate(book):
-            markdown = markdown + "\n### {}\n\n{}\n\n\n".format(j+1, chapter['text'])
+            markdown = markdown + "\n### {}-{}\n\n{}\n\n\n".format(i+1, j+1, chapter['text'])
 
     with open(MEDITATIONS_MARKDOWN_PATH, 'w') as outfile:
         outfile.write(markdown)

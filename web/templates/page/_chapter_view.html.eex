@@ -1,7 +1,7 @@
 <%# params: chapter_view %>
 
 <div class="row meditation-view">
-  <div class="col-md-8 offset-md-2">
+  <div class="col-md-10 offset-md-1">
 
     <div class="meditation-title">
       <%= if @chapter_view.previous do %>

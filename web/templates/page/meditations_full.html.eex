@@ -6,7 +6,7 @@
     </p>
 
     <div id="meditations-full">
-      <%= raw(Earmark.to_html(@markdown_text)) %>
+      <%= raw(Earmark.to_html(@markdown_text, %Earmark.Options{gfm: true})) %>
     </div>
 
   </div>
