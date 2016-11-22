@@ -4,11 +4,26 @@
     <%= render "_chapter_view.html", chapter_view: @chapter_view %>
 
     <br />
-    <br />
-    <br />
+
     <div class="row">
-      <div class="col-md-8 offset-md-2">
-         While on campaign between 170 and 180 CE, Aurelius wrote the Meditations. TODO: more.
+      <div class="col-md-12">
+
+        <p>
+          <a href="https://en.wikipedia.org/wiki/Marcus_Aurelius">Marcus Aurelius</a>
+          served as Roman Emperor between 161 and 180 CE.
+        </p>
+
+        <p>
+          While on campaign between 170 and 180 CE, Aurelius wrote the Meditations,
+          one of the most important works of ancient Stoic philosophy.
+        </p>
+
+        <p>
+          <a href="/meditations">Read the full text of Meditations</a>
+          <br />
+          <a href="/random">Read a random chapter</a>
+        </p>
+
       </div>
     </div>
 
