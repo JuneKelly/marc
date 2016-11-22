@@ -23,14 +23,7 @@
       </div>
     </div>
 
-    <div class="meditation-actions">
-      <%#= if @chapter_view.previous do %>
-      <!-- <a href="/c/<%= @chapter_view.previous %>" class="float-xs-left">Previous</a> -->
-      <%# end %>
-      <%#= if @chapter_view.next do %>
-      <!-- <a href="/c/<%= @chapter_view.next %>" class="float-xs-right">Next</a> -->
-      <%# end %>
-    </div>
+    <hr />
 
   </div>
 </div>
