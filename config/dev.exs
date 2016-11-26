@@ -16,6 +16,7 @@ config :marc, Marc.Endpoint,
 
 config :marc, :site_name, "Marc (Dev)"
 config :marc, :base_url, "http://localhost:4000"
+# config :marc, :ga_tracking_id, "ID_HERE"
 
 # Watch static and templates for browser reloading.
 config :marc, Marc.Endpoint,
