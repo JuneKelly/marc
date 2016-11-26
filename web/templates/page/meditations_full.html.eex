@@ -19,7 +19,7 @@
 
     <p class="text-smaller">
       <a class="float-xs-right" href="/meditations.md">Markdown Format</a>
-      <!-- <br /> -->
+      <br />
     </p>
 
     <div id="meditations-full">
