@@ -1,5 +1,10 @@
 # Marc
 
+"Meditations", by Marcus Aurelius, in web-app form.
+
+
+# Get Started
+
 To start your Phoenix app:
 
   * Install dependencies with `mix deps.get`
