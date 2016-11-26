@@ -31,7 +31,7 @@ defmodule Marc.PageController do
   end
 
   def meditations_markdown(conn, _params) do
-    markdown_text = Marc.MeditationsMarkdown.get_markdown()
+    markdown_text = Marc.MeditationsMarkdown.get_clean_markdown()
     <> "\n--------\n\nFrom #{Application.get_env(:marc, :base_url, '')}\n"
     text conn, markdown_text
   end

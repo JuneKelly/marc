@@ -56,12 +56,16 @@ def main():
     with open(MEDITATIONS_FLAT_JSON_PATH, 'w') as outfile:
         outfile.write(flattened_json_data)
 
-    markdown = """# Meditations - Marcus Aurelius\n\n\n"""
+    markdown = """# Meditations - Marcus Aurelius\n\n"""
 
     for i, book in enumerate(result):
-        markdown = markdown + "\n## Book {}\n\n".format(i+1)
+        markdown = markdown + "\n## Book {n}\n{{: id='book-{n}'}}\n\n".format(n=i+1)
         for j, chapter in enumerate(book):
-            markdown = markdown + "\n### {}-{}\n\n{}\n\n\n".format(i+1, j+1, chapter['text'])
+            sign = "{}-{}".format(i+1, j+1)
+            markdown = markdown + "\n### {sign}\n{{: id='{sign}'}}\n\n{text}\n\n".format(
+                sign=sign,
+                text=chapter['text']
+            )
 
     with open(MEDITATIONS_MARKDOWN_PATH, 'w') as outfile:
         outfile.write(markdown)
