@@ -68,6 +68,9 @@ nav#top-nav {
   }
   .meditation-text {
     font-family: Georgia, serif;
+    & .larger {
+      font-size: 1.2em;
+    }
     /* text-align: center; */
     font-size: 1.1em;
     padding-left: 8px;

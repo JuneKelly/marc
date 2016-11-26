@@ -18,7 +18,10 @@
     </div>
 
     <div class="meditation-text">
-      <div class="meditation-text-inner">
+      <div class="meditation-text-inner
+                  <%= if String.length(@chapter_view.chapter.text) < 140 do %>
+                    larger
+                  <% end %>">
         <%= raw(Earmark.to_html(@chapter_view.chapter.text)) %>
       </div>
     </div>
