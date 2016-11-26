@@ -25,6 +25,9 @@
 
           <ul class="nav navbar-nav float-xs-left">
 
+          </ul>
+
+          <ul class="nav navbar-nav float-xs-right">
             <li class="nav-item">
               <a href="/random" class="nav-item nav-link">Random Chapter</a>
             </li>
@@ -33,9 +36,6 @@
               <a href="/meditations" class="nav-item nav-link">Full Text</a>
             </li>
 
-          </ul>
-
-          <ul class="nav navbar-nav float-xs-right">
 
             <li class="nav-item">
               <a href="/about" class="nav-item nav-link">About</a>
