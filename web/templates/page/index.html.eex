@@ -3,6 +3,7 @@
 
     <%= render "_chapter_view.html", chapter_view: @chapter_view %>
 
+    <hr class="narrow-rule" />
     <br />
 
     <div class="row">

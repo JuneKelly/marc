@@ -37,10 +37,10 @@
             </li>
 
 
-            <li class="nav-item">
-              <a href="/about" class="nav-item nav-link">About</a>
-            </li>
-
+            <!-- <li class="nav-item">
+                 <a href="/about" class="nav-item nav-link">About</a>
+                 </li>
+               -->
           </ul>
 
         </nav>
@@ -50,11 +50,24 @@
 
             <%= render @view_module, @view_template, assigns %>
 
+            <footer id="main-footer">
+              <div class="row">
+                <div class="col-md-12">
+                  <div class="float-xs-right">
+                    <small>
+                      <a href="/about">About</a>
+                    </small>
+                  </div>
+                </div>
+              </div>
+            </footer>
+
           </div>
         </div>
+
+
       </div>
 
-      <footer id="main-footer"></footer>
     </div>
     <script src="<%= static_path(@conn, "/js/app.js") %>"></script>
 
