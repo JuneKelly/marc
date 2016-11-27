@@ -3,6 +3,9 @@
 "Meditations", by Marcus Aurelius, in web-app form.
 
 
+See it in action: [http://directingmind.com](http://directingmind.com).
+
+
 # Get Started
 
 To start your Phoenix app:
