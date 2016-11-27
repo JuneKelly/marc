@@ -13,7 +13,7 @@ use Mix.Config
 # which you typically run after static files are built.
 config :marc, Marc.Endpoint,
   http: [port: 8888],
-  url: [host: "directingmind.com"],
+  url: [host: "directingmind.com", port: 80],
   root: ".",
   cache_static_manifest: "priv/static/manifest.json",
   secret_key_base: System.get_env("MARC_SECRET_KEY_BASE"),
