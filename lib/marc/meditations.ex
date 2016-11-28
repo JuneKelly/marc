@@ -66,6 +66,7 @@ defmodule Marc.Meditations do
         nil
       chapter ->
         %{chapter: chapter,
+          chapter_number: chapter_num,
           previous: if(chapter_num == 1,         do: nil, else: chapter_num - 1),
           next:     if(chapter_num == count, do: nil, else: chapter_num + 1)}
     end

@@ -39,12 +39,19 @@ body {
   text-align: center;
 }
 
+.text-default {
+  color: $body-color;
+  &:hover {
+    color: $body-color;
+  }
+}
+
 .text-smaller {
   font-size: 0.9em;
 }
 
 hr.narrow-rule {
-  width: 30%;
+  width: 40%;
 }
 
 #main-content {

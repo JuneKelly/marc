@@ -9,7 +9,9 @@
       <% else %>
         &nbsp;&nbsp;&nbsp;
       <% end %>
-      <%= @chapter_view.chapter.book %> - <%= @chapter_view.chapter.chapter %>
+      <a class="text-default" href="/c/<%= @chapter_view.chapter_number %>">
+        <%= @chapter_view.chapter.book %> - <%= @chapter_view.chapter.chapter %>
+      </a>
       <%= if @chapter_view.next do %>
         <a href="/c/<%= @chapter_view.next %>" title="Next" class="float-xs-rightxx">&nbsp;→</a>
       <% else %>
