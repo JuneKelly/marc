@@ -5,17 +5,21 @@
 
     <div class="meditation-title">
       <%= if @chapter_view.previous do %>
-        <a href="/c/<%= @chapter_view.previous %>" title="Previous" class="float-xs-leftxx">←&nbsp;</a>
+        <a href="/c/<%= @chapter_view.previous %>"
+           title="Previous"
+           class="chapter-link-arrow">←&nbsp;</a>
       <% else %>
-        &nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;
       <% end %>
       <a class="text-default" href="/c/<%= @chapter_view.chapter_number %>">
         <%= @chapter_view.chapter.book %> - <%= @chapter_view.chapter.chapter %>
       </a>
       <%= if @chapter_view.next do %>
-        <a href="/c/<%= @chapter_view.next %>" title="Next" class="float-xs-rightxx">&nbsp;→</a>
+        <a href="/c/<%= @chapter_view.next %>"
+           title="Next"
+           class="chapter-link-arrow">&nbsp;→</a>
       <% else %>
-        &nbsp;&nbsp;&nbsp;
+        &nbsp;&nbsp;&nbsp;&nbsp;
       <% end %>
     </div>
 
