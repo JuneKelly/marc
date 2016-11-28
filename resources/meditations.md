@@ -6182,7 +6182,7 @@ Much more is this so in life.
 {: id='11-34'}
 
 To look for the fig in winter is a madman's act: such is he who looks
-for his child when it is no longer allowed."
+for his child when it is no longer allowed.
 
 
 ### 11-35
