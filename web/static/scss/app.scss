@@ -99,6 +99,15 @@ nav#top-nav {
     p {
       /* text-indent: 24px; */
     }
+    blockquote {
+      border-left: 2px solid $gray-light;
+      font-style: italic;
+      padding-left: 24px;
+      p {
+        margin-bottom: 0px;
+      }
+      padding-bottom: 8px;
+    }
   }
   /* .meditation-actions { */
   /*   margin-top: 24px; */

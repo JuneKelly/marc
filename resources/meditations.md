@@ -1785,7 +1785,9 @@ do not fear that for this reason thou wilt omit any social act.
 A prayer of the Athenians:
 
 > Rain, rain, O dear Zeus,
+>
 > down on the ploughed
+>
 > fields of the Athenians and on the plains.
 
 In truth we ought not
@@ -5589,6 +5591,7 @@ is sufficient, and any common precept, to remind him that he should
 be free from grief and fear. For example-
 
 > Leaves, some the wind scatters on the ground-
+>
 > So is the generations of men.
 
 Leaves, also, are thy children; and leaves,
@@ -5764,12 +5767,14 @@ Cithaeron." And, indeed, some things are said well by the dramatic
 writers, of which kind is the following especially:
 
 > Me and my children if the gods neglect,
+>
 > This has its reason too. And again
 
 We must not chale and fret at that which happens. And:
 
-> Life's harvest reap like the wheat's fruitful ear. And other things
-> of the same kind.
+> Life's harvest reap like the wheat's fruitful ear.
+>
+> And other things of the same kind.
 
 After tragedy the old comedy was introduced, which had a magisterial
 freedom of speech, and by its very plainness of speaking was useful
