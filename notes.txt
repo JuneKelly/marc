@@ -36,3 +36,15 @@ Required data structures:
 - json string of original structure
 - pre-rendered html for the full listing?
   - or just a view
+
+
+Todo:
+
+- only output original json from compiler
+- on startup:
+  - load json
+  - flatten
+  - generate markdown
+  - store all these in process
+- full view:
+  - use original json with a html view
