@@ -16,6 +16,8 @@ Views:
 - frontpage, short random (/)
 - true random (/random)
 - single chapter (/book/x/chapter/y)
+  - each chapter needs a reference to the next and previos chapters,
+    to provide linking
 - full listing (/meditations)
   - with appropriate anchors
   - with links to single chapter views
