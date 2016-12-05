@@ -1,7 +1,7 @@
 defmodule Marc.Meditations do
   use GenServer
 
-  @data_file     "resources/meditations_flat.json"
+  @data_file     "resources/meditations.json"
   @short_chapter_max_length 900
 
   # Public API
@@ -30,7 +30,8 @@ defmodule Marc.Meditations do
 
   def init([data_file]) do
     {:ok, raw} = File.read data_file
-    {:ok, chapters} = Poison.decode raw, keys: :atoms
+    {:ok, meditations_data} = Poison.decode raw, keys: :atoms
+    chapters = Meditations.Data.flatten(meditations_data)
     short_chapter_numbers = chapters
       |> Enum.with_index()
       |> Enum.map(    fn({s, i}) -> {String.length(s.text), i} end )

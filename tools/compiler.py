@@ -10,8 +10,6 @@ MEDITATIONS_TEXT_PATH = "./resources/meditations.txt"
 
 # output
 MEDITATIONS_JSON_PATH = "./resources/meditations.json"
-MEDITATIONS_FLAT_JSON_PATH = "./resources/meditations_flat.json"
-MEDITATIONS_MARKDOWN_PATH = "./resources/meditations.md"
 
 
 def main():
@@ -48,27 +46,6 @@ def main():
     json_data = json.dumps(result, indent=2, sort_keys=True)
     with open(MEDITATIONS_JSON_PATH, 'w') as outfile:
         outfile.write(json_data)
-
-    flattened = []
-    for r in result:
-        flattened.extend(r)
-    flattened_json_data = json.dumps(flattened, indent=2, sort_keys=True)
-    with open(MEDITATIONS_FLAT_JSON_PATH, 'w') as outfile:
-        outfile.write(flattened_json_data)
-
-    markdown = """# Meditations - Marcus Aurelius\n\n"""
-
-    for i, book in enumerate(result):
-        markdown = markdown + "\n## Book {n}\n{{: id='book-{n}'}}\n\n".format(n=i+1)
-        for j, chapter in enumerate(book):
-            sign = "{}-{}".format(i+1, j+1)
-            markdown = markdown + "\n### {sign}\n{{: id='{sign}'}}\n\n{text}\n\n".format(
-                sign=sign,
-                text=chapter['text']
-            )
-
-    with open(MEDITATIONS_MARKDOWN_PATH, 'w') as outfile:
-        outfile.write(markdown)
 
 
 if __name__ == '__main__':
