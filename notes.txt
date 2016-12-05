@@ -1,0 +1,36 @@
+Meditations:
+
+
+By index in a flat list
+
+  /c/:n
+
+
+By book and chapter
+
+  /book/:b/chapter/:c
+
+
+Views:
+
+- frontpage, short random (/)
+- true random (/random)
+- single chapter (/book/x/chapter/y)
+- full listing (/meditations)
+  - with appropriate anchors
+  - with links to single chapter views
+  - good navigation
+    - back to top
+    - fold out chapter links
+- markdown (/meditations.md)
+- json (/meditations.json)
+
+
+Required data structures:
+
+- ordinary nested json arrays (book/chapter)
+- flat array
+- markdown
+- json string of original structure
+- pre-rendered html for the full listing?
+  - or just a view
