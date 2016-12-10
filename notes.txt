@@ -40,11 +40,11 @@ Required data structures:
 
 Todo:
 
-- only output original json from compiler
+- only output original json from compiler (done)
 - on startup:
-  - load json
-  - flatten
-  - generate markdown
+  - load json          (done)
+  - flatten            (done)
+  - generate markdown  (done)
   - store all these in process
 - full view:
   - use original json with a html view
