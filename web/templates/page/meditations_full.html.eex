@@ -1,18 +1,9 @@
 <div class="row">
   <div class="col-md-3">
     <p class="text-smaller">
-      <a href="#book-1">Book One</a> <br />
-      <a href="#book-2">Book Two</a> <br />
-      <a href="#book-3">Book Three</a> <br />
-      <a href="#book-4">Book Four</a> <br />
-      <a href="#book-5">Book Five</a> <br />
-      <a href="#book-6">Book Six</a> <br />
-      <a href="#book-7">Book Seven</a> <br />
-      <a href="#book-8">Book Eight</a> <br />
-      <a href="#book-9">Book Nine</a> <br />
-      <a href="#book-10">Book Ten</a> <br />
-      <a href="#book-11">Book Eleven</a> <br />
-      <a href="#book-12">Book Twelve</a> <br />
+      <%= for idx <- 1..Enum.count(@meditations) do %>
+        <a href="#book-<%= idx %>">Book <%= idx %></a> <br />
+      <% end %>
     </p>
     <hr />
     <p class="text-smaller">
