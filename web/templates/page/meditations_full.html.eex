@@ -14,15 +14,15 @@
       <a href="#book-11">Book Eleven</a> <br />
       <a href="#book-12">Book Twelve</a> <br />
     </p>
-  </div>
-  <div class="col-md-9">
-
+    <hr />
     <p class="text-smaller">
-      <a class="float-xs-right" href="/meditations.md">Markdown Format</a>
+      <a class="" href="/meditations.md">Markdown Format</a>
       <br />
-      <a class="float-xs-right" href="/meditations.json">JSON Format</a>
+      <a class="" href="/meditations.json">JSON Format</a>
       <br />
     </p>
+  </div>
+  <div class="col-md-9">
 
     <div id="meditations-full">
       <%= raw(Earmark.to_html(@markdown_text, %Earmark.Options{gfm: true})) %>
