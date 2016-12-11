@@ -22,6 +22,14 @@ defmodule Marc.Meditations do
     GenServer.call __MODULE__, :meditations
   end
 
+  def markdown() do
+    GenServer.call __MODULE__, :markdown
+  end
+
+  def json() do
+    GenServer.call __MODULE__, :json
+  end
+
   # GenServer API
 
   def start_link do
@@ -60,6 +68,14 @@ defmodule Marc.Meditations do
 
   def handle_call(:meditations, _from, %{meditations: meditations}=state) do
     {:reply, meditations, state}
+  end
+
+  def handle_call(:markdown, _from, %{markdown_text: markdown_text}=state) do
+    {:reply, markdown_text, state}
+  end
+
+  def handle_call(:json, _from, %{raw_json: raw_json}=state) do
+    {:reply, raw_json, state}
   end
 
   def handle_call(:random, _from, state) do

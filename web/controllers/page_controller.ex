@@ -31,9 +31,15 @@ defmodule Marc.PageController do
   end
 
   def meditations_markdown(conn, _params) do
-    markdown_text = Marc.MeditationsMarkdown.get_clean_markdown()
-    <> "\n--------\n\nFrom #{Application.get_env(:marc, :base_url, '')}\n"
+    markdown_text = Marc.Meditations.markdown()
     text conn, markdown_text
+  end
+
+  def meditations_json(conn, _params) do
+    json_data = Marc.Meditations.json
+    conn
+    |> put_resp_content_type("application/json")
+    |> send_resp(200, json_data)
   end
 
   def about(conn, _params) do

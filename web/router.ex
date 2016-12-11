@@ -22,6 +22,7 @@ defmodule Marc.Router do
 
     get "/meditations", PageController, :meditations_full
     get "/meditations.md", PageController, :meditations_markdown
+    get "/meditations.json", PageController, :meditations_json
 
     get "/about", PageController, :about
     get "/status", PageController, :status

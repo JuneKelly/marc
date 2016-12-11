@@ -20,6 +20,8 @@
     <p class="text-smaller">
       <a class="float-xs-right" href="/meditations.md">Markdown Format</a>
       <br />
+      <a class="float-xs-right" href="/meditations.json">JSON Format</a>
+      <br />
     </p>
 
     <div id="meditations-full">
