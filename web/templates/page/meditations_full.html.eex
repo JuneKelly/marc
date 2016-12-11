@@ -35,7 +35,7 @@
             <p>
               <h3 id="<%= c.book %>-<%= c.chapter %>">
                 <a class="text-default" href="/book/<%= c.book %>/chapter/<%= c.chapter %>">
-                <%= c.book %>-<%= c.chapter %>
+                  <%= c.book %>-<%= c.chapter %>
                 </a>
               </h3>
               <%= raw(Earmark.to_html(c.text, %Earmark.Options{gfm: true})) %>
