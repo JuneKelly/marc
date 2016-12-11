@@ -25,7 +25,24 @@
   <div class="col-md-9">
 
     <div id="meditations-full">
-      <%= raw(Earmark.to_html(@markdown_text, %Earmark.Options{gfm: true})) %>
+      <h1>Marcus Aurelius - Meditations</h1>
+      <%= for {book, book_index} <- Enum.with_index(@meditations) do %>
+        <div>
+          <h2 id="book-<%= book_index+1 %>">
+            Book <%= book_index+1 %>
+          </h2>
+          <%= for c <- book do %>
+            <p>
+              <h3 id="<%= c.book %>-<%= c.chapter %>">
+                <a class="text-default" href="/book/<%= c.book %>/chapter/<%= c.chapter %>">
+                <%= c.book %>-<%= c.chapter %>
+                </a>
+              </h3>
+              <%= raw(Earmark.to_html(c.text, %Earmark.Options{gfm: true})) %>
+            </p>
+          <% end %>
+        </div>
+      <% end %>
     </div>
 
   </div>

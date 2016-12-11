@@ -27,7 +27,10 @@ defmodule Marc.PageController do
 
   def meditations_full(conn, _params) do
     markdown_text = Marc.MeditationsMarkdown.get_markdown()
-    render conn, "meditations_full.html", markdown_text: markdown_text
+    meditations = Marc.Meditations.meditations()
+    render conn, "meditations_full.html", %{
+      meditations: meditations
+    }
   end
 
   def meditations_markdown(conn, _params) do
