@@ -48,5 +48,7 @@ Todo:
   - store all these in process
 - json view (done)
 - markdown view (done)
-- full view:
-  - use original json with a html view
+- full view: (done)
+  - use original json with a html view (done)
+
+- book/chapter url
