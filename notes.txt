@@ -46,5 +46,7 @@ Todo:
   - flatten            (done)
   - generate markdown  (done)
   - store all these in process
+- json view (done)
+- markdown view (done)
 - full view:
   - use original json with a html view
