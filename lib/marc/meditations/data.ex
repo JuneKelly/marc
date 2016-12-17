@@ -22,5 +22,4 @@ defmodule Meditations.Data do
     ) <> "\n\n--------"
   end
 
-
 end
